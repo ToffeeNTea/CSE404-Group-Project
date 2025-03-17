@@ -1,0 +1,1179 @@
+geonameid,name,asciiname,alternatenames,latitude,longitude,featureclass,featurecode,cc,cc2,admin1,admin2,admin3,admin4,population,dem,timezone,moddate
+4046222,Caney Creek,Caney Creek,,33.09207,-94.54965,H,STM,US,,TX,067,,,0,76,90,America/Chicago,2006-01-15
+4046223,Bavar Creek,Bavar Creek,,34.08788,-86.92361,H,STM,US,,AL,043,,,0,170,173,America/Chicago,2006-01-15
+4046225,Arrington School,Arrington School,,32.15292,-86.1708,S,SCH,US,,AL,101,,,0,103,116,America/Chicago,2006-01-15
+4046226,Cat Knob,Cat Knob,,31.39572,-98.99838,T,MT,US,,TX,411,,,0,421,421,America/Chicago,2006-01-15
+4046227,Baxley Branch,Baxley Branch,,33.01762,-86.30359,H,STM,US,,AL,037,,,0,186,200,America/Chicago,2010-02-20
+4046228,Cedar Hill State Park Trail,Cedar Hill State Park Trail,,32.59152,-96.99306,R,TRL,US,,TX,113,,,0,193,200,America/Chicago,2006-01-15
+4046229,Baxley Hill,Baxley Hill,,32.51569,-85.80996,T,MT,US,,AL,123,,,0,148,144,America/Chicago,2006-01-15
+4046230,Cherokee,Cherokee,,30.98239,-98.70754,P,PPL,US,,TX,411,,,0,456,459,America/Chicago,2006-01-15
+4046231,Baxter,Baxter,,33.69039,-88.23614,S,,US,,AL,075,,,0,89,90,America/Chicago,2010-10-12
+4046232,Chisholm Trail Park,Chisholm Trail Park,,32.14237,-97.47835,L,PRK,US,,TX,217,,,0,167,172,America/Chicago,2006-01-15
+4046233,Baxter School (historical),Baxter School (historical),,31.73961,-85.5755,S,SCH,US,,AL,005,,,0,148,159,America/Chicago,2010-02-19
+4046234,Church of Christ Glascow,Church of Christ Glascow,,28.87693,-97.00082,S,CH,US,,TX,469,,,0,37,40,America/Chicago,2007-02-14
+4046235,Baxters,Baxters,"Barters,Baxters",31.75766,-85.58105,P,PPL,US,,AL,005,,,0,157,159,America/Chicago,2006-01-15
+4046236,Church of God,Church of God,,33.64066,-96.58582,S,CH,US,,TX,181,,,0,234,237,America/Chicago,2007-02-14
+4046237,Bay Branch,Bay Branch,,30.63019,-87.81777,H,STM,US,,AL,003,,,0,23,43,America/Chicago,2010-02-14
+4046238,City Cemetery,City Cemetery,,31.11768,-97.7053,S,CMTY,US,,TX,027,,,0,250,250,America/Chicago,2006-01-15
+4046239,Baxley Mountain,Baxley Mountain,,33.01401,-86.30859,T,MT,US,,AL,037,,,0,252,250,America/Chicago,2006-01-15
+4046240,City Park,City Park,,28.97358,-98.48279,L,PRK,US,,TX,013,,,0,108,112,America/Chicago,2006-01-15
+4046241,Bay Branch,Bay Branch,,31.20823,-86.4744,H,STM,US,,AL,039,,,0,55,66,America/Chicago,2006-01-15
+4046242,College Hill,College Hill,"College Hill,Collegehill",33.41567,-94.61298,P,PPL,US,,TX,037,,,0,114,116,America/Chicago,2006-01-15
+4046243,Bay Branch,Bay Branch,,31.07184,-86.75135,H,STM,US,,AL,053,,,0,51,69,America/Chicago,2006-01-15
+4046244,Collins Elementary SPARK Park Trail,Collins Elementary SPARK Park Trail,,29.71217,-95.55494,R,TRL,US,,TX,201,,,0,23,26,America/Chicago,2006-01-15
+4046245,Bay Branch,Bay Branch,,31.00768,-87.16164,H,STM,US,,AL,053,,,0,14,24,America/Chicago,2010-09-05
+4046246,Concrete,Concrete,,29.2383,-97.29304,P,PPL,US,,TX,123,,,0,82,86,America/Chicago,2006-01-15
+4046247,Bay Branch,Bay Branch,,30.52186,-88.38862,H,STM,US,,AL,097,,,0,5,18,America/Chicago,2006-01-15
+4046248,Cooke Elementary School,Cooke Elementary School,"Cooke Elementary School,Cooke School",32.35903,-97.40696,S,SCH,US,,TX,251,,,0,249,253,America/Chicago,2006-01-15
+4046249,Bay Grass Creek,Bay Grass Creek,,30.71741,-88.01055,H,STM,US,,AL,003,,,0,3,0,America/Chicago,2006-01-15
+4046250,Corinth Church,Corinth Church,,30.22438,-96.90331,S,CH,US,,TX,287,,,0,127,134,America/Chicago,2006-01-15
+4046251,Bay Landing Strip,Bay Landing Strip,"Bay Field,Bay Landing Strip",34.71259,-87.2653,S,AIRP,US,,AL,079,,,0,173,171,America/Chicago,2006-01-15
+4046252,Cost,Cost,,29.43746,-97.52888,P,PPL,US,,TX,177,,,0,113,117,America/Chicago,2006-01-15
+4046253,Bay Log Creek,Bay Log Creek,,31.37184,-85.44188,H,STM,US,,AL,045,,,0,70,81,America/Chicago,2006-01-15
+4046254,Cox Lane Park,Cox Lane Park,,32.89624,-96.85,L,PRK,US,,TX,113,,,0,159,165,America/Chicago,2006-01-15
+4046255,Bay Minette,Bay Minette,"Bay Minette,Bay Minette Station,Bej Minet,Bej-Minett,bay mynyty,be minetta,bei mi nei te,by mynt,Бей-Минетт,Бей-Мінетт,Беј Минет,باي مينيتي,بی مینت,बे मिनेत्त,贝米内特",30.88296,-87.77305,P,PPLA2,US,,AL,003,,,9118,82,85,America/Chicago,2022-08-06
+4046256,Crain Park,Crain Park,,29.69634,-95.54439,L,PRK,US,,TX,201,,,0,21,23,America/Chicago,2010-09-05
+4046257,Bay Minette Basin,Bay Minette Basin,"Bay Minette Basin,Biminet Bay",30.7113,-87.91833,U,BSNU,US,,AL,003,,,0,6,0,America/Chicago,2010-02-14
+4046258,Crockett School,Crockett School,,32.74208,-96.99834,S,SCH,US,,TX,113,,,0,158,165,America/Chicago,2006-01-15
+4046259,Bay Minette Cemetery,Bay Minette Cemetery,,30.89074,-87.75971,S,CMTY,US,,AL,003,,,0,81,78,America/Chicago,2006-01-15
+4046260,Dean Porter Park,Dean Porter Park,,25.91619,-97.49526,L,PRK,US,,TX,061,,,0,11,13,America/Chicago,2006-01-15
+4046261,Bay Minette Church of Christ,Bay Minette Church of Christ,"Bay Minette Church of Christ,First Christian Church",30.88102,-87.77527,S,CH,US,,AL,003,,,0,81,85,America/Chicago,2007-02-14
+4046262,Doe Ponds,Doe Ponds,,30.45354,-94.5777,H,LK,US,,TX,199,,,0,40,49,America/Chicago,2006-01-15
+4046263,Bay Minette Creek,Bay Minette Creek,"Bay Minette Creek,Minet Creek,Minette Bayou,Minette Creek",30.69658,-87.90972,H,STM,US,,AL,003,,,0,4,0,America/Chicago,2006-01-15
+4046264,Doty,Doty,,30.16021,-93.94601,P,PPL,US,,TX,361,,,0,6,11,America/Chicago,2006-01-15
+4046265,Bay Minette Area Vocational School,Bay Minette Area Vocational School,,30.86213,-87.78333,S,SCH,US,,AL,003,,,0,82,84,America/Chicago,2006-01-15
+4046266,Duncan Lake Dam,Duncan Lake Dam,,32.39515,-94.84355,S,DAM,US,,TX,183,,,0,91,102,America/Chicago,2006-01-15
+4046267,North Baldwin Infirmary,North Baldwin Infirmary,"Bay Minette Infirmary,North Baldwin Infirmary",30.90346,-87.78481,S,HSP,US,,AL,003,,,0,82,86,America/Chicago,2011-12-11
+4046268,Dyckman Park,Dyckman Park,,32.82874,-96.7925,L,PRK,US,,TX,113,,,0,162,170,America/Chicago,2006-01-15
+4046269,Bay Minette Middle School,Bay Minette Middle School,,30.86269,-87.78471,S,SCH,US,,AL,003,,,0,81,85,America/Chicago,2006-01-15
+4046270,East Fresnos Colonia,East Fresnos Colonia,,26.13424,-97.47026,P,PPL,US,,TX,061,,,0,4,8,America/Chicago,2006-01-15
+4046271,Bay Minette Municipal Airport,Bay Minette Municipal Airport,"Aeroportul Municipal Bay Minette,Bay Minette Municipal Airport,Bej-Minett,aerodrome de Bay Minette Muni,aérodrome de Bay Minette Muni,frwdgah shhrstan by mynt,Бей-Минетт,Фурудгоҳи шаҳристон бе мен,فرودگاه شهرستان بی مینت",30.87157,-87.81987,S,AIRP,US,,AL,003,,,0,76,78,America/Chicago,2014-10-07
+4046272,East Texas Medical Center,East Texas Medical Center,"East Texas Medical Center,East Texas Medical Center - Trinity",30.95668,-95.38116,S,HSP,US,,TX,455,,,0,77,82,America/Chicago,2013-03-08
+4046273,Bay Minette Plaza Shopping Center,Bay Minette Plaza Shopping Center,,30.87991,-87.78333,S,MALL,US,,AL,003,,,0,82,87,America/Chicago,2006-01-15
+4046274,Edna,Edna,"Edna,Ednaville,Macaroni Station,adna,adna  tgzas,Една,إدنا,ادنا، تگزاس",28.97859,-96.64609,P,PPLA2,US,,TX,239,,,5792,20,24,America/Chicago,2017-03-09
+4046275,Bay Minette Post Office,Bay Minette Post Office,,30.8788,-87.77388,S,PO,US,,AL,003,,,0,81,82,America/Chicago,2006-01-15
+4046276,El Monte Colonia,El Monte Colonia,"El Monte Colonia,El Monte Subdivision Colonia",26.33035,-97.98639,P,PPL,US,,TX,215,,,0,21,24,America/Chicago,2010-02-20
+4046277,Bay Minette Public Library,Bay Minette Public Library,,30.88214,-87.77666,S,LIBR,US,,AL,003,,,0,82,86,America/Chicago,2017-03-14
+4046278,Elm Cemetery,Elm Cemetery,,32.19569,-98.7195,S,CMTY,US,,TX,133,,,0,412,415,America/Chicago,2006-01-15
+4046279,Bay Minette Seventh Day Adventist Church,Bay Minette Seventh Day Adventist Church,,30.88435,-87.78249,S,CH,US,,AL,003,,,0,82,88,America/Chicago,2006-01-15
+4046280,Elm Lake Dam,Elm Lake Dam,,31.50684,-96.99027,S,DAM,US,,TX,309,,,0,133,138,America/Chicago,2006-01-15
+4046281,Bay Spring,Bay Spring,,33.06456,-86.56943,H,SPNG,US,,AL,117,,,0,133,149,America/Chicago,2006-01-15
+4046282,Elm Ridge,Elm Ridge,,29.35025,-95.97079,T,RDGE,US,,TX,481,,,0,26,35,America/Chicago,2006-01-15
+4046283,Bay Spring Church,Bay Spring Church,"Bay Spring Church,Bay Springs Church",32.79846,-87.51084,S,CH,US,,AL,065,,,0,93,98,America/Chicago,2006-01-15
+4046284,Esmeralda Well,Esmeralda Well,,26.97727,-98.35862,H,WLL,US,,TX,047,,,0,73,80,America/Chicago,2006-01-15
+4046285,Bay Spring Church,Bay Spring Church,"Bay Spring Church,Bay Springs Church",33.05873,-86.56915,S,CH,US,,AL,117,,,0,135,140,America/Chicago,2006-01-15
+4046286,Evans,Evans,,32.94125,-94.25269,P,PPL,US,,TX,067,,,0,88,97,America/Chicago,2006-01-15
+4046287,Bay Springs,Bay Springs,,34.17593,-85.71552,P,PPL,US,,AL,019,,,0,174,174,America/Chicago,2006-01-15
+4046288,Evans Lake,Evans Lake,,28.88997,-99.78422,H,LK,US,,TX,507,,,0,190,198,America/Chicago,2006-01-15
+4046289,Bay Springs Cemetery,Bay Springs Cemetery,,31.21295,-85.52271,S,CMTY,US,,AL,069,,,0,82,87,America/Chicago,2006-01-15
+4046290,Fidelity Church of Christ,Fidelity Church of Christ,,29.73412,-95.25577,S,CH,US,,TX,201,,,0,9,13,America/Chicago,2007-02-14
+4046291,Bay Springs Baptist Church,Bay Springs Baptist Church,"Bay Spring Church,Bay Springs Baptist Church,Bay Springs Church",31.21295,-85.52216,S,CH,US,,AL,069,,,0,84,87,America/Chicago,2007-02-14
+4046292,First Baptist Church,First Baptist Church,,33.07734,-97.56614,S,CH,US,,TX,497,,,0,226,229,America/Chicago,2006-01-15
+4046293,Bay Springs Marina,Bay Springs Marina,,34.17593,-85.71941,S,MAR,US,,AL,019,,,0,177,177,America/Chicago,2010-02-14
+4046294,Fischer,Fischer,"Fischer,Fischer Store,Fischer's Store",29.97688,-98.26585,P,PPL,US,,TX,091,,,0,350,357,America/Chicago,2006-01-15
+4046295,Bay View,Bay View,"Bay View,Bayview",33.55872,-86.97361,P,PPL,US,,AL,073,,,0,165,166,America/Chicago,2006-01-15
+4046296,Fishermans Paradise,Fishermans Paradise,,32.18237,-97.48391,S,,US,,TX,251,,,0,228,234,America/Chicago,2010-02-18
+4046297,Bay View Estates,Bay View Estates,,34.22648,-85.70552,P,PPLX,US,,AL,019,,,0,180,181,America/Chicago,2007-02-14
+4046298,Franks Oil Field,Franks Oil Field,,29.37162,-95.05215,L,OILF,US,,TX,167,,,0,4,10,America/Chicago,2006-01-15
+4046299,Bay Wash Landing (historical),Bay Wash Landing (historical),,32.03682,-88.11252,S,,US,,AL,091,,,0,16,22,America/Chicago,2010-02-14
+4046300,Friendship School,Friendship School,,32.29015,-97.34668,S,SCH,US,,TX,251,,,0,239,242,America/Chicago,2006-01-15
+4046301,Biler School (historical),Biler School (historical),"Bayler School,Biler School (historical),Byler School",34.19316,-87.52391,S,SCH,US,,AL,133,,,0,256,253,America/Chicago,2011-12-11
+4046302,Gap Mountain,Gap Mountain,,33.45483,-98.42144,T,MT,US,,TX,009,,,0,334,335,America/Chicago,2006-01-15
+4046303,Bayless Cemetery,Bayless Cemetery,,34.91675,-86.73194,S,CMTY,US,,AL,089,,,0,257,258,America/Chicago,2006-01-15
+4046305,Bayless Cemetery,Bayless Cemetery,,34.84648,-86.56805,S,CMTY,US,,AL,089,,,0,233,231,America/Chicago,2006-01-15
+4046306,George Braun House,George Braun House,,33.75927,-96.53721,S,BLDG,US,,TX,181,,,0,228,233,America/Chicago,2006-01-15
+4046307,Bayleys Corner,Bayleys Corner,,30.46492,-88.11444,P,PPL,US,,AL,097,,,0,7,13,America/Chicago,2006-01-15
+4046308,Golub Lake Dam,Golub Lake Dam,,30.06522,-97.02193,S,DAM,US,,TX,287,,,0,115,119,America/Chicago,2006-01-15
+4046309,Baylor (historical),Baylor (historical),,33.28817,-87.04388,S,,US,,AL,073,,,0,163,171,America/Chicago,2010-02-14
+4046310,Gordon Gap,Gordon Gap,,33.74372,-97.52752,T,GAP,US,,TX,337,,,0,368,376,America/Chicago,2006-01-15
+4046311,Baylor Lake,Baylor Lake,,33.29184,-87.03368,H,RSV,US,,AL,073,,,0,172,184,America/Chicago,2011-12-11
+4046312,Grange Hill Cemetery,Grange Hill Cemetery,,32.60486,-96.52666,S,CMTY,US,,TX,113,,,0,123,128,America/Chicago,2006-01-15
+4046313,Baylor Lake Dam,Baylor Lake Dam,,33.29178,-87.03499,S,DAM,US,,AL,073,,,0,171,184,America/Chicago,2006-01-15
+4046314,Gravier Slough,Gravier Slough,,32.7632,-94.13796,H,INLT,US,,TX,315,,,0,51,56,America/Chicago,2006-01-15
+4046315,Bayou Heron Channel,Bayou Heron Channel,,30.26243,-88.13972,H,CHN,US,,AL,097,,,0,0,0,America/Chicago,2006-01-15
+4046317,Bayou Jonas Gas Field,Bayou Jonas Gas Field,,30.39187,-88.16222,L,OILF,US,,AL,097,,,0,5,9,America/Chicago,2006-01-15
+4046318,Green Creek Dam Number 6,Green Creek Dam Number 6,,32.11736,-98.34504,S,DAM,US,,TX,143,,,0,443,443,America/Chicago,2006-01-15
+4046319,Bayou La Batre,Bayou La Batre,"Baju la Batr,Baju-La-Batr,Bayou La Batre,Bayou Labatra,Bayou Labatre,Bayou le Batre,bai you la ba te li,bayw la batr,beyau la batre,Баю-Ла-Батр,Бају ла Батр,بايو لا باتر,بایو لا باتر,बेयौ ला बात्रे,拜尤拉巴特里",30.40352,-88.24852,P,PPL,US,,AL,097,,,2621,2,5,America/Chicago,2017-03-09
+4046320,Greenes Lake Dam,Greenes Lake Dam,,32.80846,-95.74857,S,DAM,US,,TX,379,,,0,120,135,America/Chicago,2006-01-15
+4046321,Bayou La Batre Church,Bayou La Batre Church,,30.44325,-88.25945,S,CH,US,,AL,097,,,0,20,24,America/Chicago,2006-01-15
+4046322,Gus Fruh Park,Gus Fruh Park,,30.24493,-97.79306,L,PRK,US,,TX,453,,,0,168,175,America/Chicago,2006-01-15
+4046323,Bayou La Fourche Bay,Bayou La Fourche Bay,,30.3902,-88.37195,H,BAY,US,,AL,097,,,0,4,0,America/Chicago,2006-01-15
+4046324,Hall Lake,Hall Lake,,30.86831,-96.20432,H,LK,US,,TX,041,,,0,72,74,America/Chicago,2011-12-11
+4046325,Bayou La Launch,Bayou La Launch,,30.30603,-87.55832,H,LK,US,,AL,003,,,0,-3,0,America/Chicago,2006-01-15
+4046326,Ham Creek Park,Ham Creek Park,,32.17432,-97.48196,L,PRK,US,,TX,251,,,0,168,170,America/Chicago,2006-01-15
+4046327,Bayou Saint John,Bayou Saint John,"Bay Ornocur,Bayou Saint John,Ornocor Bay",30.29242,-87.52554,H,LK,US,,AL,003,,,0,8,0,America/Chicago,2006-01-15
+4046328,Hatchett Lake,Hatchett Lake,,32.36601,-99.29069,H,RSV,US,,TX,059,,,0,467,469,America/Chicago,2011-12-12
+4046329,Bayou Sara Baptist Church,Bayou Sara Baptist Church,,30.82685,-88.06861,S,CH,US,,AL,097,,,0,3,8,America/Chicago,2006-01-15
+4046330,Hayes Cemetery,Hayes Cemetery,,33.69872,-97.33446,S,CMTY,US,,TX,097,,,0,309,311,America/Chicago,2006-01-15
+4046331,Bayou Sara Bridge (historical),Bayou Sara Bridge (historical),,30.82796,-88.07,S,BDG,US,,AL,097,,,0,5,14,America/Chicago,2006-01-15
+4046332,Henderson,Henderson,"Khenderson,hndrswn,hndrswn  tgzas,Хендерсон,هندرسون,هندرسون، تگزاس",32.15322,-94.79938,P,PPLA2,US,,TX,401,,,13529,156,160,America/Chicago,2017-03-09
+4046333,The Bayou,The Bayou,,34.5162,-86.3986,H,STM,US,,AL,089,,,0,171,179,America/Chicago,2007-02-14
+4046335,Bay Minette Grammer School,Bay Minette Grammer School,,30.89018,-87.77471,S,SCH,US,,AL,003,,,0,82,82,America/Chicago,2006-01-15
+4046336,High,High,,33.61233,-95.74719,P,PPL,US,,TX,277,,,0,177,177,America/Chicago,2006-01-15
+4046337,Bayside,Bayside,,34.55648,-86.96751,P,PPL,US,,AL,103,,,0,174,173,America/Chicago,2010-02-14
+4046338,Hirsh Ranch,Hirsh Ranch,,27.83779,-99.19892,S,,US,,TX,479,,,0,153,155,America/Chicago,2010-02-18
+4046339,New Bayside Baptist Church,New Bayside Baptist Church,"Bayside Baptist Church,New Bayside Baptist Church",30.67013,-88.07971,S,CH,US,,AL,097,,,0,9,13,America/Chicago,2011-01-10
+4046340,Holly Grove Church,Holly Grove Church,,31.79879,-94.71604,S,CH,US,,TX,347,,,0,111,123,America/Chicago,2006-01-15
+4046341,Bayview Elementary School,Bayview Elementary School,,33.55872,-86.97749,S,SCH,US,,AL,073,,,0,173,176,America/Chicago,2006-01-15
+4046342,Homebound Schools - Austin,Homebound Schools - Austin,,30.27271,-97.75612,S,SCH,US,,TX,453,,,0,150,154,America/Chicago,2006-01-15
+4046343,New Life Christian Fellowship Church,New Life Christian Fellowship Church,"Bayview Heights Baptist Church,New Life Christian Fellowship Church",30.65132,-88.13575,S,CH,US,,AL,097,,,0,40,49,America/Chicago,2011-01-10
+4046344,Honey Lake,Honey Lake,,32.00619,-95.442,H,LK,US,,TX,001,,,0,87,98,America/Chicago,2011-12-11
+4046345,Bayview Lake,Bayview Lake,,33.54443,-86.96714,H,RSV,US,,AL,073,,,0,149,169,America/Chicago,2011-12-11
+4046346,Horse Camp Waterhole,Horse Camp Waterhole,,30.15603,-99.83229,H,LK,US,,TX,137,,,0,620,620,America/Chicago,2006-01-15
+4046347,Bayview Lake Dam,Bayview Lake Dam,,33.57344,-86.98833,S,DAM,US,,AL,073,,,0,149,158,America/Chicago,2006-01-15
+4046348,Ignacio Perez Colonia,Ignacio Perez Colonia,,26.17841,-98.10917,P,PPL,US,,TX,215,,,0,28,34,America/Chicago,2010-02-20
+4046349,Bayview Mine,Bayview Mine,,33.55427,-86.96944,S,MN,US,,AL,073,,,0,149,159,America/Chicago,2006-01-15
+4046350,Inwood,Inwood,,32.93068,-96.82167,P,PPLX,US,,TX,113,,,0,192,194,America/Chicago,2025-03-12
+4046351,Bazemore,Bazemore,"Bazemore,bei zi mo er,貝茲莫爾",33.89455,-87.70002,P,PPL,US,,AL,057,,,0,140,139,America/Chicago,2006-01-15
+4046352,J and J Beyer Dairy Dam Number 1,J and J Beyer Dairy Dam Number 1,,32.2968,-98.33699,S,DAM,US,,TX,143,,,0,464,466,America/Chicago,2006-01-15
+4046353,Bazemore Crossroad (historical),Bazemore Crossroad (historical),,33.01623,-86.32386,S,,US,,AL,037,,,0,213,215,America/Chicago,2010-02-14
+4046354,Jackson Park,Jackson Park,,30.15438,-96.40302,L,PRK,US,,TX,477,,,0,104,104,America/Chicago,2006-01-15
+4046355,Bazemore Mill Lake Dam,Bazemore Mill Lake Dam,,31.02518,-85.20327,S,DAM,US,,AL,069,,,0,39,48,America/Chicago,2010-02-14
+4046356,KFJZ-AM (Fort Worth),KFJZ-AM (Fort Worth),,32.7618,-97.31391,S,TOWR,US,,TX,439,,,0,161,160,America/Chicago,2006-01-15
+4046357,Bazemores Mill Branch,Bazemores Mill Branch,,31.02768,-85.21799,H,STM,US,,AL,069,,,0,36,45,America/Chicago,2010-02-14
+4046358,Kemp Dam,Kemp Dam,,32.42514,-96.20025,S,DAM,US,,TX,257,,,0,105,114,America/Chicago,2006-01-15
+4046359,Bayside,Bayside,,30.40853,-87.8236,P,PPL,US,,AL,003,,,0,3,13,America/Chicago,2006-01-15
+4046360,Kilborn Ranch,Kilborn Ranch,,30.16076,-98.56558,S,,US,,TX,031,,,0,504,508,America/Chicago,2010-10-12
+4046361,Beach Bluff,Beach Bluff,"Beach Bluff,Beech Bluff",31.92071,-88.08946,T,CLF,US,,AL,023,,,0,11,16,America/Chicago,2010-02-14
+4046362,Kindle Lake Dam,Kindle Lake Dam,"Kendall Lake Dam,Kindle Lake Dam",32.77013,-95.52023,S,DAM,US,,TX,499,,,0,123,130,America/Chicago,2006-01-15
+4046363,Beach Grove (historical),Beach Grove (historical),,34.84036,-87.4603,P,PPLQ,US,,AL,077,,,0,190,191,America/Chicago,2011-12-11
+4046364,Kittrell,Kittrell,"Kittrell,Kittrell's Cut-Off",30.96546,-95.49633,P,PPL,US,,TX,471,,,0,49,57,America/Chicago,2006-01-15
+4046365,Beach Grove Church (historical),Beach Grove Church (historical),,34.8362,-87.45613,S,CH,US,,AL,077,,,0,189,184,America/Chicago,2007-02-14
+4046366,Koppe,Koppe,,30.57242,-96.32635,P,PPL,US,,TX,041,,,0,94,99,America/Chicago,2006-01-15
+4046367,Beach Ridge,Beach Ridge,,32.53347,-87.78612,T,RDGE,US,,AL,065,,,0,37,36,America/Chicago,2006-01-15
+4046368,Lake Hawkins,Lake Hawkins,,32.62727,-95.25349,H,RSV,US,,TX,499,,,0,104,110,America/Chicago,2011-12-12
+4046369,Beach Store (historical),Beach Store (historical),,31.48239,-88.14751,S,,US,,AL,129,,,0,41,51,America/Chicago,2010-09-05
+4046370,Lamar Beach,Lamar Beach,,30.26938,-97.76195,L,PRK,US,,TX,453,,,0,134,136,America/Chicago,2006-01-15
+4046371,Beachboro (historical),Beachboro (historical),,34.85286,-86.20776,P,PPLQ,US,,AL,071,,,0,272,281,America/Chicago,2011-12-11
+4046372,Lancaster High School,Lancaster High School,,32.60541,-96.77166,S,SCH,US,,TX,113,,,0,176,179,America/Chicago,2006-01-15
+4046373,Beachwood Park,Beachwood Park,,33.55483,-86.7761,L,PRK,US,,AL,073,,,0,182,186,America/Chicago,2006-01-15
+4046374,Lateral Site Number Four,Lateral Site Number Four,,32.63502,-96.4229,H,RSV,US,,TX,257,,,0,122,125,America/Chicago,2011-12-11
+4046375,Beachwood School (historical),Beachwood School (historical),,34.77731,-87.1639,S,SCH,US,,AL,083,,,0,180,181,America/Chicago,2006-01-15
+4046376,Lawrence Lake Dam,Lawrence Lake Dam,,32.67847,-96.5386,S,DAM,US,,TX,113,,,0,119,122,America/Chicago,2006-01-15
+4046377,Beacon,Beacon,"Beacon,Virdie",31.7146,-86.82303,P,PPL,US,,AL,013,,,0,114,116,America/Chicago,2006-01-15
+4046378,Little Campus,Little Campus,,30.27854,-97.73167,S,BLDG,US,,TX,453,,,0,167,172,America/Chicago,2006-01-15
+4046379,Beacon Church,Beacon Church,,34.79259,-87.10029,S,CH,US,,AL,083,,,0,208,209,America/Chicago,2006-01-15
+4046380,Little Cut,Little Cut,,27.96252,-97.06971,H,CHN,US,,TX,007,,,0,0,-9999,America/Chicago,2006-01-15
+4046381,Beacon Hills,Beacon Hills,,33.45288,-86.7936,P,PPLX,US,,AL,073,,,0,338,345,America/Chicago,2007-02-14
+4046382,Live Oak Elementary School,Live Oak Elementary School,,30.45576,-97.7689,S,SCH,US,,TX,491,,,0,268,273,America/Chicago,2006-01-15
+4046383,Beacon Light Baptist Church,Beacon Light Baptist Church,,33.20873,-87.56612,S,CH,US,,AL,125,,,0,67,68,America/Chicago,2006-01-15
+4046384,Los Angeles,Los Angeles,,28.46582,-99.00003,P,PPL,US,,TX,283,,,0,123,126,America/Chicago,2006-01-15
+4046385,Beacon Point,Beacon Point,,33.364,-87.56862,P,PPLX,US,,AL,125,,,0,82,86,America/Chicago,2007-02-14
+4046386,Lower Lake,Lower Lake,,29.55305,-96.33898,H,RSV,US,,TX,089,,,0,46,44,America/Chicago,2011-12-11
+4046387,Beader Branch,Beader Branch,,31.08018,-86.75551,H,STM,US,,AL,053,,,0,54,67,America/Chicago,2006-01-15
+4046388,Maranththa Assembly of God Church,Maranththa Assembly of God Church,,32.78624,-96.76444,S,CH,US,,TX,113,,,0,142,145,America/Chicago,2006-01-15
+4046389,Bazemores Mill Lake,Bazemores Mill Lake,"Bazemore Mill Lake,Bazemores Mill Lake",31.02669,-85.20014,H,LK,US,,AL,069,,,0,38,44,America/Chicago,2011-12-11
+4046390,Martinez Lake Dam,Martinez Lake Dam,,27.39697,-99.39198,S,DAM,US,,TX,479,,,0,160,164,America/Chicago,2006-01-15
+4046391,Bealls Pond,Bealls Pond,"Bailey Fish Pond,Bealls Pond",31.61564,-86.25271,H,RSV,US,,AL,041,,,0,101,115,America/Chicago,2011-12-11
+4046392,Matilda,Matilda,,28.95943,-96.67942,P,PPL,US,,TX,239,,,0,20,24,America/Chicago,2006-01-15
+4046393,Beals Bar,Beals Bar,,33.01735,-87.69473,T,BAR,US,,AL,125,,,0,29,35,America/Chicago,2006-01-15
+4046394,McLain Cemetery,McLain Cemetery,,31.22963,-95.04771,S,CMTY,US,,TX,455,,,0,102,108,America/Chicago,2006-01-15
+4046395,Beals Landing,Beals Landing,,33.02596,-87.65834,S,,US,,AL,125,,,0,34,39,America/Chicago,2010-02-14
+4046396,Meaders,Meaders,,32.88818,-96.8125,P,PPLX,US,,TX,113,,,0,176,181,America/Chicago,2025-03-12
+4046397,Beam Branch,Beam Branch,,32.99484,-86.85193,H,STM,US,,AL,021,,,0,135,142,America/Chicago,2010-02-14
+4046398,Melo,Melo,,28.62444,-97.42027,P,PPL,US,,TX,175,,,0,58,59,America/Chicago,2010-02-18
+4046399,Beale Cemetery,Beale Cemetery,,33.07873,-87.69557,S,CMTY,US,,AL,125,,,0,89,90,America/Chicago,2010-02-14
+4046400,Meusebach Cemetery,Meusebach Cemetery,,30.1977,-98.87032,S,CMTY,US,,TX,171,,,0,520,521,America/Chicago,2006-01-15
+4046401,Bean Bridge,Bean Bridge,,34.59565,-87.51475,S,BDG,US,,AL,079,,,0,167,175,America/Chicago,2010-02-14
+4046402,Midway,Midway,,33.08929,-94.58215,P,PPL,US,,TX,067,,,0,114,117,America/Chicago,2006-01-15
+4046403,Bean Cemetery,Bean Cemetery,"Bean Cemetery,Beene Cemetery",34.62703,-85.60441,S,CMTY,US,,AL,049,,,0,291,289,America/Chicago,2010-09-05
+4046404,Miguel,Miguel,,28.92358,-98.82058,P,PPL,US,,TX,163,,,0,160,165,America/Chicago,2006-01-15
+4046405,Bean Mountain,Bean Mountain,,34.43898,-86.73611,T,MT,US,,AL,103,,,0,297,292,America/Chicago,2006-01-15
+4046406,Mill Branch Water Wheel (historical),Mill Branch Water Wheel (historical),,31.51823,-95.44439,S,BLDG,US,,TX,225,,,0,112,125,America/Chicago,2006-01-15
+4046407,Bean River,Bean River,,33.85483,-87.44029,H,STM,US,,AL,127,,,0,102,116,America/Chicago,2010-02-14
+4046408,Miller Dam,Miller Dam,,28.46527,-98.8503,S,DAM,US,,TX,283,,,0,95,97,America/Chicago,2006-01-15
+4046409,Bean Rock,Bean Rock,,34.47287,-86.46915,S,,US,,AL,095,,,0,179,186,America/Chicago,2010-02-14
+4046410,Minjou Lake Dam,Minjou Lake Dam,,31.09684,-97.93863,S,DAM,US,,TX,281,,,0,341,343,America/Chicago,2006-01-15
+4046411,Bean Rock Bluff,Bean Rock Bluff,,34.47092,-86.46749,T,CLF,US,,AL,095,,,0,204,194,America/Chicago,2006-01-15
+4046412,Mission Valley Guest Ranch,Mission Valley Guest Ranch,,29.72495,-98.19223,S,,US,,TX,091,,,0,262,265,America/Chicago,2010-02-18
+4046413,Bean Rock Creek,Bean Rock Creek,,34.47037,-86.46665,H,STM,US,,AL,095,,,0,171,184,America/Chicago,2006-01-15
+4046414,Mooredale,Mooredale,,29.3108,-95.82828,P,PPL,US,,TX,157,,,0,21,24,America/Chicago,2006-01-15
+4046415,Beamon,Beamon,,31.51906,-85.58605,P,PPL,US,,AL,045,,,0,96,97,America/Chicago,2006-01-15
+4046416,Morrow Dam,Morrow Dam,,29.17525,-97.22027,S,DAM,US,,TX,123,,,0,81,90,America/Chicago,2006-01-15
+4046417,Bean Rock Landing (historical),Bean Rock Landing (historical),,34.47231,-86.46554,S,,US,,AL,095,,,0,169,167,America/Chicago,2010-02-14
+4046418,Mount Zion Number 2 Church,Mount Zion Number 2 Church,"Mount Zion Church,Mount Zion Missionary Baptist Church,Mount Zion Number 2 Church",33.52872,-96.96695,S,CH,US,,TX,097,,,0,219,225,America/Chicago,2006-01-15
+4046419,Bean Rock School,Bean Rock School,,34.45148,-86.46443,S,SCH,US,,AL,095,,,0,183,192,America/Chicago,2006-01-15
+4046420,Mud Lake,Mud Lake,,29.85535,-94.721,H,LK,US,,TX,071,,,0,1,1,America/Chicago,2011-12-11
+4046421,Bean Stack Creek,Bean Stack Creek,,32.80763,-87.99557,H,STM,US,,AL,063,,,0,37,44,America/Chicago,2006-01-15
+4046422,Mugg Cemetery,Mugg Cemetery,,33.35761,-96.6561,S,CMTY,US,,TX,085,,,0,203,207,America/Chicago,2006-01-15
+4046423,Bean Rock Ferry (historical),Bean Rock Ferry (historical),,34.47315,-86.46582,R,RDJCT,US,,AL,095,,,0,169,167,America/Chicago,2010-02-14
+4046424,Mustang Field (historical),Mustang Field (historical),,32.50347,-96.90028,S,AIRQ,US,,TX,181,,,0,218,219,America/Chicago,2016-12-07
+4046425,Beans Mill,Beans Mill,"Beans Mill,Floyds Mill",32.69708,-85.26744,P,PPL,US,,AL,081,,,0,186,190,America/Chicago,2010-02-14
+4046426,Myrtle Springs Cemetery,Myrtle Springs Cemetery,,31.49796,-93.9163,S,CMTY,US,,TX,403,,,0,157,163,America/Chicago,2006-01-15
+4046427,Bear Bay,Bear Bay,,31.09921,-86.6399,H,LK,US,,AL,039,,,0,66,78,America/Chicago,2016-01-22
+4046428,Nacogdoches High School,Nacogdoches High School,,31.64351,-94.61965,S,SCH,US,,TX,347,,,0,139,143,America/Chicago,2006-01-15
+4046429,Bear Branch,Bear Branch,,30.57908,-87.50304,H,STM,US,,AL,003,,,0,5,17,America/Chicago,2010-02-14
+4046430,Natalia,Natalia,"Natalia,Natalija,nataly  tgzas,natalya,natalya  tkzas,Наталиа,Наталия,Наталија,Наталія,ناتاليا,ناتالی، تگزاس,ناتالیا، تکزاس",29.18968,-98.86253,P,PPL,US,,TX,325,,,1490,209,211,America/Chicago,2017-03-09
+4046431,Beans Crossroads,Beans Crossroads,,31.99932,-85.85356,P,PPL,US,,AL,011,,,0,143,144,America/Chicago,2006-01-15
+4046432,New Bethel Cemetery,New Bethel Cemetery,,30.37382,-96.97776,S,CMTY,US,,TX,287,,,0,115,116,America/Chicago,2006-01-15
+4046433,Bear Branch,Bear Branch,,33.12679,-87.04083,H,STM,US,,AL,007,,,0,83,87,America/Chicago,2006-01-15
+4046434,New Falcon,New Falcon,"N'ju-Falkon,New Falcon,Nju Falkon,nyw falkn,nyw falkn  tgzas,nyw falkn  tkzas,Њу Фалкон,Нью-Фалкон,نيو فالكن,نیو فالکن، تکزاس,نیو فالکن، تگزاس",26.63866,-99.09559,P,PPL,US,,TX,505,,,191,127,130,America/Chicago,2011-05-14
+4046435,Bear Branch,Bear Branch,,32.74318,-86.57137,H,STM,US,,AL,021,,,0,157,160,America/Chicago,2010-02-14
+4046436,Nolan Lake,Nolan Lake,"Nolan Lake,Soil Conservation Service Site 3 Reservoir",31.12884,-97.56925,H,RSV,US,,TX,027,,,0,218,217,America/Chicago,2013-03-08
+4046437,Bear Branch,Bear Branch,,31.62516,-86.02634,H,STM,US,,AL,031,,,0,79,95,America/Chicago,2006-01-15
+4046438,North Chapel,North Chapel,,33.05484,-94.96966,S,CH,US,,TX,063,,,0,104,111,America/Chicago,2007-02-14
+4046439,Bear Branch,Bear Branch,,31.26878,-85.95827,H,STM,US,,AL,031,,,0,60,71,America/Chicago,2010-02-14
+4046440,Northrup,Northrup,,30.1005,-96.97026,P,PPL,US,,TX,287,,,0,147,149,America/Chicago,2006-01-15
+4046441,Bear Branch,Bear Branch,,31.32822,-86.35634,H,STM,US,,AL,039,,,0,73,80,America/Chicago,2010-02-14
+4046442,Norwood Lake Dam,Norwood Lake Dam,,31.4435,-98.37032,S,DAM,US,,TX,333,,,0,404,407,America/Chicago,2006-01-15
+4046443,Bear Branch,Bear Branch,,34.16399,-86.69,H,STM,US,,AL,043,,,0,186,195,America/Chicago,2010-02-14
+4046444,Oakwood Baptist Church,Oakwood Baptist Church,,29.72828,-98.13279,S,CH,US,,TX,091,,,0,221,222,America/Chicago,2006-01-15
+4046445,Bear Branch,Bear Branch,,34.34371,-88.14365,H,STM,US,,AL,059,,,0,144,150,America/Chicago,2006-01-15
+4046446,Old Mill Dam,Old Mill Dam,,31.79516,-97.5753,S,DAM,US,,TX,035,,,0,189,198,America/Chicago,2006-01-15
+4046447,Bear Branch,Bear Branch,,34.37399,-88.00226,H,STM,US,,AL,059,,,0,185,199,America/Chicago,2010-02-14
+4046448,Olney Municipal Airport,Olney Municipal Airport,"KONY,ONY,Olney Municipal Airport",33.35149,-98.81731,S,AIRP,US,,TX,503,,,0,385,386,America/Chicago,2013-05-11
+4046449,Bear Branch,Bear Branch,"Bear Branch,Collinsworth Mill Creek",31.17712,-86.10994,H,STM,US,,AL,061,,,0,32,47,America/Chicago,2006-01-15
+4046450,Owen Flat,Owen Flat,,30.53547,-97.89779,T,PLN,US,,TX,453,,,0,255,256,America/Chicago,2006-01-15
+4046451,Bear Branch,Bear Branch,,33.49122,-87.09305,H,STM,US,,AL,073,,,0,97,117,America/Chicago,2006-01-15
+4046452,Padgett Cemetery,Padgett Cemetery,,33.30733,-98.94812,S,CMTY,US,,TX,503,,,0,369,372,America/Chicago,2006-01-15
+4046453,Bear Branch,Bear Branch,,34.55787,-87.35613,H,STM,US,,AL,079,,,0,173,198,America/Chicago,2010-02-14
+4046454,Palagana Well,Palagana Well,,26.57978,-98.79753,H,WLL,US,,TX,427,,,0,98,101,America/Chicago,2010-02-18
+4046455,Bear Branch,Bear Branch,,33.99594,-87.15306,H,STM,US,,AL,133,,,0,155,160,America/Chicago,2006-01-15
+4046456,Palomas Pasture,Palomas Pasture,,26.80755,-98.16695,T,PLN,US,,TX,047,,,0,31,33,America/Chicago,2006-01-15
+4046457,Bear Branch,Bear Branch,,34.10871,-87.21807,H,STM,US,,AL,133,,,0,155,168,America/Chicago,2006-01-15
+4046458,Parvin,Parvin,,33.25345,-96.87028,P,PPL,US,,TX,121,,,0,172,177,America/Chicago,2006-01-15
+4046459,Bear Creek,Bear Creek,,32.36819,-86.58831,H,STM,US,,AL,001,,,0,38,41,America/Chicago,2006-01-15
+4046460,Peach Hill Plant Dam,Peach Hill Plant Dam,,33.25511,-97.77031,S,DAM,US,,TX,497,,,0,266,274,America/Chicago,2006-01-15
+4046461,Bear Creek,Bear Creek,,31.10657,-87.89611,H,INLT,US,,AL,003,,,0,1,8,America/Chicago,2006-01-15
+4046462,Pin Oak Point,Pin Oak Point,,31.08407,-95.663,T,CAPE,US,,TX,225,,,0,40,51,America/Chicago,2006-01-15
+4046463,Bear Creek,Bear Creek,,32.01905,-85.29771,H,STM,US,,AL,005,,,0,63,77,America/Chicago,2010-02-14
+4046464,Pinedale Dam,Pinedale Dam,,32.48848,-95.23023,S,DAM,US,,TX,423,,,0,132,142,America/Chicago,2006-01-15
+4046465,Bear Creek,Bear Creek,,31.14045,-87.89639,H,INLT,US,,AL,003,,,0,2,8,America/Chicago,2006-01-15
+4046466,Pond Mountain,Pond Mountain,,30.47464,-98.53114,T,MT,US,,TX,031,,,0,437,438,America/Chicago,2010-10-12
+4046467,Bear Creek,Bear Creek,,32.80013,-86.79137,H,STM,US,,AL,021,,,0,110,121,America/Chicago,2006-01-15
+4046468,Post Oak Cemetery,Post Oak Cemetery,,31.65433,-97.66836,S,CMTY,US,,TX,099,,,0,295,304,America/Chicago,2006-01-15
+4046469,Bear Creek,Bear Creek,,31.99765,-88.32613,H,STM,US,,AL,023,,,0,49,61,America/Chicago,2010-02-14
+4046470,Prairie View Cemetery,Prairie View Cemetery,,31.78128,-94.17103,S,CMTY,US,,TX,419,,,0,107,111,America/Chicago,2006-01-15
+4046471,Bear Creek,Bear Creek,"Bar Creek,Bear Creek,Bear River,Bears Creek,Big Bear Creek,Boar River,Oakchappo River,Oakochappa River,Oakshappo Creek,Occachippo River,Ockochappo Creek,Ockochappo River,Ocochappo Creek",34.89175,-88.09754,H,STM,US,,AL,033,,,0,125,126,America/Chicago,2010-02-14
+4046472,Primrose,Primrose,,32.61152,-97.43335,P,PPL,US,,TX,439,,,0,236,241,America/Chicago,2006-01-15
+4046473,Bear Creek,Bear Creek,,31.26184,-87.01858,H,STM,US,,AL,035,,,0,39,48,America/Chicago,2006-01-15
+4046474,Rankin,Rankin,,32.2057,-96.70666,P,PPL,US,,TX,139,,,718,144,147,America/Chicago,2006-01-17
+4046475,Bear Creek,Bear Creek,"Bear Creek,Cheatham,Little Bear Creek",34.65648,-87.73336,P,PPL,US,,AL,033,,,0,159,159,America/Chicago,2006-01-15
+4046476,Rebecca Colonia,Rebecca Colonia,"Rebecca Colonia,Rebecca Subdivision Colonia",26.20424,-97.93333,P,PPL,US,,TX,215,,,0,18,20,America/Chicago,2006-01-15
+4046477,Bear Creek,Bear Creek,,31.09601,-86.44801,H,STM,US,,AL,039,,,0,39,49,America/Chicago,2006-01-15
+4046478,Red Bud,Red Bud,,30.29798,-97.80834,R,TRL,US,,TX,453,,,0,272,273,America/Chicago,2006-01-15
+4046479,Bear Creek,Bear Creek,,31.46183,-86.39496,H,STM,US,,AL,041,,,0,60,66,America/Chicago,2006-01-15
+4046480,Renfro Dam,Renfro Dam,,31.38044,-98.7706,S,DAM,US,,TX,411,,,0,360,370,America/Chicago,2010-10-12
+4046481,Bear Creek,Bear Creek,,31.77516,-86.22052,H,STM,US,,AL,041,,,0,91,96,America/Chicago,2006-01-15
+4046483,Bear Creek,Bear Creek,,31.43489,-85.70327,H,STM,US,,AL,045,,,0,67,79,America/Chicago,2006-01-15
+4046484,Road Runner Colonia Number 2,Road Runner Colonia Number 2,"Road Runner Colonia Number 2,Road Runner Subdivision Number 2 Colonia",26.16035,-98.10223,P,PPL,US,,TX,215,,,0,29,33,America/Chicago,2006-01-15
+4046485,Bear Creek,Bear Creek,,31.56183,-85.48216,H,STM,US,,AL,045,,,0,76,87,America/Chicago,2006-01-15
+4046486,Robert Browning School,Robert Browning School,,29.79689,-95.37855,S,SCH,US,,TX,201,,,0,16,18,America/Chicago,2006-01-15
+4046487,Bear Creek,Bear Creek,,31.25323,-85.54493,H,STM,US,,AL,045,,,0,54,67,America/Chicago,2006-01-15
+4046488,Rockport Cemetery,Rockport Cemetery,,28.04613,-97.03749,S,CMTY,US,,TX,007,,,0,3,8,America/Chicago,2006-01-15
+4046489,Bear Creek,Bear Creek,,32.28597,-87.29555,H,STM,US,,AL,047,,,0,27,37,America/Chicago,2006-01-15
+4046490,Rocky Branch Church,Rocky Branch Church,,31.74044,-96.3947,S,CH,US,,TX,161,,,0,127,132,America/Chicago,2006-01-15
+4046491,Bear Creek,Bear Creek,,34.35176,-85.67302,H,STM,US,,AL,049,,,0,243,275,America/Chicago,2006-01-15
+4046492,Rodgers Dam,Rodgers Dam,,32.28347,-98.647,S,DAM,US,,TX,133,,,0,413,420,America/Chicago,2006-01-15
+4046493,Bear Creek,Bear Creek,"Bear Creek,Blackwater Creek",31.02879,-86.70968,H,STM,US,,AL,053,,,0,39,47,America/Chicago,2006-01-15
+4046494,Rogers Park,Rogers Park,,31.16018,-97.48529,L,PRK,US,,TX,027,,,0,187,188,America/Chicago,2006-01-15
+4046495,Bear Creek,Bear Creek,"Bar Creek,Bear Creek",33.51761,-87.77668,H,STM,US,,AL,057,,,0,79,86,America/Chicago,2010-02-14
+4046496,Rose Lake Dam,Rose Lake Dam,"Rose Lake Dam,Salt Lake Dam",29.64523,-97.64528,S,DAM,US,,TX,187,,,0,114,117,America/Chicago,2006-01-15
+4046497,Bear Creek,Bear Creek,,34.94231,-86.22554,H,STM,US,,AL,071,,,0,208,207,America/Chicago,2006-01-15
+4046498,Rough Ridge,Rough Ridge,,30.5463,-98.52392,T,RDGE,US,,TX,299,,,0,342,333,America/Chicago,2006-01-15
+4046499,Bear Creek,Bear Creek,"Bear Creek,Bearcreek",34.27482,-87.70058,P,PPL,US,,AL,093,,,1047,246,248,America/Chicago,2017-03-09
+4046500,Saint Pauls Catholic Church,Saint Pauls Catholic Church,,30.00522,-97.15388,S,CH,US,,TX,021,,,0,98,105,America/Chicago,2006-01-15
+4046501,Bear Creek,Bear Creek,,31.6346,-87.37388,H,STM,US,,AL,099,,,0,21,31,America/Chicago,2006-01-15
+4046502,Salado Park,Salado Park,,32.97151,-96.77639,L,PRK,US,,TX,113,,,0,204,205,America/Chicago,2006-01-15
+4046503,Bear Creek,Bear Creek,,30.77074,-88.03444,H,INLT,US,,AL,097,,,0,0,3,America/Chicago,2006-01-15
+4046504,San Manuel,San Manuel,,26.56451,-98.12112,P,PPL,US,,TX,215,,,0,23,26,America/Chicago,2010-02-18
+4046505,Bear Creek,Bear Creek,,31.44572,-87.5261,H,STM,US,,AL,099,,,0,20,39,America/Chicago,2006-01-15
+4046506,Sandy Cemetery,Sandy Cemetery,,30.34464,-98.47086,S,CMTY,US,,TX,031,,,0,395,401,America/Chicago,2010-10-12
+4046507,Bear Creek,Bear Creek,"Bair Creek,Bear Creek",33.18596,-88.07975,H,STM,US,,AL,107,,,0,49,57,America/Chicago,2006-01-15
+4046508,Santa Rosa Lake,Santa Rosa Lake,,33.94092,-99.2598,H,RSV,US,,TX,487,,,0,354,360,America/Chicago,2006-01-15
+4046509,Bear Creek,Bear Creek,,31.72238,-85.76078,H,STM,US,,AL,109,,,0,96,101,America/Chicago,2006-01-15
+4046510,Sauceda Colonia,Sauceda Colonia,"Sauceda Colonia,Sauceda Subdivision Colonia",26.35646,-98.14834,P,PPL,US,,TX,215,,,0,27,29,America/Chicago,2006-01-15
+4046511,Bear Creek,Bear Creek,,33.38373,-85.45329,H,STM,US,,AL,111,,,0,244,250,America/Chicago,2006-01-15
+4046512,Sharon Lake,Sharon Lake,"Lake Sharon,Sharon Lake",33.1393,-97.09329,H,RSV,US,,TX,121,,,0,173,179,America/Chicago,2011-12-11
+4046513,Bear Creek,Bear Creek,,33.48372,-86.43387,H,STM,US,,AL,117,,,0,135,138,America/Chicago,2006-01-15
+4046514,Shelby,Shelby,,30.02161,-96.59831,P,PPL,US,,TX,015,,,0,138,142,America/Chicago,2006-01-15
+4046515,Bear Creek,Bear Creek,,32.5143,-88.23892,H,STM,US,,AL,119,,,0,36,41,America/Chicago,2010-02-14
+4046516,Shipley Cemetery,Shipley Cemetery,,32.70319,-96.4436,S,CMTY,US,,TX,257,,,0,140,143,America/Chicago,2006-01-15
+4046517,Bear Creek,Bear Creek,,33.52456,-87.5764,H,STM,US,,AL,125,,,0,78,88,America/Chicago,2006-01-15
+4046518,The Shut-In,The Shut-In,,29.49801,-99.71033,T,MT,US,,TX,463,,,0,412,419,America/Chicago,2007-02-14
+4046519,Bear Creek,Bear Creek,,33.46095,-87.43584,H,STM,US,,AL,125,,,0,104,112,America/Chicago,2010-02-14
+4046520,Sims Dam,Sims Dam,,31.52682,-99.98036,S,DAM,US,,TX,095,,,0,504,501,America/Chicago,2006-01-15
+4046521,Bear Creek,Bear Creek,,33.0554,-87.4425,H,STM,US,,AL,125,,,0,53,60,America/Chicago,2006-01-15
+4046522,Slater,Slater,,31.3435,-97.96975,P,PPL,US,,TX,099,,,0,314,314,America/Chicago,2006-01-15
+4046523,Bear Creek,Bear Creek,,31.22767,-88.17167,H,STM,US,,AL,129,,,0,21,31,America/Chicago,2011-01-10
+4046524,Slumber Falls,Slumber Falls,,29.7555,-98.1389,H,OVF,US,,TX,091,,,0,194,203,America/Chicago,2006-01-15
+4046525,Bear Creek,Bear Creek,,31.96154,-87.65222,H,STM,US,,AL,131,,,0,45,56,America/Chicago,2006-01-15
+4046526,Soil Conservation Service Site 1 Dam,Soil Conservation Service Site 1 Dam,,32.96512,-97.88698,S,DAM,US,,TX,367,,,0,372,376,America/Chicago,2006-01-15
+4046527,Bear Creek,Bear Creek,,31.98154,-87.01776,H,STM,US,,AL,131,,,0,46,56,America/Chicago,2006-01-15
+4046528,Soil Conservation Service Site 3 Dam,Soil Conservation Service Site 3 Dam,,31.4135,-99.00033,S,DAM,US,,TX,411,,,0,431,429,America/Chicago,2006-01-15
+4046529,Bear Creek,Bear Creek,"Bear Creek,Haydens Creek,Little Bear Creek",31.87432,-87.52889,H,STM,US,,AL,131,,,0,11,17,America/Chicago,2006-01-15
+4046530,Soil Conservation Service Site 89 Dam,Soil Conservation Service Site 89 Dam,,32.71513,-96.19359,S,DAM,US,,TX,257,,,0,149,152,America/Chicago,2006-01-15
+4046531,Bear Creek Cemetery,Bear Creek Cemetery,"Bear Creek Cemetery,Bear Creek City Cemetery",34.28343,-87.69808,S,CMTY,US,,AL,093,,,0,252,255,America/Chicago,2010-02-14
+4046532,Sojourner Oil Field,Sojourner Oil Field,,33.17871,-99.78037,L,OILF,US,,TX,207,,,0,496,496,America/Chicago,2006-01-15
+4046533,Bear Creek Church,Bear Creek Church,"Bear Creek Church,Chigger Hill Church",34.3326,-87.85475,S,CH,US,,AL,059,,,0,263,264,America/Chicago,2006-01-15
+4046534,South Dam,South Dam,,30.11354,-99.18532,S,DAM,US,,TX,265,,,0,575,586,America/Chicago,2006-01-15
+4046535,Bear Creek Church,Bear Creek Church,,31.87821,-87.09637,S,CH,US,,AL,131,,,0,102,110,America/Chicago,2006-01-15
+4046536,South Lake,South Lake,,30.11472,-99.184,H,RSV,US,,TX,265,,,0,576,576,America/Chicago,2011-12-12
+4046537,Bear Creek Number One Baptist Church,Bear Creek Number One Baptist Church,"Bear Creek Church,Bear Creek Church Number 1,Bear Creek Number One Baptist Church",34.29065,-87.69614,S,CH,US,,AL,093,,,0,252,256,America/Chicago,2010-02-14
+4046538,South Toledo Bend,South Toledo Bend,Toledo Village,31.15324,-93.60462,P,PPL,US,,TX,351,,,524,55,58,America/Chicago,2011-05-15
+4046539,Bear Creek Church of Christ,Bear Creek Church of Christ,,34.27676,-87.70031,S,CH,US,,AL,093,,,0,244,248,America/Chicago,2010-02-14
+4046540,Southside Primary School,Southside Primary School,"South Side School,Southside Primary School",30.33755,-95.0889,S,SCH,US,,TX,291,,,0,48,52,America/Chicago,2011-01-10
+4046541,Bear Creek Dam,Bear Creek Dam,,34.39843,-87.98781,S,DAM,US,,AL,059,,,0,169,184,America/Chicago,2010-02-14
+4046542,Sowers,Sowers,,32.82846,-96.99334,P,PPL,US,,TX,113,,,0,162,165,America/Chicago,2006-01-15
+4046543,Bear Creek Dock,Bear Creek Dock,,34.76787,-88.09754,S,,US,,AL,033,,,0,127,130,America/Chicago,2010-02-14
+4046544,Sparger Park,Sparger Park,,32.87291,-97.15029,L,PRK,US,,TX,439,,,0,176,181,America/Chicago,2006-01-15
+4046545,Bear Creek Hunting Club,Bear Creek Hunting Club,,31.93237,-87.69167,S,,US,,AL,025,,,0,65,69,America/Chicago,2010-02-14
+4046546,Spencer Lake,Spencer Lake,,32.93124,-95.08522,H,LK,US,,TX,063,,,0,105,111,America/Chicago,2006-01-15
+4046547,Bear Creek Number One Cemetery,Bear Creek Number One Cemetery,,34.2901,-87.69558,S,CMTY,US,,AL,093,,,0,253,255,America/Chicago,2010-02-14
+4046548,Spivey Crossing,Spivey Crossing,,31.78849,-97.32446,P,PPL,US,,TX,217,,,0,137,143,America/Chicago,2006-01-15
+4046549,Bear Creek Post Office,Bear Creek Post Office,"Bear Creek Post Office,Bearcreek Post Office",34.27593,-87.70364,S,PO,US,,AL,093,,,0,255,258,America/Chicago,2010-02-14
+4046550,Steedham,Steedham,,33.69733,-96.77944,P,PPL,US,,TX,181,,,0,211,214,America/Chicago,2006-01-15
+4046551,Bear Creek Reservoir,Bear Creek Reservoir,,34.38843,-87.94293,H,RSV,US,,AL,059,,,0,170,185,America/Chicago,2011-12-11
+4046552,Stufflbeme Lake,Stufflbeme Lake,,32.14844,-97.71273,H,RSV,US,,TX,035,,,0,248,249,America/Chicago,2013-03-08
+4046553,Bear Creek School (historical),Bear Creek School (historical),,34.65592,-87.73448,S,SCH,US,,AL,033,,,0,160,159,America/Chicago,2006-01-15
+4046554,Sulphur,Sulphur,"Sulphur,Sulphur Station",33.31291,-94.05574,P,PPL,US,,TX,037,,,0,72,75,America/Chicago,2006-01-15
+4046555,Bear Creek Swamp,Bear Creek Swamp,,32.43125,-86.5747,H,SWMP,US,,AL,001,,,0,46,57,America/Chicago,2006-01-15
+4046556,Sun Valley Park,Sun Valley Park,,32.69735,-96.82139,L,PRK,US,,TX,113,,,0,162,171,America/Chicago,2006-01-15
+4046557,Bear Creek United Methodist Church,Bear Creek United Methodist Church,,34.27538,-87.70281,S,CH,US,,AL,093,,,0,255,251,America/Chicago,2010-02-14
+4046558,Surf Oaks,Surf Oaks,,29.58912,-94.99632,P,PPL,US,,TX,201,,,0,3,7,America/Chicago,2010-09-05
+4046559,Bear Creek United Methodist Church,Bear Creek United Methodist Church,"Bear Creek Church,Bear Creek United Methodist Church",33.37289,-85.40356,S,CH,US,,AL,111,,,0,327,325,America/Chicago,2010-02-14
+4046560,Tanyard Branch Dam,Tanyard Branch Dam,,32.43182,-94.68021,S,DAM,US,,TX,203,,,0,84,88,America/Chicago,2006-01-15
+4046561,Bear Den Hollow,Bear Den Hollow,,34.64204,-87.87726,T,VAL,US,,AL,033,,,0,172,180,America/Chicago,2006-01-15
+4046562,Tesco Park,Tesco Park,,32.81041,-97.15779,L,PRK,US,,TX,439,,,0,158,168,America/Chicago,2006-01-15
+4046563,Bear Creek Missionary Baptist Church,Bear Creek Missionary Baptist Church,"Bear Creek Church,Bear Creek Missionary Baptist Church",34.6562,-87.7342,S,CH,US,,AL,033,,,0,161,159,America/Chicago,2007-02-14
+4046564,Thatch Cemetery,Thatch Cemetery,,30.86658,-96.96693,S,CMTY,US,,TX,331,,,0,121,124,America/Chicago,2006-01-15
+4046565,Bear Den Hollow,Bear Den Hollow,,34.97814,-86.05887,T,VAL,US,,AL,071,,,0,341,366,America/Chicago,2006-01-15
+4046566,Thedford,Thedford,,32.48459,-95.39662,P,PPL,US,,TX,423,,,0,156,160,America/Chicago,2006-01-15
+4046567,Bear Den Point,Bear Den Point,"Bear Den Point,Buffalo Point",34.9712,-86.06554,T,CAPE,US,,AL,071,,,0,532,536,America/Chicago,2006-01-15
+4046568,Thomas Lake,Thomas Lake,,33.27243,-94.48355,H,LK,US,,TX,067,,,0,69,77,America/Chicago,2011-12-11
+4046569,Bear Gap Branch,Bear Gap Branch,,33.66622,-87.26361,H,STM,US,,AL,127,,,0,79,97,America/Chicago,2010-02-14
+4046570,Tietze Park,Tietze Park,,32.82318,-96.76056,L,PRK,US,,TX,113,,,0,171,178,America/Chicago,2024-03-07
+4046571,Bear Elementary School,Bear Elementary School,"Bear Elementary School,Bear School",32.33681,-86.27163,S,SCH,US,,AL,101,,,0,66,68,America/Chicago,2006-01-15
+4046572,Timberhill Villa Number 4 Colonia,Timberhill Villa Number 4 Colonia,,26.29035,-98.2214,P,PPL,US,,TX,215,,,0,32,34,America/Chicago,2006-01-15
+4046573,Bear Head Creek,Bear Head Creek,,31.09684,-86.7219,H,STM,US,,AL,053,,,0,52,65,America/Chicago,2006-01-15
+4046574,Val Verde North Colonia,Val Verde North Colonia,"Val Verde North Colonia,Val Verde North Subdivision Colonia",26.20146,-98.0864,P,PPL,US,,TX,215,,,0,28,32,America/Chicago,2006-01-15
+4046575,Bear Hollow,Bear Hollow,,34.91592,-86.02915,T,VAL,US,,AL,071,,,0,205,217,America/Chicago,2006-01-15
+4046577,Bear Hollow,Bear Hollow,,34.30982,-86.90473,T,VAL,US,,AL,103,,,0,186,191,America/Chicago,2006-01-15
+4046578,Vaughn Cemetery,Vaughn Cemetery,,31.95517,-94.89327,S,CMTY,US,,TX,401,,,0,111,115,America/Chicago,2006-01-15
+4046579,Bear Lake,Bear Lake,,32.05512,-85.98216,H,RSV,US,,AL,011,,,0,150,157,America/Chicago,2011-12-11
+4046580,Vera,Vera,"Vera,vera,wra  tgzas,wra  tkzas,ورا، تکزاس,ورا، تگزاس,വെറ",33.63343,-99.5662,P,PPL,US,,TX,275,,,0,445,447,America/Chicago,2006-01-15
+4046581,Bear Mountain,Bear Mountain,,33.76816,-86.5261,T,MT,US,,AL,115,,,0,400,408,America/Chicago,2010-02-14
+4046582,Walker Springs,Walker Springs,,29.57523,-98.5253,H,SPNG,US,,TX,029,,,0,285,288,America/Chicago,2006-01-15
+4046583,Bear Mountain Branch,Bear Mountain Branch,,33.77566,-86.56165,H,STM,US,,AL,115,,,0,248,267,America/Chicago,2010-02-14
+4046584,Walnut Grove,Walnut Grove,,29.86827,-98.73475,P,PPL,US,,TX,259,,,0,438,446,America/Chicago,2006-01-15
+4046585,Bear Lake,Bear Lake,,31.30274,-87.94155,H,LK,US,,AL,025,,,0,2,10,America/Chicago,2011-12-11
+4046586,Warner Junction,Warner Junction,,33.80149,-96.53583,P,PPL,US,,TX,181,,,0,171,174,America/Chicago,2006-01-15
+4046587,Bear Pen Branch,Bear Pen Branch,,33.97871,-87.09139,H,STM,US,,AL,043,,,0,153,160,America/Chicago,2010-02-14
+4046588,Warsaw Center,Warsaw Center,,32.55458,-96.41554,P,PPL,US,,TX,257,,,0,120,126,America/Chicago,2006-01-15
+4046589,Bear Pen Mountain,Bear Pen Mountain,,33.82761,-87.37223,T,MT,US,,AL,127,,,0,168,169,America/Chicago,2010-02-14
+4046590,Wedgewood Park,Wedgewood Park,,32.66486,-97.38224,L,PRK,US,,TX,439,,,0,230,238,America/Chicago,2006-01-15
+4046591,Bear Point Marina,Bear Point Marina,,30.30992,-87.52637,S,MAR,US,,AL,003,,,0,1,2,America/Chicago,2010-02-14
+4046592,Wesley Grove,Wesley Grove,,30.68575,-95.78912,P,PPL,US,,TX,471,,,0,107,110,America/Chicago,2006-01-15
+4046593,Bear Pond Dam,Bear Pond Dam,,32.05515,-85.98162,S,DAM,US,,AL,011,,,0,150,161,America/Chicago,2006-01-15
+4046594,West Sawyers Dam,West Sawyers Dam,,30.7002,-94.4252,S,DAM,US,,TX,457,,,0,63,68,America/Chicago,2006-01-15
+4046595,Bear Swamp,Bear Swamp,,32.4546,-86.59828,H,SWMP,US,,AL,001,,,0,45,59,America/Chicago,2011-12-11
+4046596,White Elementary SPARK Park Trail,White Elementary SPARK Park Trail,,29.6969,-95.54272,R,TRL,US,,TX,201,,,0,22,27,America/Chicago,2006-01-15
+4046597,Beard Cemetery,Beard Cemetery,"Beard Cemetery,Beards Bluff Cemetery",34.51898,-86.54332,S,CMTY,US,,AL,095,,,0,212,222,America/Chicago,2006-01-15
+4046598,Wildcat Dam,Wildcat Dam,,30.90851,-98.38864,S,DAM,US,,TX,053,,,0,393,399,America/Chicago,2006-01-15
+4046599,Beard Cemetery,Beard Cemetery,,33.40095,-88.11975,S,CMTY,US,,AL,107,,,0,79,82,America/Chicago,2010-02-14
+4046600,Williams School,Williams School,,29.68773,-95.22882,S,SCH,US,,TX,201,,,0,8,10,America/Chicago,2010-09-05
+4046601,Beard Cemetery,Beard Cemetery,,31.84932,-87.00748,S,CMTY,US,,AL,131,,,0,91,95,America/Chicago,2006-01-15
+4046602,Willis Lake,Willis Lake,,30.0513,-99.32942,H,RSV,US,,TX,265,,,0,552,557,America/Chicago,2011-12-12
+4046603,Beard Creek,Beard Creek,"Beard Creek,Philip Creek",31.11962,-87.80138,H,STM,US,,AL,003,,,0,7,15,America/Chicago,2006-01-15
+4046604,Willow Branch Intermediate School,Willow Branch Intermediate School,,30.61326,-96.32968,S,SCH,US,,TX,041,,,0,95,95,America/Chicago,2006-01-15
+4046605,Bear Point,Bear Point,,30.30159,-87.51637,T,CAPE,US,,AL,003,,,0,2,16,America/Indiana/Tell_City,2006-01-15
+4046606,Woodland Cemetery,Woodland Cemetery,,33.07678,-95.42106,S,CMTY,US,,TX,223,,,0,141,151,America/Chicago,2006-01-15
+4046607,Beard Memorial Hospital,Beard Memorial Hospital,,31.80877,-85.97801,S,HSP,US,,AL,109,,,0,155,162,America/Chicago,2010-02-14
+4046608,Young Lake Dam,Young Lake Dam,,30.73019,-96.64358,S,DAM,US,,TX,331,,,0,87,94,America/Chicago,2006-01-15
+4046609,Beards African Methodist Episcopal Zion Chapel,Beards African Methodist Episcopal Zion Chapel,,33.21428,-87.51251,S,CH,US,,AL,125,,,0,91,94,America/Chicago,2007-02-14
+4046610,Zion Grove,Zion Grove,,31.87489,-94.78271,P,PPL,US,,TX,401,,,0,132,140,America/Chicago,2006-01-15
+4046611,Beards Bar,Beards Bar,,34.38481,-86.32221,T,BAR,US,,AL,095,,,0,181,180,America/Chicago,2006-01-15
+4046612,Arbuckle Neck,Arbuckle Neck,,37.85874,-75.50826,T,CAPE,US,,VA,001,,,0,1,-1,America/New_York,2010-02-18
+4046613,Beards Mill,Beards Mill,,33.36567,-88.11975,P,PPL,US,,AL,107,,,0,66,68,America/Chicago,2010-02-14
+4046614,Aylett Millpond,Aylett Millpond,,37.76708,-77.09163,H,RSV,US,,VA,101,,,0,3,16,America/New_York,2011-12-12
+4046615,Beards Mine,Beards Mine,,33.75983,-87.19167,S,MN,US,,AL,127,,,0,132,140,America/Chicago,2010-02-14
+4046616,Beaver Creek,Beaver Creek,,37.94542,-77.975,H,STM,US,,VA,109,,,0,80,87,America/New_York,2006-01-15
+4046617,Beards Reef,Beards Reef,,34.39176,-86.32832,T,BAR,US,,AL,095,,,0,181,180,America/Chicago,2006-01-15
+4046618,Orchard Acres,Orchard Acres,,34.90817,-82.32234,P,PPL,US,,SC,045,,,0,296,297,America/New_York,2006-01-15
+4046619,Beargrass Creek,Beargrass Creek,"Bear Grass Creek,Beargrass Creek",31.20962,-85.95911,H,STM,US,,AL,031,,,0,49,61,America/Chicago,2010-02-14
+4046620,Ben Hur,Ben Hur,"Ben Hur,Benhur",36.73287,-83.08211,P,PPL,US,,VA,105,,,0,440,447,America/New_York,2006-01-15
+4046621,Beard Hill,Beard Hill,,31.30823,-88.1,T,MT,US,,AL,129,,,0,34,33,America/Chicago,2010-09-05
+4046622,Bethlehem Church,Bethlehem Church,"Bethlehem Church,Brick Church",38.67318,-78.38223,S,CH,US,,VA,139,,,0,301,303,America/New_York,2006-01-15
+4046623,Bears Ham School (historical),Bears Ham School (historical),,34.50926,-87.02445,S,SCH,US,,AL,103,,,0,203,206,America/Chicago,2010-02-14
+4046624,Beulah Park,Beulah Park,,38.76206,-77.15693,L,PRK,US,,VA,059,,,0,71,70,America/New_York,2006-01-15
+4046625,Bearthick Branch,Bearthick Branch,,31.3285,-86.80997,H,STM,US,,AL,035,,,0,48,60,America/Chicago,2006-01-15
+4046626,Beverlytown,Beverlytown,"Beverly Town,Beverlytown",37.65208,-79.30337,P,PPL,US,,VA,009,,,0,425,429,America/New_York,2006-01-15
+4046627,Bearpen Gut,Bearpen Gut,,31.23934,-87.9025,H,INLT,US,,AL,025,,,0,2,16,America/Chicago,2006-01-15
+4046628,Bickley Mill,Bickley Mill,"Bickley Mill,Bickley Mills,Bickley's Mill",36.88899,-82.27764,P,PPL,US,,VA,167,,,0,500,500,America/New_York,2006-01-15
+4046629,Beasley (historical),Beasley (historical),,33.7576,-85.98164,P,PPLQ,US,,AL,015,,,0,174,179,America/Chicago,2011-12-11
+4046630,Big Gut,Big Gut,,37.77985,-75.54187,H,INLT,US,,VA,001,,,0,2,-4,America/New_York,2006-01-15
+4046631,Beasley Bend,Beasley Bend,,34.13038,-87.30474,H,STMB,US,,AL,133,,,0,155,160,America/Chicago,2010-02-14
+4046632,Big Ridge,Big Ridge,,37.683,-80.2718,T,RDGE,US,,VA,005,,,0,1028,1023,America/New_York,2010-02-18
+4046633,Beasley Branch,Beasley Branch,,31.51183,-85.72772,H,STM,US,,AL,045,,,0,81,94,America/Chicago,2006-01-15
+4046634,Bish Dam,Bish Dam,,37.47682,-78.29139,S,DAM,US,,VA,049,,,0,126,130,America/New_York,2010-02-18
+4046635,Beasley,Beasley,,33.21207,-88.10003,P,PPL,US,,AL,107,,,0,65,68,America/Chicago,2010-02-14
+4046636,Bledsoe Cemetery,Bledsoe Cemetery,,36.62287,-83.03433,S,CMTY,US,,VA,105,,,0,398,391,America/New_York,2006-01-15
+4046637,Beasley Pond,Beasley Pond,,34.6787,-86.13693,H,LK,US,,AL,071,,,0,188,186,America/Chicago,2010-02-14
+4046638,Blue Ridge Acres,Blue Ridge Acres,,38.03125,-78.79974,P,PPL,US,,VA,003,,,0,258,252,America/New_York,2006-01-15
+4046639,Beasley School (historical),Beasley School (historical),,31.54044,-86.91942,S,SCH,US,,AL,035,,,0,137,144,America/Chicago,2006-01-15
+4046640,Boaz,Boaz,,36.74682,-76.76162,P,PPL,US,,VA,093,,,0,25,31,America/New_York,2006-01-15
+4046641,Beasley Spring,Beasley Spring,,34.81988,-87.72125,H,SPNG,US,,AL,077,,,0,137,138,America/Chicago,2011-12-11
+4046642,Boulevard Heights,Boulevard Heights,,37.28821,-77.40276,P,PPL,US,,VA,041,,,0,15,16,America/New_York,2006-01-15
+4046643,Beasley Spring,Beasley Spring,,34.9637,-87.01751,H,SPNG,US,,AL,083,,,0,181,189,America/Chicago,2006-01-15
+4046644,Andrew J Brown Elementary School,Andrew J Brown Elementary School,"Andrew J Brown Elementary School,Brown School",36.72737,-76.59106,S,SCH,US,,VA,800,,,0,18,23,America/New_York,2010-02-18
+4046645,Beasley Spring,Beasley Spring,,34.74898,-86.69639,H,SPNG,US,,AL,089,,,0,205,207,America/Chicago,2006-01-15
+4046646,Buchanan Cemetery,Buchanan Cemetery,,37.11816,-82.4796,S,CMTY,US,,VA,051,,,0,613,608,America/New_York,2010-09-05
+4046647,Beasleys Pond,Beasleys Pond,,32.23386,-85.42787,H,RSV,US,,AL,113,,,0,105,108,America/Chicago,2011-12-11
+4046648,Buddle,Buddle,,36.91818,-80.84813,P,PPL,US,,VA,197,,,0,661,658,America/New_York,2006-01-15
+4046649,Beason Cemetery,Beason Cemetery,,34.66453,-86.42721,S,CMTY,US,,AL,089,,,0,198,198,America/Chicago,2006-01-15
+4046650,Byrds Bridge,Byrds Bridge,"Byrd's Bridge,Byrds Bridge",37.77181,-76.78968,S,BDG,US,,VA,057,,,0,28,21,America/New_York,2006-01-15
+4046651,Beason Cove,Beason Cove,"Beason Cove,Crawfords Cove",33.89427,-86.29942,T,VAL,US,,AL,115,,,0,198,199,America/Chicago,2010-02-14
+4046652,Camp Bethel,Camp Bethel,,36.99455,-82.56738,S,CMP,US,,VA,195,,,0,781,800,America/New_York,2010-02-18
+4046653,Beasley Cemetery,Beasley Cemetery,,33.9776,-87.67058,S,CMTY,US,,AL,093,,,0,168,170,America/Chicago,2010-02-14
+4046654,Capeville,Capeville,,37.20292,-75.95715,P,PPL,US,,VA,131,,,0,9,8,America/New_York,2006-01-15
+4046655,Beason Grove Cemetery,Beason Grove Cemetery,,33.56039,-85.55273,S,CMTY,US,,AL,029,,,0,282,293,America/Chicago,2006-01-15
+4046656,Cat Knob,Cat Knob,,38.46983,-78.43233,T,MT,US,,VA,113,,,0,985,1117,America/New_York,2019-03-05
+4046657,Beason Mill,Beason Mill,"Beason Mill,Beasons Mill",33.56316,-85.56023,S,,US,,AL,029,,,0,267,266,America/Chicago,2010-02-14
+4046658,Cattail School (historical),Cattail School (historical),,37.47208,-76.32161,S,SCH,US,,VA,115,,,0,2,5,America/New_York,2006-01-15
+4046659,Beason Spring,Beason Spring,,34.83914,-86.24391,H,SPNG,US,,AL,071,,,0,200,219,America/Chicago,2011-12-11
+4046660,Cheriton Elementary School,Cheriton Elementary School,,37.28653,-75.97188,S,SCH,US,,VA,131,,,0,6,9,America/New_York,2006-01-15
+4046661,Beason Spring,Beason Spring,,34.7382,-86.37604,H,SPNG,US,,AL,089,,,0,195,194,America/Chicago,2011-12-11
+4046662,Claresville,Claresville,,36.62265,-77.45081,P,PPL,US,,VA,081,,,0,27,28,America/New_York,2006-01-15
+4046663,Beasons Mill (historical),Beasons Mill (historical),,34.44092,-85.76163,S,,US,,AL,049,,,0,250,252,America/Chicago,2010-02-14
+4046664,Coal Pier 5,Coal Pier 5,,36.87793,-76.32883,S,,US,,VA,710,,,0,1,-9999,America/New_York,2010-02-19
+4046665,Beasons Mill (historical),Beasons Mill (historical),,33.87788,-86.30387,S,,US,,AL,115,,,0,177,187,America/Chicago,2010-02-19
+4046666,Copper Creek Bluff,Copper Creek Bluff,,36.66815,-82.6046,T,CLF,US,,VA,169,,,0,427,427,America/New_York,2006-01-15
+4046667,Beatrice,Beatrice,,31.73349,-87.20471,P,PPL,US,,AL,099,,,285,82,85,America/Chicago,2017-03-09
+4046668,Cove,Cove,,36.98209,-78.74556,P,PPL,US,,VA,083,,,0,130,143,America/New_York,2010-02-18
+4046669,Beatrice Elementary School,Beatrice Elementary School,,31.73766,-87.20638,S,SCH,US,,AL,099,,,0,82,86,America/Chicago,2006-01-15
+4046670,Covesville Post Office,Covesville Post Office,,37.89107,-78.70446,S,PO,US,,VA,003,,,0,232,232,America/New_York,2016-12-07
+4046671,Beatty Branch,Beatty Branch,,33.17484,-87.35167,H,STM,US,,AL,125,,,0,104,112,America/Chicago,2006-01-15
+4046672,Crescent Rock Trail,Crescent Rock Trail,,38.56679,-78.37778,R,TRL,US,,VA,113,,,0,1059,1060,America/New_York,2006-01-15
+4046673,Beason Grove Baptist Church,Beason Grove Baptist Church,"Beason Grove Baptist Church,Beason Grove Church",33.56039,-85.55385,S,CH,US,,AL,029,,,0,279,292,America/Chicago,2006-01-15
+4046674,Crockett,Crockett,"Crockett,Crockett Depot,Crocketts Depot",36.88623,-81.19204,P,PPL,US,,VA,197,,,0,716,714,America/New_York,2006-01-15
+4046675,Beauchamp Branch,Beauchamp Branch,"Beachan Creek,Beauchamp Branch",34.77453,-87.07696,H,STM,US,,AL,083,,,0,191,200,America/Chicago,2006-01-15
+4046676,Crow Bar,Crow Bar,,38.0443,-76.55607,T,CAPE,US,,VA,193,,,0,0,1,America/New_York,2006-01-15
+4046677,Beauford Landing,Beauford Landing,"Beauford Landing,Burford Landing",31.95293,-87.39333,S,,US,,AL,131,,,0,14,18,America/Chicago,2010-02-14
+4046678,Dale Cemetery,Dale Cemetery,,37.0026,-82.54682,S,CMTY,US,,VA,195,,,0,781,784,America/New_York,2006-01-15
+4046679,Beaulah School (historical),Beaulah School (historical),,32.23292,-86.49692,S,SCH,US,,AL,085,,,0,67,69,America/Chicago,2006-01-15
+4046680,Dawn,Dawn,,37.83431,-77.36942,S,,US,,VA,033,,,0,62,65,America/New_York,2010-09-05
+4046681,Beaumont Church (historical),Beaumont Church (historical),,31.46266,-87.42971,S,CH,US,,AL,099,,,0,126,128,America/Chicago,2007-02-14
+4046682,Doran,Doran,Doran,37.09261,-81.83345,P,PPL,US,,VA,185,,,0,585,589,America/New_York,2006-01-15
+4046683,Beauregard,Beauregard,"Beauregard,bo lei jia de,bywrgard,bywrqard  alabama,بیورقارد، آلاباما,بیورگارد,博勒加德",32.54319,-85.37078,P,PPL,US,,AL,081,,,0,192,196,America/Chicago,2006-01-15
+4046684,Dropmore,Dropmore,,37.28763,-80.0581,P,PPL,US,,VA,775,,,0,313,315,America/New_York,2006-01-15
+4046685,Beauregard Church,Beauregard Church,,32.51403,-85.368,S,CH,US,,AL,081,,,0,190,194,America/Chicago,2006-01-15
+4046686,Dudie,Dudie,,38.74512,-77.88416,P,PPL,US,,VA,061,,,0,124,135,America/New_York,2010-02-18
+4046687,Beauregard High School,Beauregard High School,"Beauregard High School,Beauregard School",32.5493,-85.37328,S,SCH,US,,AL,081,,,0,186,189,America/Chicago,2006-01-15
+4046688,Duty,Duty,,37.0815,-82.1518,P,PPL,US,,VA,051,,,0,461,454,America/New_York,2006-01-15
+4046689,Beautiful Zion African Methodist Episcopal Zion Church,Beautiful Zion African Methodist Episcopal Zion Church,"Allen Chapel,Beautiful Zion African Methodist Episcopal Zion Church,Beautiful Zion Church",32.01293,-86.45803,S,CH,US,,AL,085,,,0,116,122,America/Chicago,2006-01-15
+4046690,Eton Hill,Eton Hill,,37.22569,-80.00809,P,PPL,US,,VA,161,,,0,356,356,America/New_York,2006-01-15
+4046691,Beautiful Zion African Methodist Episcopal Zion Church,Beautiful Zion African Methodist Episcopal Zion Church,"Beautiful Zion African Methodist Episcopal Zion Church,Beautiful Zion Church",33.17901,-87.62945,S,CH,US,,AL,125,,,0,44,47,America/Chicago,2010-02-14
+4046692,Fairfax County Landfill,Fairfax County Landfill,,38.85456,-77.38165,S,LNDF,US,,VA,059,,,0,140,159,America/New_York,2010-02-18
+4046693,Beautiful Zion Cemetery,Beautiful Zion Cemetery,,33.17956,-87.62918,S,CMTY,US,,AL,125,,,0,43,47,America/Chicago,2010-02-14
+4046694,Fairlee,Fairlee,,38.87372,-77.27137,P,PPL,US,,VA,059,,,0,112,119,America/New_York,2006-01-15
+4046695,Beaven Cemetery,Beaven Cemetery,,33.69372,-87.55806,S,CMTY,US,,AL,057,,,0,188,190,America/Chicago,2006-01-15
+4046696,Fall,Fall,,36.62458,-79.36836,S,,US,,VA,143,,,0,142,146,America/New_York,2010-09-05
+4046697,Beaver Branch,Beaver Branch,,31.82294,-85.60689,H,STM,US,,AL,005,,,0,103,120,America/Chicago,2006-01-15
+4046698,Fields Gap,Fields Gap,,36.59732,-82.79683,T,GAP,US,,VA,169,,,0,454,476,America/New_York,2006-01-15
+4046699,Beaula Camp Grounds,Beaula Camp Grounds,,31.41683,-87.30359,S,CMP,US,,AL,099,,,0,123,131,America/Chicago,2010-02-14
+4046700,First Church of God,First Church of God,"First Church of God,Holiness Church",36.86956,-81.41011,S,CH,US,,VA,173,,,0,708,709,America/New_York,2007-02-14
+4046701,Beaver Branch,Beaver Branch,,32.71235,-86.76137,H,STM,US,,AL,021,,,0,112,124,America/Chicago,2006-01-15
+4046702,First Methodist Church,First Methodist Church,,36.69009,-83.11017,S,CH,US,,VA,105,,,0,468,467,America/New_York,2006-01-15
+4046703,Beaver Branch,Beaver Branch,,31.69016,-86.29913,H,STM,US,,AL,041,,,0,79,87,America/Chicago,2006-01-15
+4046704,Fort Hunt,Fort Hunt,"Fort Hunt,Fort Khant,Fort-Gant,frt hant,frt hant  wyrjynya,fwrt hnt,Форт Хант,Форт-Гант,فرت هانت,فرت هانت، ویرجینیا,فورت هنت,フォート・ハント",38.73289,-77.05803,P,PPL,US,,VA,059,,,16045,10,16,America/New_York,2011-05-14
+4046705,Beaver Branch,Beaver Branch,,31.87599,-86.37747,H,STM,US,,AL,041,,,0,108,116,America/Chicago,2006-01-15
+4046706,Franklin Cemetery,Franklin Cemetery,,36.67121,-82.81766,S,CMTY,US,,VA,169,,,0,524,517,America/New_York,2006-01-15
+4046707,Beaver Branch,Beaver Branch,,31.43072,-85.70327,H,STM,US,,AL,045,,,0,66,73,America/Chicago,2006-01-15
+4046708,Franks Mill,Franks Mill,,38.22207,-79.10698,P,PPL,US,,VA,015,,,0,408,407,America/New_York,2006-01-15
+4046709,Beaver Branch,Beaver Branch,,34.9662,-86.22249,H,STM,US,,AL,071,,,0,213,222,America/Chicago,2006-01-15
+4046710,Gatewood Dam,Gatewood Dam,,37.03845,-80.8598,S,DAM,US,,VA,155,,,0,642,661,America/New_York,2006-01-15
+4046711,Beaver Branch,Beaver Branch,,31.79933,-85.79189,H,STM,US,,AL,109,,,0,106,120,America/Chicago,2006-01-15
+4046712,Genito,Genito,,37.46209,-77.85917,P,PPL,US,,VA,145,,,0,92,96,America/New_York,2006-01-15
+4046713,Beaver Church,Beaver Church,"Beaver Church,Beaver Creek Church",33.62567,-87.91669,S,CH,US,,AL,057,,,0,110,116,America/Chicago,2010-02-14
+4046714,Gibson Mill,Gibson Mill,,36.60619,-83.57602,P,PPL,US,,VA,105,,,0,371,377,America/New_York,2006-01-15
+4046715,Beaver Creek,Beaver Creek,,32.40097,-86.73248,H,STM,US,,AL,001,,,0,38,40,America/Chicago,2010-09-05
+4046716,Godwins Millpond Dam,Godwins Millpond Dam,"Crumps Pond Dam,Godwins Millpond Dam",36.86432,-76.58301,S,DAM,US,,VA,800,,,0,3,6,America/New_York,2006-01-15
+4046717,Beaver Creek,Beaver Creek,,32.57041,-86.51192,H,STM,US,,AL,001,,,0,91,102,America/Chicago,2006-01-15
+4046718,Goodes Bridge,Goodes Bridge,"Burton's Bridge,Goode Bridge,Goode's Bridge,Goodes Bridge",37.35487,-77.85167,S,BDG,US,,VA,041,,,0,55,52,America/New_York,2010-09-05
+4046719,Beaver Creek,Beaver Creek,"Beaver Creek,Peary Creek",31.77988,-86.65109,H,STM,US,,AL,013,,,0,96,107,America/Chicago,2006-01-15
+4046720,Goose Creek Burying Ground,Goose Creek Burying Ground,,39.11566,-77.6961,S,CMTY,US,,VA,107,,,0,154,150,America/New_York,2006-01-15
+4046721,Beaver Creek,Beaver Creek,,31.8671,-88.22724,H,STM,US,,AL,023,,,0,17,31,America/Chicago,2006-01-15
+4046722,Gouldmans Dam,Gouldmans Dam,,38.17624,-77.2047,S,DAM,US,,VA,033,,,0,2,5,America/New_York,2006-01-15
+4046723,Beaver Creek,Beaver Creek,,32.9129,-86.28053,H,STM,US,,AL,037,,,0,116,138,America/Chicago,2006-01-15
+4046724,Grant,Grant,,36.66234,-81.40399,P,PPL,US,,VA,077,,,0,860,863,America/New_York,2006-01-15
+4046725,Beaver Creek,Beaver Creek,,31.11462,-86.33745,H,STM,US,,AL,039,,,0,53,66,America/Chicago,2006-01-15
+4046727,Beaver Creek,Beaver Creek,,31.58461,-85.6255,H,STM,US,,AL,045,,,0,88,86,America/Chicago,2010-02-14
+4046728,Green Bay,Green Bay,"Green Bay,Villa Green",37.96514,-77.69471,P,PPL,US,,VA,085,,,0,100,100,America/New_York,2010-02-18
+4046729,Beaver Creek,Beaver Creek,,33.6365,-87.94919,H,STM,US,,AL,057,,,0,87,93,America/Chicago,2010-10-12
+4046730,Guinea,Guinea,"Guinea,Guinea Station,Guiney,Guiney's,Guiney's Station,gyny,ji nei ya,qyny  wyrjynya,תחנת גינאה,قینی، ویرجینیا,گینی,幾內亞",38.14374,-77.43776,P,PPL,US,,VA,033,,,0,41,39,America/New_York,2006-01-15
+4046731,Beaver Creek,Beaver Creek,,33.73539,-87.60584,H,STM,US,,AL,057,,,0,113,119,America/Chicago,2010-02-14
+4046732,Halfmoon Point,Halfmoon Point,,37.82263,-75.73715,T,CAPE,US,,VA,001,,,0,0,0,America/New_York,2006-01-15
+4046733,Beaver Creek,Beaver Creek,,33.01512,-87.76001,H,STM,US,,AL,063,,,0,36,48,America/Chicago,2010-02-14
+4046734,Hallwood,Hallwood,,37.87763,-75.58909,P,PPL,US,,VA,001,,,204,6,8,America/New_York,2017-03-09
+4046735,Beaver Creek,Beaver Creek,,32.99096,-88.03252,H,STM,US,,AL,063,,,0,54,66,America/Chicago,2006-01-15
+4046736,Harrells Dam,Harrells Dam,,36.77614,-77.39201,S,DAM,US,,VA,183,,,0,26,33,America/New_York,2010-09-05
+4046737,Beaver Creek,Beaver Creek,,31.68461,-85.3466,H,STM,US,,AL,067,,,0,95,98,America/Chicago,2010-02-14
+4046738,Harris Mountain,Harris Mountain,,36.64513,-80.70201,T,MT,US,,VA,035,,,0,891,886,America/New_York,2006-01-15
+4046739,Beaver Creek,Beaver Creek,,31.22045,-85.49855,H,STM,US,,AL,069,,,0,64,67,America/Chicago,2006-01-15
+4046740,Henry Cemetery,Henry Cemetery,"Henry Cemetery,Henry's Grave",37.03236,-78.89696,S,CMTY,US,,VA,037,,,0,154,158,America/New_York,2010-02-19
+4046741,Beaver Creek,Beaver Creek,,31.30962,-85.2741,H,STM,US,,AL,069,,,0,53,62,America/Chicago,2010-02-14
+4046742,Herbert Dam,Herbert Dam,,38.90678,-77.88972,S,DAM,US,,VA,061,,,0,151,151,America/New_York,2006-01-15
+4046743,Beaver Creek,Beaver Creek,,33.69899,-86.68582,H,STM,US,,AL,073,,,0,177,184,America/Chicago,2006-01-15
+4046744,Hickory Run,Hickory Run,,36.96515,-77.84889,P,PPL,US,,VA,025,,,0,94,100,America/New_York,2010-02-18
+4046745,Beaver Creek,Beaver Creek,"Beaver Creek,Beaverton Creek",33.92955,-88.12364,H,STM,US,,AL,075,,,0,94,106,America/Chicago,2011-01-10
+4046746,High Hill Church,High Hill Church,"High Hill Baptist Church,High Hill Church,High Hills Baptist Church",36.81709,-77.46109,S,CH,US,,VA,183,,,0,46,52,America/New_York,2006-01-15
+4046747,Beaver Creek,Beaver Creek,,31.9732,-86.69276,H,STM,US,,AL,085,,,0,88,93,America/Chicago,2006-01-15
+4046748,Hillendale Park,Hillendale Park,,38.65845,-77.33971,L,PRK,US,,VA,153,,,0,90,99,America/New_York,2006-01-15
+4046749,Beaver Creek,Beaver Creek,,32.1957,-88.00918,H,STM,US,,AL,091,,,0,11,18,America/Chicago,2010-02-14
+4046750,Holy Trinity Lutheran Church,Holy Trinity Lutheran Church,,38.86789,-77.18859,S,CH,US,,VA,059,,,0,100,100,America/New_York,2006-01-15
+4046751,Beaver Creek,Beaver Creek,"Bailey Creek,Beaver Creek",31.74321,-87.43944,H,STM,US,,AL,099,,,0,11,15,America/Chicago,2006-01-15
+4046752,Hopper Creek Group Camp,Hopper Creek Group Camp,"Hopper Creek Group Camp,Hopper Creek Recreation Site",37.56041,-79.50893,S,CMP,US,,VA,163,,,0,330,348,America/New_York,2010-02-18
+4046753,Beaver Creek,Beaver Creek,,33.42845,-87.96947,H,STM,US,,AL,107,,,0,76,82,America/Chicago,2010-02-14
+4046754,Hume,Hume,"Barbee Crossroads,Barbees,Hume",38.83206,-77.99944,P,PPL,US,,VA,061,,,0,208,206,America/New_York,2010-02-18
+4046755,Beaver Creek,Beaver Creek,,33.14262,-88.27809,H,STM,US,,AL,107,,,0,33,48,America/Chicago,2006-01-15
+4046756,Hundley Dam,Hundley Dam,,38.03013,-76.95469,S,DAM,US,,VA,057,,,0,1,1,America/New_York,2006-01-15
+4046757,Beaver Creek,Beaver Creek,,33.12151,-86.60693,H,STM,US,,AL,117,,,0,145,160,America/Chicago,2006-01-15
+4046758,Huntington Park,Huntington Park,,38.79678,-77.06998,L,PRK,US,,VA,059,,,0,2,1,America/New_York,2006-01-15
+4046759,Beaver Creek,Beaver Creek,,33.83927,-86.06858,H,STM,US,,AL,115,,,0,155,154,America/Chicago,2010-02-14
+4046760,Jack,Jack,,37.19654,-77.50915,P,PPL,US,,VA,053,,,0,58,58,America/New_York,2006-01-15
+4046761,Beaver Creek,Beaver Creek,,32.94791,-88.30698,H,STM,US,,AL,119,,,0,37,42,America/Chicago,2006-01-15
+4046762,Jenkins Bridge,Jenkins Bridge,"Jenkins Bridge,Jenkins' Bridge,Jenkinsons Bridge",37.92818,-75.60798,S,,US,,VA,001,,,0,1,4,America/New_York,2010-02-18
+4046763,Beaver Creek,Beaver Creek,,32.00348,-87.475,H,STM,US,,AL,131,,,0,11,19,America/Chicago,2006-01-15
+4046764,Jones Dam,Jones Dam,,37.18015,-77.65138,S,DAM,US,,VA,053,,,0,80,89,America/New_York,2006-01-15
+4046765,Beaver Creek,Beaver Creek,,31.88154,-86.91526,H,STM,US,,AL,131,,,0,69,72,America/Chicago,2006-01-15
+4046766,Kane Gap,Kane Gap,"Cain Gap,Kane Gap",36.73259,-82.82405,T,GAP,US,,VA,169,,,0,785,810,America/New_York,2006-01-15
+4046767,Beaver Creek Baptist Cemetery,Beaver Creek Baptist Cemetery,,32.17181,-87.8789,S,CMTY,US,,AL,091,,,0,52,60,America/Chicago,2006-01-15
+4046768,Kendall Dam,Kendall Dam,,36.79347,-79.39475,S,DAM,US,,VA,143,,,0,196,202,America/New_York,2006-01-15
+4046769,Beaver Creek Church,Beaver Creek Church,,31.80904,-86.71109,S,CH,US,,AL,013,,,0,118,126,America/Chicago,2006-01-15
+4046770,Kennedy Mine,Kennedy Mine,,37.95458,-79.00364,S,MN,US,,VA,015,,,0,634,626,America/New_York,2006-01-15
+4046771,Beaver Creek Church,Beaver Creek Church,,32.17126,-87.88029,S,CH,US,,AL,091,,,0,58,63,America/Chicago,2006-01-15
+4046772,Kimages Hill,Kimages Hill,,37.34404,-77.22414,T,MT,US,,VA,036,,,0,17,18,America/New_York,2006-01-15
+4046773,Beaver Creek Gas Field,Beaver Creek Gas Field,,33.94455,-88.0042,L,OILF,US,,AL,075,,,0,111,117,America/Chicago,2010-10-12
+4046774,King Point,King Point,,37.88818,-76.27272,T,CAPE,US,,VA,133,,,0,0,1,America/New_York,2006-01-15
+4046775,Beaver Creek Landing (historical),Beaver Creek Landing (historical),,32.19487,-88.00835,S,,US,,AL,091,,,0,13,18,America/Chicago,2010-02-14
+4046776,Lake Holly Dam,Lake Holly Dam,,37.98514,-77.2547,S,DAM,US,,VA,033,,,0,36,43,America/New_York,2006-01-15
+4046777,Beaver Creek Lookout Tower,Beaver Creek Lookout Tower,"Beaver Creek Fire Tower,Beaver Creek Lookout Tower",30.6638,-88.34862,S,TOWR,US,,AL,097,,,0,46,50,America/Chicago,2010-02-14
+4046778,Lauraville,Lauraville,,37.96041,-77.19525,P,PPL,US,,VA,033,,,0,56,58,America/New_York,2010-09-05
+4046779,Beaver Creek Mountains,Beaver Creek Mountains,"Beaver Creek Mountains,Beaver Mountain,Beaver Mountains,Oak Ridge",33.77066,-86.27665,T,RDGE,US,,AL,115,,,0,262,267,America/Chicago,2010-02-14
+4046780,Lick Points,Lick Points,,38.32568,-79.787,T,RDGE,US,,VA,091,,,0,1117,1131,America/New_York,2006-01-15
+4046781,Beaver Creek Sewage Treatment Plant,Beaver Creek Sewage Treatment Plant,,31.21934,-85.4666,S,SWT,US,,AL,069,,,0,76,77,America/Chicago,2010-02-14
+4046782,Linton Dam,Linton Dam,,37.93014,-78.17639,S,DAM,US,,VA,065,,,0,132,142,America/New_York,2006-01-15
+4046783,Beaver Creek Valley,Beaver Creek Valley,,33.85065,-86.05692,T,VAL,US,,AL,115,,,0,155,154,America/Chicago,2006-01-15
+4046784,Little Bethel Church,Little Bethel Church,"Little Bethel Baptist Church,Little Bethel Church,Missionary Church",37.30765,-77.99639,S,CH,US,,VA,007,,,0,125,126,America/New_York,2010-02-18
+4046785,Beaver Creek Cemetery,Beaver Creek Cemetery,"Beaver Creek Cemetery,Old Beaver Creek Cemetery,Seale Cemetery",33.1354,-86.59804,S,CMTY,US,,AL,117,,,0,173,183,America/Chicago,2006-01-15
+4046786,Little Harkening Hill,Little Harkening Hill,,37.46958,-79.61893,T,MT,US,,VA,023,,,0,901,885,America/New_York,2006-01-15
+4046787,Beaver Dam Branch,Beaver Dam Branch,,32.37819,-87.08082,H,STM,US,,AL,047,,,0,20,31,America/Chicago,2010-02-14
+4046788,Little Oyster Bay,Little Oyster Bay,,37.93401,-75.34881,H,BAY,US,,VA,001,,,0,0,1,America/New_York,2006-01-15
+4046789,Beaver Dam Branch,Beaver Dam Branch,,34.29454,-88.03393,H,STM,US,,AL,093,,,0,144,152,America/Chicago,2010-02-14
+4046790,Little Stony Man Mountain,Little Stony Man Mountain,,38.60151,-78.36862,T,MT,US,,VA,139,,,0,1110,1104,America/New_York,2015-06-07
+4046791,Beaver Dam Church,Beaver Dam Church,"Beaver Dam Church,Mount Olivet Church",33.18595,-87.81918,S,CH,US,,AL,125,,,0,57,59,America/Chicago,2010-02-14
+4046792,Lodi,Lodi,Lodi,36.71484,-81.77734,P,PPL,US,,VA,191,,,0,632,630,America/New_York,2006-01-15
+4046793,Beaver Dam Creek,Beaver Dam Creek,,32.04181,-86.42691,H,STM,US,,AL,085,,,0,87,100,America/Chicago,2006-01-15
+4046794,Long Branch,Long Branch,,38.18763,-77.39332,P,PPL,US,,VA,033,,,0,69,68,America/New_York,2006-01-15
+4046795,Beaver Dam Creek,Beaver Dam Creek,,31.10934,-87.99528,H,STM,US,,AL,097,,,0,2,5,America/Chicago,2006-01-15
+4046796,Long Branch Church,Long Branch Church,"Long Branch Baptist Church,Long Branch Church",38.91511,-77.74472,S,CH,US,,VA,061,,,0,139,142,America/New_York,2006-01-15
+4046797,Beaver Dam Creek,Beaver Dam Creek,"Beaver Dam Creek,Beaverdam Creek,Little Bassetts Creek",31.48378,-88.2464,H,STM,US,,AL,129,,,0,36,38,America/Chicago,2010-09-05
+4046798,Lynnwood,Lynnwood,Lynnwood,38.31013,-78.77169,P,PPL,US,,VA,165,,,0,317,315,America/New_York,2006-01-15
+4046799,Beaver Dam Creek Springs,Beaver Dam Creek Springs,,34.77842,-87.71031,H,SPNG,US,,AL,077,,,0,127,138,America/Chicago,2010-02-14
+4046800,Machodoc,Machodoc,"Machodoc,Sandy Valley,The Sandy Valley",38.08041,-76.69663,P,PPL,US,,VA,193,,,0,15,22,America/New_York,2006-01-15
+4046801,Beaver Lake,Beaver Lake,,31.3403,-85.69858,H,RSV,US,,AL,045,,,0,75,84,America/Chicago,2011-12-11
+4046802,Melrose Park,Melrose Park,,37.28236,-79.96087,L,PRK,US,,VA,770,,,0,311,306,America/New_York,2006-01-15
+4046803,Beaver Lake,Beaver Lake,,32.75013,-85.80663,H,RSV,US,,AL,123,,,0,172,177,America/Chicago,2010-02-14
+4046804,Michaux,Michaux,"Michaux,Michauxs Ferry,Pineville",37.64876,-77.90194,P,PPL,US,,VA,145,,,0,95,97,America/New_York,2010-02-18
+4046805,Beaver Lake (historical),Beaver Lake (historical),,34.61676,-86.94862,H,LK,US,,AL,083,,,0,170,167,America/Chicago,2006-01-15
+4046806,Midvale,Midvale,"Midvale,Midville",37.83597,-79.2867,P,PPL,US,,VA,163,,,0,333,334,America/New_York,2006-01-15
+4046807,Beaver Meadow (historical),Beaver Meadow (historical),,30.96963,-88.23473,S,,US,,AL,097,,,0,30,36,America/Chicago,2010-02-14
+4046808,Miller Cove,Miller Cove,,37.48264,-76.34355,H,BAY,US,,VA,115,,,0,1,9,America/New_York,2006-01-15
+4046809,Beaver Pond,Beaver Pond,,31.71221,-85.53753,H,RSV,US,,AL,005,,,0,108,110,America/Chicago,2011-12-11
+4046810,Mine Gap,Mine Gap,,38.89483,-78.40278,T,GAP,US,,VA,171,,,0,332,353,America/New_York,2006-01-15
+4046811,Beaver Pond,Beaver Pond,,33.22873,-87.14027,H,LK,US,,AL,007,,,0,184,186,America/Chicago,2006-01-15
+4046812,Mount Pleasant,Mount Pleasant,,38.10236,-77.05192,P,PPL,US,,VA,057,,,0,6,14,America/New_York,2010-02-18
+4046813,Beaver Pond Branch,Beaver Pond Branch,,34.4526,-87.22918,H,STM,US,,AL,079,,,0,189,197,America/Chicago,2006-01-15
+4046814,Mount View Church,Mount View Church,,36.61846,-80.68562,S,CH,US,,VA,035,,,0,472,474,America/New_York,2006-01-15
+4046815,Beaver Dam Lake,Beaver Dam Lake,,31.45169,-87.29121,H,SWMP,US,,AL,099,,,0,90,96,America/Chicago,2011-12-11
+4046816,Mountain View School (historical),Mountain View School (historical),,36.88484,-81.15815,S,SCH,US,,VA,197,,,0,781,780,America/New_York,2006-01-15
+4046817,Beaver Pond Branch,Beaver Pond Branch,,31.1149,-88.30418,H,STM,US,,AL,097,,,0,42,54,America/Chicago,2006-01-15
+4046818,Muddy Run Spring,Muddy Run Spring,,38.10652,-79.75072,H,SPNG,US,,VA,017,,,0,700,714,America/New_York,2011-12-12
+4046819,Beaver Pond Branch,Beaver Pond Branch,,31.74738,-85.85856,H,STM,US,,AL,109,,,0,103,110,America/Chicago,2010-02-14
+4046820,Nelsonia,Nelsonia,,37.81985,-75.58715,P,PPL,US,,VA,001,,,523,15,16,America/New_York,2011-05-14
+4046821,Beaver Pond Creek,Beaver Pond Creek,,31.00212,-86.18716,H,STM,US,,AL,039,,,0,48,64,America/Chicago,2006-01-15
+4046822,Nomini Bay,Nomini Bay,"Baie Nominy,Nomini Bay,Nominy Bay,Nomisny Bay,White Point Bay",38.14985,-76.72246,H,BAY,US,,VA,193,,,0,0,-9999,America/New_York,2006-01-15
+4046823,Beaver Pond Creek,Beaver Pond Creek,"Beaver Pond Branch,Beaver Pond Creek",30.94963,-88.22278,H,STM,US,,AL,097,,,0,27,36,America/Chicago,2010-02-14
+4046824,North Cross School,North Cross School,,37.22658,-80.00032,S,SCH,US,,VA,161,,,0,353,350,America/New_York,2016-12-07
+4046825,Beaver Pond Creek,Beaver Pond Creek,,33.36789,-87.40695,H,STM,US,,AL,125,,,0,57,79,America/Chicago,2010-02-14
+4046826,Oakes Dam,Oakes Dam,,36.7018,-79.01974,S,DAM,US,,VA,083,,,0,114,117,America/New_York,2010-02-18
+4046827,The Beaver Pond,The Beaver Pond,,31.82626,-86.19532,H,LK,US,,AL,041,,,0,95,95,America/Chicago,2016-12-06
+4046828,Oakland Cemetery,Oakland Cemetery,,38.28763,-77.32054,S,CMTY,US,,VA,099,,,0,61,64,America/New_York,2010-09-05
+4046829,Beaver Run,Beaver Run,,31.83293,-88.32307,H,STM,US,,AL,023,,,0,34,46,America/Chicago,2006-01-15
+4046830,Old Andrew Church,Old Andrew Church,"Andrew Chapel Methodist Church,Old Andrew Church",38.39929,-77.37554,S,CH,US,,VA,179,,,0,37,46,America/New_York,2010-09-05
+4046831,Beaver Spring,Beaver Spring,,34.41065,-86.67138,H,SPNG,US,,AL,103,,,0,189,199,America/Chicago,2010-02-14
+4046832,Old Coach Hills,Old Coach Hills,,37.4432,-77.51888,P,PPL,US,,VA,041,,,0,50,50,America/New_York,2006-01-15
+4046833,Beaver Valley (historical),Beaver Valley (historical),,33.72427,-86.35165,S,,US,,AL,115,,,0,206,214,America/Chicago,2010-02-14
+4046834,Oldfields,Oldfields,,37.36125,-79.93976,P,PPL,US,,VA,023,,,0,337,336,America/New_York,2006-01-15
+4046835,Beaver Valley Post Office (historical),Beaver Valley Post Office (historical),,33.72427,-86.35165,S,PO,US,,AL,115,,,0,206,214,America/Chicago,2010-02-14
+4046836,Oliver,Oliver,,37.8582,-77.53276,P,PPL,US,,VA,085,,,0,77,83,America/New_York,2010-02-18
+4046837,Beaverdam Branch,Beaverdam Branch,,31.22989,-86.08328,H,STM,US,,AL,031,,,0,54,64,America/Chicago,2006-01-15
+4046838,Otter Hill,Otter Hill,,37.25792,-79.44781,P,PPL,US,,VA,019,,,0,273,270,America/New_York,2006-01-15
+4046839,Beaver Town,Beaver Town,,33.19457,-88.19809,P,PPL,US,,AL,107,,,0,73,75,America/Chicago,2010-02-14
+4046840,Peak Cemetery,Peak Cemetery,,36.82928,-81.66262,S,CMTY,US,,VA,173,,,0,658,652,America/New_York,2006-01-15
+4046841,Beaverdam Branch,Beaverdam Branch,,31.53239,-85.04521,H,STM,US,,AL,067,,,0,34,47,America/New_York,2006-01-15
+4046842,Pembroke Petit Bridge,Pembroke Petit Bridge,,37.85764,-78.26639,S,BDG,US,,VA,065,,,0,65,69,America/New_York,2010-02-18
+4046843,Beaverdam Branch,Beaverdam Branch,,34.93203,-87.33641,H,STM,US,,AL,077,,,0,189,195,America/Chicago,2006-01-15
+4046844,Perkins Tunnel,Perkins Tunnel,,37.16094,-82.37015,R,TNL,US,,VA,051,,,0,496,499,America/New_York,2006-01-15
+4046845,Beaverdam Branch,Beaverdam Branch,,33.22595,-87.83085,H,STM,US,,AL,125,,,0,72,81,America/Chicago,2010-02-14
+4046846,Pettit Dam,Pettit Dam,"Lake Sherman Dam,Pettit Dam",37.97514,-77.82638,S,DAM,US,,VA,109,,,0,81,86,America/New_York,2010-02-18
+4046847,Beaverdam Cemetery,Beaverdam Cemetery,,31.50266,-86.14134,S,CMTY,US,,AL,031,,,0,119,123,America/Chicago,2006-01-15
+4046848,Pilot Knob School,Pilot Knob School,"Pilot Knob School,Smith School",37.06427,-82.37042,S,SCH,US,,VA,051,,,0,735,732,America/New_York,2010-09-05
+4046849,Beaverdam Primitive Baptist Church,Beaverdam Primitive Baptist Church,"Beaverdam Church,Beaverdam Primitive Baptist Church",31.50128,-86.14162,S,CH,US,,AL,031,,,0,115,122,America/Chicago,2007-02-14
+4046850,Pocahontas Mine,Pocahontas Mine,,37.30762,-81.34621,S,MN,US,,VA,185,,,0,723,717,America/New_York,2010-02-18
+4046851,Beaverdam Church (historical),Beaverdam Church (historical),,34.92842,-87.31335,S,CH,US,,AL,077,,,0,238,241,America/Chicago,2007-02-14
+4046852,Pohick School (historical),Pohick School (historical),,38.7565,-77.23359,S,SCH,US,,VA,059,,,0,87,83,America/New_York,2006-01-15
+4046853,Beaverdam Creek,Beaverdam Creek,,30.97379,-87.78444,H,STM,US,,AL,003,,,0,35,43,America/Chicago,2006-01-15
+4046854,The Punchbowl,The Punchbowl,,37.73903,-76.62246,H,BAY,US,,VA,119,,,0,0,1,America/New_York,2007-02-14
+4046855,Beaverdam Cemetery,Beaverdam Cemetery,,34.87426,-86.66194,S,CMTY,US,,AL,089,,,0,244,239,America/Chicago,2006-01-15
+4046856,Queen Esther Baptist Church,Queen Esther Baptist Church,,37.73403,-76.54273,S,CH,US,,VA,103,,,0,13,17,America/New_York,2006-01-15
+4046857,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek",32.00043,-85.80189,H,STM,US,,AL,011,,,0,126,141,America/Chicago,2010-02-14
+4046858,Rainer Dam,Rainer Dam,,37.66514,-77.2997,S,DAM,US,,VA,085,,,0,28,43,America/New_York,2006-01-15
+4046859,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek",32.96207,-86.92777,H,STM,US,,AL,007,,,0,120,131,America/Chicago,2006-01-15
+4046860,Ramsey Dam,Ramsey Dam,,37.45181,-79.31475,S,DAM,US,,VA,019,,,0,583,596,America/New_York,2006-01-15
+4046861,Beaverdam Creek,Beaverdam Creek,,31.49072,-85.73022,H,STM,US,,AL,031,,,0,77,83,America/Chicago,2006-01-15
+4046862,Red Valley,Red Valley,"Kennett,Red Valley",37.13514,-79.86142,P,PPL,US,,VA,067,,,0,369,366,America/New_York,2006-01-15
+4046863,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Branch,Beaver Dam Creek,Beaverdam Creek",31.40572,-86.07272,H,STM,US,,AL,031,,,0,52,58,America/Chicago,2006-01-15
+4046864,Reston Town Center,Reston Town Center,,38.959,-77.35693,S,,US,,VA,059,,,0,127,147,America/New_York,2010-02-20
+4046865,Beaverdam Creek,Beaverdam Creek,,31.19795,-86.01189,H,STM,US,,AL,031,,,0,50,65,America/Chicago,2010-02-14
+4046866,Reynolds Creek,Reynolds Creek,,37.20486,-75.88715,H,INLT,US,,VA,131,,,0,1,-1,America/New_York,2006-01-15
+4046867,Beaverdam Creek,Beaverdam Creek,,31.50017,-85.74299,H,STM,US,,AL,045,,,0,80,92,America/Chicago,2006-01-15
+4046868,Robinson Dam,Robinson Dam,"Alabama Club Pond Dam,Robinson Dam",36.56515,-77.60359,S,DAM,US,,VA,081,,,0,34,44,America/New_York,2006-01-15
+4046869,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek,Coffee Creek",31.10157,-85.95188,H,STM,US,,AL,061,,,0,29,41,America/Chicago,2010-02-14
+4046870,Saint Pauls School,Saint Pauls School,,37.56903,-77.43609,S,SCH,US,,VA,760,,,0,49,52,America/New_York,2006-01-15
+4046871,Beaverdam Creek,Beaverdam Creek,,34.62509,-86.82695,H,STM,US,,AL,083,,,0,170,167,America/Chicago,2006-01-15
+4046872,Salem,Salem,,38.64429,-78.54779,P,PPL,US,,VA,139,,,0,261,257,America/New_York,2006-01-15
+4046873,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek",34.60009,-86.88445,H,STM,US,,AL,083,,,0,170,168,America/Chicago,2006-01-15
+4046874,Sandy Ridge,Sandy Ridge,,37.23765,-77.50026,P,PPL,US,,VA,041,,,0,64,64,America/New_York,2006-01-15
+4046875,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek",32.31431,-85.83718,H,STM,US,,AL,087,,,0,73,84,America/Chicago,2006-01-15
+4046876,Second Elam Church,Second Elam Church,"Second Elam Baptist Church,Second Elam Church",37.52292,-76.89969,S,CH,US,,VA,127,,,0,31,36,America/New_York,2010-09-05
+4046877,Beaverdam Creek,Beaverdam Creek,,34.84648,-86.54194,H,STM,US,,AL,089,,,0,211,212,America/Chicago,2006-01-15
+4046878,Sheppe Pond,Sheppe Pond,,37.61219,-79.38559,H,LK,US,,VA,009,,,0,322,326,America/New_York,2011-12-12
+4046879,Beaverdam Creek,Beaverdam Creek,,31.24795,-87.63471,H,STM,US,,AL,099,,,0,24,32,America/Chicago,2006-01-15
+4046880,Shifflet Corner,Shifflet Corner,,38.30874,-78.27306,P,PPL,US,,VA,113,,,0,177,178,America/New_York,2006-01-15
+4046881,Beaverdam Creek,Beaverdam Creek,"Beaverdam Creek,Bethlehem Creek",32.74207,-87.11166,H,STM,US,,AL,105,,,0,79,90,America/Chicago,2006-01-15
+4046882,Shorts Gap,Shorts Gap,,37.20514,-79.83392,T,GAP,US,,VA,067,,,0,368,377,America/New_York,2006-01-15
+4046883,Beaverdam Creek,Beaverdam Creek,"Beaver Dam Creek,Beaverdam Creek,Cotutlogee Creek",33.13318,-85.55912,H,STM,US,,AL,111,,,0,186,195,America/Chicago,2006-01-15
+4046884,Signpine,Signpine,,37.44375,-76.64496,P,PPL,US,,VA,073,,,0,29,33,America/New_York,2010-09-05
+4046885,Beaverdam Creek,Beaverdam Creek,"Beaverdam Creek,Bever Dam Creek",33.26289,-86.89749,H,STM,US,,AL,117,,,0,108,120,America/Chicago,2006-01-15
+4046886,Smithfield Lake Dam,Smithfield Lake Dam,,36.97682,-76.66468,S,DAM,US,,VA,093,,,0,5,7,America/New_York,2006-01-15
+4046887,Beaverdam Creek,Beaverdam Creek,,31.39989,-88.22862,H,STM,US,,AL,129,,,0,31,39,America/Chicago,2006-01-15
+4046888,Sparrow Point,Sparrow Point,,37.54319,-75.93827,T,CAPE,US,,VA,131,,,0,0,-9999,America/New_York,2006-01-15
+4046889,Beaverdam Primitive Baptist Church,Beaverdam Primitive Baptist Church,"Beaverdam Church,Beaverdam Primitive Baptist Church",34.8737,-86.66305,S,CH,US,,AL,089,,,0,247,240,America/Chicago,2006-01-15
+4046890,Sperryville,Sperryville,"Sperivil,Sperrivill,Sperryville,aspry wyl,aspry wyl  wyrjynya,Сперивил,Сперривилл,Сперрівілл,اسپری ویل,اسپری ویل، ویرجینیا",38.65707,-78.22611,P,PPL,US,,VA,157,,,342,210,209,America/New_York,2011-05-14
+4046891,Beaverdam Spring,Beaverdam Spring,,34.70281,-86.82959,H,SPNG,US,,AL,083,,,0,175,183,America/Chicago,2011-12-11
+4046892,Starr Chapel United Methodist Church,Starr Chapel United Methodist Church,"Starr Chapel,Starr Chapel United Methodist Church",38.17179,-79.73977,S,CH,US,,VA,017,,,0,615,632,America/New_York,2010-02-18
+4046893,Beaverdam Swamp,Beaverdam Swamp,,34.65787,-86.82151,H,SWMP,US,,AL,083,,,0,171,181,America/Chicago,2011-12-11
+4046894,Stewarts Landing,Stewarts Landing,,37.50874,-75.9041,P,PPL,US,,VA,131,,,0,0,-9999,America/New_York,2006-01-15
+4046895,Beaverdam Swamp,Beaverdam Swamp,,34.69546,-86.83435,H,SWMP,US,,AL,083,,,0,175,175,America/Chicago,2011-12-11
+4046896,Stratton,Stratton,,37.08788,-82.36042,P,PPL,US,,VA,051,,,0,460,455,America/New_York,2006-01-15
+4046897,Beavers Cemetery,Beavers Cemetery,,34.58815,-87.45614,S,CMTY,US,,AL,079,,,0,215,219,America/Chicago,2006-01-15
+4046898,Sturgeon Creek Marina,Sturgeon Creek Marina,,38.08958,-77.78444,S,MAR,US,,VA,177,,,0,78,77,America/New_York,2010-02-19
+4046899,Beavers Cross,Beavers Cross,"Beaver Cross,Beavers Cross",34.58648,-87.45752,S,,US,,AL,079,,,0,214,220,America/Chicago,2010-02-14
+4046900,Sugar Grove School (historical),Sugar Grove School (historical),,36.81262,-81.63901,S,SCH,US,,VA,173,,,0,599,600,America/New_York,2006-01-15
+4046901,Beavers Cross School (historical),Beavers Cross School (historical),,34.58593,-87.45725,S,SCH,US,,AL,079,,,0,216,218,America/Chicago,2006-01-15
+4046902,Sulphur Spring Trail,Sulphur Spring Trail,,37.57514,-79.45226,R,TRL,US,,VA,019,,,0,581,583,America/New_York,2006-01-15
+4046903,Beavers Mill (historical),Beavers Mill (historical),,34.94898,-88.06809,S,,US,,AL,077,,,0,136,140,America/Chicago,2010-02-14
+4046904,Sun,Sun,,36.94177,-82.2857,P,PPL,US,,VA,167,,,0,507,503,America/New_York,2006-01-15
+4046905,Beavers Point,Beavers Point,,33.54594,-87.17778,T,CAPE,US,,AL,073,,,0,79,87,America/Chicago,2006-01-15
+4046906,Tabor Cemetery,Tabor Cemetery,,37.27012,-81.33593,S,CMTY,US,,VA,185,,,0,757,748,America/New_York,2006-01-15
+4046907,Beaverton,Beaverton,,33.93122,-88.02031,P,PPL,US,,AL,075,,,187,115,119,America/Chicago,2017-03-09
+4046908,Tally Ho Estates,Tally Ho Estates,,37.80542,-77.92111,P,PPL,US,,VA,075,,,0,109,114,America/New_York,2010-02-19
+4046909,Beaverton Gas Field,Beaverton Gas Field,,33.96399,-88.10559,L,OILF,US,,AL,075,,,0,103,112,America/Chicago,2010-02-14
+4046910,Terrapin Forest,Terrapin Forest,,38.66234,-77.39693,P,PPL,US,,VA,153,,,0,116,119,America/New_York,2006-01-15
+4046911,Beaverton Memorial Cemetery,Beaverton Memorial Cemetery,,33.92649,-88.0167,S,CMTY,US,,AL,075,,,0,167,167,America/Chicago,2010-02-14
+4046912,Third Hill,Third Hill,,38.72567,-78.69668,T,MT,US,,VA,171,,,0,447,447,America/New_York,2006-01-15
+4046913,U S Post Office,U S Post Office,,33.93149,-88.02086,S,PO,US,,AL,075,,,0,112,112,America/Chicago,2016-02-09
+4046914,Thoroughfare Gap,Thoroughfare Gap,"Broad Run Thoroughfare,Thorofare Gap,Thoroughfare Gap",38.82456,-77.71583,T,GAP,US,,VA,061,,,0,127,147,America/New_York,2006-01-15
+4046915,Beck,Beck,,31.25628,-86.58468,P,PPL,US,,AL,039,,,0,46,49,America/Chicago,2010-02-14
+4046916,Tory Knob,Tory Knob,,37.20125,-79.84087,T,MT,US,,VA,067,,,0,541,540,America/New_York,2006-01-15
+4046917,Beck Branch,Beck Branch,,34.4976,-87.95032,H,STM,US,,AL,059,,,0,215,218,America/Chicago,2010-02-14
+4046918,Trace Gap,Trace Gap,,36.85787,-82.96961,T,GAP,US,,VA,105,,,0,737,752,America/New_York,2006-01-15
+4046919,Beaverdam School (historical),Beaverdam School (historical),,34.87453,-86.66277,S,SCH,US,,AL,089,,,0,247,241,America/Chicago,2006-01-15
+4046920,Trent House (historical),Trent House (historical),,37.54292,-77.27414,S,BLDG,US,,VA,087,,,0,46,48,America/New_York,2006-01-15
+4046921,Beck Branch,Beck Branch,,34.81814,-87.9117,H,STM,US,,AL,077,,,0,126,133,America/Chicago,2006-01-15
+4046922,Trinity United Methodist Church,Trinity United Methodist Church,,37.19124,-80.3681,S,CH,US,,VA,121,,,0,476,472,America/New_York,2006-01-15
+4046923,Beck Creek,Beck Creek,,34.5987,-87.40225,H,STM,US,,AL,079,,,0,182,197,America/Chicago,2010-02-14
+4046924,Turkey Mountain,Turkey Mountain,,37.6443,-79.1867,T,MT,US,,VA,009,,,0,465,463,America/New_York,2006-01-15
+4046925,Beckham Branch,Beckham Branch,,34.74009,-87.07668,H,STM,US,,AL,083,,,0,180,189,America/Chicago,2006-01-15
+4046926,Tyro,Tyro,,37.82153,-79.00475,P,PPL,US,,VA,125,,,0,255,255,America/New_York,2006-01-15
+4046927,Beckham Hollow,Beckham Hollow,,34.98064,-87.99226,T,VAL,US,,AL,077,,,0,150,157,America/Chicago,2006-01-15
+4046928,Viewmont,Viewmont,,37.8982,-78.54307,S,,US,,VA,003,,,0,159,158,America/New_York,2010-02-19
+4046929,Beckham Landing (historical),Beckham Landing (historical),"Beckham Landing (historical),Beckman Landing",34.9312,-88.15643,S,,US,,AL,077,,,0,126,126,America/Chicago,2010-02-14
+4046930,WHSV-TV (Harrisonburg),WHSV-TV (Harrisonburg),,38.60151,-78.63224,S,TOWR,US,,VA,139,,,0,902,896,America/New_York,2006-01-15
+4046931,Beckhams Landing (historical),Beckhams Landing (historical),,31.57794,-88.01723,S,,US,,AL,025,,,0,7,14,America/Chicago,2010-09-05
+4046932,Warm Springs Work Center,Warm Springs Work Center,,37.97346,-79.84616,S,,US,,VA,017,,,0,767,773,America/New_York,2010-02-18
+4046933,Beckleys (historical),Beckleys (historical),"Beckley's,Beckleys (historical)",32.28292,-87.92807,P,PPLQ,US,,AL,091,,,0,22,29,America/Chicago,2011-12-12
+4046934,Washington Mill Park,Washington Mill Park,,38.709,-77.10665,L,PRK,US,,VA,059,,,0,7,23,America/New_York,2006-01-15
+4046935,Beckleys Bar,Beckleys Bar,,32.28236,-87.94113,T,BAR,US,,AL,023,,,0,16,28,America/Chicago,2010-02-14
+4046936,Wesley Chapel,Wesley Chapel,"Wesley Chapel,Wesley Chapel United Methodist Church",37.23848,-77.53582,S,CH,US,,VA,041,,,0,73,78,America/New_York,2007-02-14
+4046937,Beckleys Landing (historical),Beckleys Landing (historical),,32.28486,-87.92779,S,,US,,AL,091,,,0,16,27,America/Chicago,2010-02-14
+4046938,Wilde Acres,Wilde Acres,"Wilde Acres,wayld akrs,wyld akrz  wyrjynya,وایلد اکرس,ویلد آکرز، ویرجینیا",39.14705,-78.39973,P,PPL,US,,VA,069,,,0,358,372,America/New_York,2010-02-18
+4046939,Beckman,Beckman,,34.8387,-87.65281,P,PPLX,US,,AL,077,,,0,186,183,America/Chicago,2007-02-14
+4046940,Williams Cemetery,Williams Cemetery,,38.85067,-78.13667,S,CMTY,US,,VA,157,,,0,501,503,America/New_York,2006-01-15
+4046941,Becks Cemetery,Becks Cemetery,,32.08431,-87.34222,S,CMTY,US,,AL,131,,,0,56,59,America/Chicago,2006-01-15
+4046942,Wolf Trails Park,Wolf Trails Park,,38.92789,-77.26665,L,PRK,US,,VA,059,,,0,121,121,America/New_York,2006-01-15
+4046943,Becks Mountain,Becks Mountain,,31.93487,-86.06246,T,MT,US,,AL,109,,,0,205,203,America/Chicago,2006-01-15
+4046944,Woodmont,Woodmont,,37.53154,-77.58582,P,PPL,US,,VA,041,,,0,99,109,America/New_York,2010-02-18
+4046945,Becks Pond Creek,Becks Pond Creek,,31.6496,-86.1594,H,STM,US,,AL,109,,,0,79,89,America/Chicago,2006-01-15
+4046946,Yorktown,Yorktown,"Jorktaun,Yorktown i Virginia,iorktʼauni,yokeutaun,yokutaun,yue ke zhen,ywrktwwn  wrjynya,Јорктаун,Йорктаун,یورکتوؤن، ورجینیا,იორქტაუნი,ヨークタウン,約克鎮,요크타운",37.23858,-76.50894,P,PPLA2,US,,VA,199,,,195,2,5,America/New_York,2023-01-10
+4046947,Beckhams Lake,Beckhams Lake,,32.14841,-85.81463,H,LK,US,,AL,011,,,0,96,98,America/Chicago,2011-12-11
+4046948,Yuma,Yuma,,36.6151,-82.61238,P,PPL,US,,VA,169,,,0,394,400,America/New_York,2006-01-15
+4046949,Beckworth Branch,Beckworth Branch,,34.20593,-86.55138,H,STM,US,,AL,043,,,0,223,226,America/Chicago,2010-02-14
+4046951,Beckwith Camp,Beckwith Camp,,30.38714,-87.84555,S,CMP,US,,AL,003,,,0,4,8,America/Indiana/Tell_City,2010-02-14
+4046953,Becky Hollow,Becky Hollow,,34.79397,-86.08554,T,VAL,US,,AL,071,,,0,220,235,America/Chicago,2006-01-15
+4046955,Beda,Beda,,31.05101,-86.58273,P,PPL,US,,AL,039,,,0,75,80,America/Chicago,2006-01-15
+4046957,Beda Church,Beda Church,"Beader Church,Beda Church",31.05185,-86.58245,S,CH,US,,AL,039,,,0,72,78,America/Chicago,2006-01-15
+4046958,Anderson Ridge,Anderson Ridge,,39.05483,-78.60668,T,RDGE,US,,WV,031,,,0,593,597,America/New_York,2006-01-15
+4046959,Bedford,Bedford,,33.79594,-88.20698,P,PPL,US,,AL,075,,,0,119,118,America/Chicago,2010-10-12
+4046960,Antioch,Antioch,,38.78592,-81.50485,P,PPL,US,,WV,087,,,0,249,263,America/New_York,2006-01-15
+4046961,Bedford School,Bedford School,,33.7815,-88.19448,S,SCH,US,,AL,075,,,0,99,104,America/Chicago,2010-10-12
+4046962,Asco,Asco,"Asco,Atlantic,askw,askw  baty wyrjynya,اسکو,اسکو، باتی ویرجینیا",37.50206,-81.62594,P,PPL,US,,WV,047,,,0,450,468,America/New_York,2010-02-19
+4046963,Bedgood Cemetery,Bedgood Cemetery,,31.74266,-86.45025,S,CMTY,US,,AL,013,,,0,114,120,America/Chicago,2006-01-15
+4046964,Barbour Cemetery,Barbour Cemetery,,39.07843,-79.98369,S,CMTY,US,,WV,001,,,0,561,562,America/New_York,2006-01-15
+4046965,Bedingfield Cemetery,Bedingfield Cemetery,,34.83425,-87.21918,S,CMTY,US,,AL,077,,,0,207,211,America/Chicago,2006-01-15
+4046966,Barrett,Barrett,"Barrett,bart,bart  baty wyrjynya,بارت,بارت، باتی ویرجینیا",37.88733,-81.67011,P,PPL,US,,WV,005,,,0,302,310,America/New_York,2006-01-15
+4046967,Bedingfield Ferry (historical),Bedingfield Ferry (historical),"Beddingfield Ferry,Bedingfield Ferry (historical),Smiths Ferry",34.7987,-87.23835,R,RDJCT,US,,AL,077,,,0,170,167,America/Chicago,2010-02-14
+4046968,Baxter,Baxter,"Baxter,bkstr,بکستر",39.5576,-78.0775,P,PPL,US,,WV,003,,,0,185,188,America/New_York,2006-01-15
+4046969,Bedsole Branch,Bedsole Branch,,32.06015,-86.3083,H,STM,US,,AL,101,,,0,86,93,America/Chicago,2006-01-15
+4046970,Beard,Beard,Beard,38.07679,-80.22729,P,PPL,US,,WV,075,,,0,612,613,America/New_York,2006-01-15
+4046971,Beda Cemetery,Beda Cemetery,,31.05157,-86.58273,S,CMTY,US,,AL,039,,,0,74,78,America/Chicago,2006-01-15
+4046972,General Alfred E Beckley Post Office,General Alfred E Beckley Post Office,"Beckley Post Office,General Alfred E Beckley Post Office",37.77805,-81.19069,S,PO,US,,WV,081,,,0,734,733,America/New_York,2016-12-07
+4046973,Bedsole Farm Airport (historical),Bedsole Farm Airport (historical),,31.56064,-87.53207,S,AIRQ,US,,AL,099,,,0,15,15,America/Chicago,2016-12-06
+4046974,Bell Cemetery,Bell Cemetery,,37.3565,-81.34177,S,CMTY,US,,WV,055,,,0,865,861,America/New_York,2006-01-15
+4046975,Bedsole Lake,Bedsole Lake,,32.0925,-86.35312,H,RSV,US,,AL,101,,,0,92,97,America/Chicago,2011-12-11
+4046976,Birchton,Birchton,"Birch,Birchton,brchtwn,برچتون",37.93289,-81.5415,P,PPL,US,,WV,081,,,0,271,277,America/New_York,2006-01-15
+4046977,Bee Bluff,Bee Bluff,,34.42259,-86.66888,T,CLF,US,,AL,103,,,0,319,328,America/Chicago,2010-02-14
+4046978,Bonham Elementary School (historical),Bonham Elementary School (historical),"Bonham Elementary School (historical),Bonham School",38.40937,-81.65458,S,SCH,US,,WV,039,,,0,185,188,America/New_York,2014-10-08
+4046979,Bee Branch,Bee Branch,,32.73513,-86.65026,H,STM,US,,AL,021,,,0,151,165,America/Chicago,2006-01-15
+4046980,Bradford Landing,Bradford Landing,"Bradford Landing,Bradfords Landing",38.43343,-81.79985,S,,US,,WV,039,,,0,270,272,America/New_York,2010-02-19
+4046981,Bedsole Dam,Bedsole Dam,,32.09181,-86.3533,S,DAM,US,,AL,101,,,0,92,95,America/Chicago,2006-01-15
+4046982,Broadmoor Addition,Broadmoor Addition,,39.25758,-81.62096,P,PPL,US,,WV,107,,,0,205,206,America/New_York,2006-01-15
+4046983,Bee Branch,Bee Branch,,31.56072,-87.985,H,STM,US,,AL,025,,,0,9,23,America/Chicago,2010-09-05
+4046984,Buck Run Cemetery,Buck Run Cemetery,,39.30786,-80.91511,S,CMTY,US,,WV,085,,,0,289,283,America/New_York,2006-01-15
+4046985,Bee Branch,Bee Branch,,33.35289,-85.76413,H,STM,US,,AL,027,,,0,306,308,America/Chicago,2006-01-15
+4046986,Bula,Bula,,39.70313,-80.2573,P,PPL,US,,WV,061,,,0,299,299,America/New_York,2006-01-15
+4046987,Bee Branch,Bee Branch,"B Branch,Bee Branch",34.2476,-87.09668,H,STM,US,,AL,043,,,0,218,235,America/Chicago,2006-01-15
+4046988,Camp Pioneer,Camp Pioneer,,38.82011,-79.85229,S,CMP,US,,WV,083,,,0,633,637,America/New_York,2010-02-19
+4046989,Bee Branch,Bee Branch,,31.13379,-86.083,H,STM,US,,AL,061,,,0,42,54,America/Chicago,2006-01-15
+4046990,Camp Seventytwo,Camp Seventytwo,,39.144,-79.34977,S,CMP,US,,WV,093,,,0,965,965,America/New_York,2010-02-18
+4046991,Bee Branch,Bee Branch,,34.82897,-86.13832,H,STM,US,,AL,071,,,0,333,361,America/Chicago,2010-02-14
+4046992,Carper Cemetery,Carper Cemetery,,38.59037,-81.27484,S,CMTY,US,,WV,087,,,0,251,239,America/New_York,2006-01-15
+4046993,Bee Branch,Bee Branch,,34.31871,-87.45113,H,STM,US,,AL,079,,,0,184,193,America/Chicago,2006-01-15
+4046994,Clifton Cemetery,Clifton Cemetery,,38.59622,-80.4912,S,CMTY,US,,WV,101,,,0,320,327,America/New_York,2006-01-15
+4046995,Bee Branch,Bee Branch,,34.94703,-86.29165,H,STM,US,,AL,089,,,0,316,346,America/Chicago,2006-01-15
+4046996,Cool Springs,Cool Springs,"Cool Spring,Cool Springs",39.16258,-81.47512,P,PPL,US,,WV,107,,,0,233,247,America/New_York,2006-01-15
+4046997,Bee Branch,Bee Branch,,32.2407,-87.73918,H,STM,US,,AL,091,,,0,37,50,America/Chicago,2006-01-15
+4046998,Copen,Copen,"Copen,kwpn,kwpn  baty wyrjynya,کوپن,کوپن، باتی ویرجینیا",38.8376,-80.72954,P,PPL,US,,WV,007,,,0,254,267,America/New_York,2006-01-15
+4046999,Bee Branch,Bee Branch,,33.19956,-87.4275,H,STM,US,,AL,125,,,0,57,70,America/Chicago,2010-02-14
+4047000,Cox Town,Cox Town,"Cox Addition,Cox Town,Coxtown",39.02787,-80.47509,P,PPL,US,,WV,041,,,0,320,324,America/New_York,2006-01-15
+4047001,Bee Branch,Bee Branch,,31.25045,-88.21473,H,STM,US,,AL,129,,,0,32,43,America/Chicago,2010-09-05
+4047002,Cub City,Cub City,,37.61067,-81.799,P,PPL,US,,WV,109,,,0,318,327,America/New_York,2006-01-15
+4047003,Bee Branch,Bee Branch,,31.42989,-88.2039,H,STM,US,,AL,129,,,0,28,35,America/Chicago,2010-09-05
+4047004,Dam Number 21,Dam Number 21,,38.70178,-79.14337,S,DAM,US,,WV,071,,,0,561,556,America/New_York,2006-01-15
+4047005,Bee Branch Canyon,Bee Branch Canyon,,34.31843,-87.45058,T,VAL,US,,AL,079,,,0,176,193,America/Chicago,2006-01-15
+4047006,Diamond Temple United Methodist Church,Diamond Temple United Methodist Church,"Diamond Street Methodist Episcopal Church,Diamond Temple United Methodist Church",39.48092,-80.1373,S,CH,US,,WV,049,,,0,295,296,America/New_York,2006-01-15
+4047007,Bee Branch Scenic Area,Bee Branch Scenic Area,,34.33538,-87.44863,L,PRK,US,,AL,079,,,0,224,252,America/Chicago,2006-01-15
+4047008,Elizabeth Church,Elizabeth Church,,37.95704,-82.24125,S,CH,US,,WV,059,,,0,243,246,America/New_York,2006-01-15
+4047009,Bee Creek,Bee Creek,,31.79599,-86.21107,H,STM,US,,AL,041,,,0,91,101,America/Chicago,2006-01-15
+4047010,Elkhorn,Elkhorn,"Elk Horn Run,Elkhorn,alkhwrn,alkhwrn  baty wyrjynya,الکهورن,الکهورن، باتی ویرجینیا",37.38567,-81.41094,P,PPL,US,,WV,047,,,0,606,609,America/New_York,2010-02-19
+4047011,Bee Gum Creek,Bee Gum Creek,,34.64814,-85.83164,H,STM,US,,AL,071,,,0,395,408,America/Chicago,2010-02-14
+4047012,Falls Run Church,Falls Run Church,,38.77816,-80.52342,S,CH,US,,WV,007,,,0,285,300,America/New_York,2006-01-15
+4047013,Bee Hill,Bee Hill,,33.52844,-85.46356,T,MT,US,,AL,029,,,0,490,478,America/Chicago,2010-02-14
+4047014,Filbert,Filbert,Filbert,37.31817,-81.544,P,PPL,US,,WV,047,,,0,525,533,America/New_York,2006-01-15
+4047015,Bee Mountain,Bee Mountain,,34.11871,-87.86114,T,RDGE,US,,AL,093,,,0,257,262,America/Chicago,2010-02-14
+4047016,Fisher Cemetery,Fisher Cemetery,,38.72843,-80.52898,S,CMTY,US,,WV,007,,,0,454,451,America/New_York,2006-01-15
+4047017,Bee Shoals,Bee Shoals,,33.71455,-87.14333,T,BAR,US,,AL,127,,,0,76,94,America/Chicago,2006-01-15
+4047018,Frasher Cemetery,Frasher Cemetery,,38.09676,-82.57238,S,CMTY,US,,WV,099,,,0,215,214,America/New_York,2006-01-15
+4047019,Bee Spring Branch,Bee Spring Branch,,33.64539,-87.46139,H,STM,US,,AL,057,,,0,126,151,America/Chicago,2010-02-14
+4047020,Frenchburg,Frenchburg,"French,Frenchburg,fransbwrg,فرانسبورگ",39.31538,-78.66057,P,PPL,US,,WV,027,,,0,307,317,America/New_York,2006-01-15
+4047021,Bee Mountain,Bee Mountain,,33.369,-86.90749,T,MT,US,,AL,073,,,0,244,228,America/Chicago,2006-01-15
+4047022,Frost,Frost,"Frost,furosuto,フロスト",38.27068,-79.88061,P,PPL,US,,WV,075,,,0,788,785,America/New_York,2006-01-15
+4047023,Bee Tree Branch,Bee Tree Branch,,30.90268,-88.25195,H,STM,US,,AL,097,,,0,41,46,America/Chicago,2010-02-14
+4047024,Gauley,Gauley,"Gauley,Gauleys Bridge",38.14927,-81.17927,P,PPL,US,,WV,019,,,0,225,232,America/New_York,2006-01-15
+4047025,Bee Tree Island (historical),Bee Tree Island (historical),,34.90342,-88.03976,T,ISL,US,,AL,033,,,0,126,126,America/Chicago,2006-01-15
+4047026,Guthrie School (historical),Guthrie School (historical),,39.66203,-79.58393,S,SCH,US,,WV,077,,,0,571,574,America/New_York,2006-01-15
+4047027,Beech Bottom,Beech Bottom,"Beach Bottom,Beech Bottom",34.4101,-87.21418,T,DPR,US,,AL,079,,,0,192,196,America/Chicago,2006-01-15
+4047028,Hambleton,Hambleton,"Black Fork,Goff Town,Goffs,Hambleton,Hulings,Rushs",39.08205,-79.64534,P,PPL,US,,WV,093,,,226,525,526,America/New_York,2017-03-09
+4047029,Beech Branch,Beech Branch,"Beach Branch,Beech Branch",34.86009,-87.95781,H,STM,US,,AL,033,,,0,126,126,America/Chicago,2006-01-15
+4047030,Harmony Church,Harmony Church,"Harmony Baptist Church,Harmony Church",39.6598,-80.42647,S,CH,US,,WV,103,,,0,346,344,America/New_York,2006-01-15
+4047031,Beebe Chapel,Beebe Chapel,,33.23651,-88.26142,S,CH,US,,AL,107,,,0,68,73,America/Chicago,2007-02-14
+4047032,Harper Industrial Park,Harper Industrial Park,,37.79039,-81.22232,L,INDS,US,,WV,081,,,0,732,737,America/New_York,2010-02-19
+4047033,Beech Branch,Beech Branch,,34.90259,-88.10115,H,STM,US,,AL,077,,,0,126,126,America/Chicago,2006-01-15
+4047034,Hartland,Hartland,"Hartland,Middle Creek",38.43205,-81.11261,P,PPL,US,,WV,015,,,0,222,215,America/New_York,2006-01-15
+4047035,Beech Branch,Beech Branch,,33.26456,-86.72888,H,STM,US,,AL,117,,,0,156,174,America/Chicago,2006-01-15
+4047036,Hersmans Recreation Area,Hersmans Recreation Area,,38.82898,-80.97483,L,PRK,US,,WV,021,,,0,219,219,America/New_York,2006-01-15
+4047037,Beech Branch,Beech Branch,,31.22073,-88.32585,H,STM,US,,AL,129,,,0,42,54,America/Chicago,2010-09-05
+4047038,High Knob,High Knob,,38.70593,-80.57259,T,MT,US,,WV,007,,,0,524,520,America/New_York,2006-01-15
+4047039,Beech Creek,Beech Creek,,32.39875,-87.00499,H,STM,US,,AL,047,,,0,25,31,America/Chicago,2006-01-15
+4047040,Hopewell School (historical),Hopewell School (historical),,37.92873,-80.52814,S,SCH,US,,WV,025,,,0,642,643,America/New_York,2006-01-15
+4047041,Beech Creek,Beech Creek,,34.32315,-86.37748,H,STM,US,,AL,095,,,0,181,180,America/Chicago,2006-01-15
+4047042,Hurricane Church,Hurricane Church,,38.58121,-81.30178,S,CH,US,,WV,087,,,0,223,234,America/New_York,2006-01-15
+4047043,Beech Creek,Beech Creek,,34.27621,-87.28946,H,STM,US,,AL,133,,,0,183,210,America/Chicago,2006-01-15
+4047044,Interchange 40,Interchange 40,,38.59649,-81.04205,R,RDJCT,US,,WV,015,,,0,262,261,America/New_York,2010-02-19
+4047045,Beech Creek Church (historical),Beech Creek Church (historical),,34.32482,-86.37804,S,CH,US,,AL,095,,,0,189,187,America/Chicago,2010-02-14
+4047046,Isaban,Isaban,"Isaban,aysaban  baty wyrjynya,ayzabn  wyrjynyay ghrby,ایزابن، ویرجینیای غربی,ایسابان، باتی ویرجینیا",37.53011,-81.88817,P,PPL,US,,WV,047,,,0,348,354,America/New_York,2006-01-15
+4047047,Beech Creek Swamp,Beech Creek Swamp,,32.44827,-86.97642,H,SWMP,US,,AL,047,,,0,37,39,America/Chicago,2011-12-11
+4047048,Kanawha County Jail (historical),Kanawha County Jail (historical),,38.35121,-81.63901,S,BLDG,US,,WV,039,,,0,183,188,America/New_York,2010-10-12
+4047049,Beech Grove Baptist Church,Beech Grove Baptist Church,"Beech Grove Baptist Church,Beech Grove Church",34.04288,-86.88,S,CH,US,,AL,043,,,0,178,191,America/Chicago,2006-01-15
+4047050,Keith Run,Keith Run,"Keith Run,Keiths Run",38.78149,-80.53037,H,STM,US,,WV,007,,,0,280,291,America/New_York,2006-01-15
+4047051,Beech Grove Cemetery,Beech Grove Cemetery,,34.0426,-86.88028,S,CMTY,US,,AL,043,,,0,182,191,America/Chicago,2006-01-15
+4047052,Kettle,Kettle,"Kettle,Kettle Rock,Long Ridge",38.57482,-81.48985,P,PPL,US,,WV,087,,,0,205,212,America/New_York,2006-01-15
+4047053,Beech Grove Cemetery,Beech Grove Cemetery,,34.98953,-86.25026,S,CMTY,US,,AL,071,,,0,266,264,America/Chicago,2006-01-15
+4047054,Kinser Cemetery,Kinser Cemetery,,37.96899,-82.18403,S,CMTY,US,,WV,045,,,0,253,278,America/New_York,2006-01-15
+4047055,Beech Grove Church,Beech Grove Church,,34.98509,-86.24693,S,CH,US,,AL,071,,,0,237,243,America/Chicago,2006-01-15
+4047056,Laurel Lick Church,Laurel Lick Church,,39.03065,-80.35481,S,CH,US,,WV,041,,,0,333,332,America/New_York,2006-01-15
+4047057,Beech Grove Church,Beech Grove Church,,34.69176,-86.44165,S,CH,US,,AL,089,,,0,198,199,America/Chicago,2006-01-15
+4047058,Laurel Run,Laurel Run,,39.65119,-79.72255,P,PPL,US,,WV,077,,,0,461,464,America/New_York,2006-01-15
+4047059,Beech Grove Freewill Baptist Church,Beech Grove Freewill Baptist Church,"Beech Grove Church,Beech Grove Freewill Baptist Church",33.80178,-87.4914,S,CH,US,,AL,127,,,0,130,133,America/Chicago,2007-02-14
+4047060,Leckie,Leckie,Leckie,37.34512,-81.41788,P,PPL,US,,WV,047,,,0,535,546,America/New_York,2006-01-15
+4047061,Beech Grove Church,Beech Grove Church,,34.20204,-87.60891,S,CH,US,,AL,133,,,0,229,226,America/Chicago,2006-01-15
+4047062,Left Fork Church,Left Fork Church,"Left Fork Baptist Church,Left Fork Church",38.13565,-81.96957,S,CH,US,,WV,043,,,0,261,269,America/New_York,2006-01-15
+4047063,Beech Grove Church of Christ,Beech Grove Church of Christ,,34.85925,-87.53947,S,CH,US,,AL,077,,,0,187,190,America/Chicago,2010-02-14
+4047064,Little Italy,Little Italy,,38.5226,-81.03344,P,PPL,US,,WV,015,,,0,240,239,America/New_York,2006-01-15
+4047065,Beech Grove Methodist Church,Beech Grove Methodist Church,,34.98842,-86.24971,S,CH,US,,AL,071,,,0,247,251,America/Chicago,2006-01-15
+4047066,Little Laurel School (historical),Little Laurel School (historical),,38.20456,-80.55898,S,SCH,US,,WV,067,,,0,688,690,America/New_York,2010-02-19
+4047067,Beech Grove School (historical),Beech Grove School (historical),,32.95318,-87.96085,S,SCH,US,,AL,063,,,0,56,62,America/Chicago,2006-01-15
+4047068,Little Sandy Creek Bridge,Little Sandy Creek Bridge,,39.63147,-79.6456,S,BDG,US,,WV,077,,,0,475,475,America/New_York,2006-01-15
+4047069,Beech Grove School (historical),Beech Grove School (historical),,34.99036,-86.24971,S,SCH,US,,AL,071,,,0,273,272,America/Chicago,2006-01-15
+4047070,Long Branch,Long Branch,"Burgess Crossing,Long Branch",37.92289,-81.27566,P,PPL,US,,WV,019,,,0,526,527,America/New_York,2006-01-15
+4047071,Beech Grove School (historical),Beech Grove School (historical),,31.90793,-86.97137,S,SCH,US,,AL,131,,,0,87,90,America/Chicago,2010-02-14
+4047072,Long Run Church,Long Run Church,,38.80121,-80.61732,S,CH,US,,WV,007,,,0,265,276,America/New_York,2006-01-15
+4047073,Beech Hills,Beech Hills,,33.1954,-87.49306,P,PPLX,US,,AL,125,,,0,100,123,America/Chicago,2010-02-14
+4047074,Longview School (historical),Longview School (historical),,38.79564,-81.81569,S,SCH,US,,WV,035,,,0,289,284,America/New_York,2007-02-14
+4047075,Beech Island Church,Beech Island Church,"Beach Island Church,Beech Island Church",32.41458,-86.97027,S,CH,US,,AL,047,,,0,40,45,America/Chicago,2006-01-15
+4047076,Lost Creek,Lost Creek,,38.0062,-82.5146,H,STM,US,,WV,099,,,0,170,186,America/New_York,2006-01-15
+4047077,Beech Lick Branch,Beech Lick Branch,,34.59315,-87.96698,H,STM,US,,AL,033,,,0,163,171,America/Chicago,2010-02-14
+4047078,Bedford Primary School,Bedford Primary School,"Bedford Primary School,Liberty Academy",37.34059,-79.53195,S,SCH,US,,VA,019,,,0,295,295,America/New_York,2016-12-07
+4047079,Beech Creek Marina,Beech Creek Marina,,32.39958,-87.00554,S,MAR,US,,AL,047,,,0,28,32,America/Chicago,2010-02-14
+4047080,Lynwinn,Lynwinn,,37.68095,-81.22732,P,PPL,US,,WV,081,,,0,795,795,America/New_York,2006-01-15
+4047081,Beech Spring,Beech Spring,"Beech Spring,Parched Corn Spring",34.43686,-86.45758,H,SPNG,US,,AL,095,,,0,176,182,America/Chicago,2011-12-11
+4047082,Madeline,Madeline,"Madeline,Malco",37.58039,-81.30427,P,PPL,US,,WV,081,,,0,539,539,America/New_York,2006-01-15
+4047083,Beech Spring Cemetery,Beech Spring Cemetery,"Beach Springs Cemetery,Beech Spring Cemetery",34.45231,-86.46499,S,CMTY,US,,AL,095,,,0,185,192,America/Chicago,2006-01-15
+4047084,McCansland (historical),McCansland (historical),,38.66036,-81.95819,P,PPLQ,US,,WV,053,,,0,176,173,America/New_York,2011-12-12
+4047085,Beech Spring Church,Beech Spring Church,"Bean Rock Church,Beech Spring Church",34.45287,-86.46443,S,CH,US,,AL,095,,,0,184,195,America/Chicago,2006-01-15
+4047086,Meadows,Meadows,,38.91511,-79.74256,P,PPL,US,,WV,083,,,0,671,667,America/New_York,2006-01-15
+4047087,Beech Spring Hollow,Beech Spring Hollow,,34.64815,-87.71031,T,VAL,US,,AL,033,,,0,143,143,America/Chicago,2010-02-14
+4047088,Middletown,Middletown,"Middleton,Middletown",39.44203,-80.25536,S,,US,,WV,049,,,0,296,288,America/New_York,2010-02-18
+4047089,Beech Spring,Beech Spring,,34.64103,-87.70269,H,SPNG,US,,AL,033,,,0,218,235,America/Chicago,2011-12-11
+4047090,Mountain Home,Mountain Home,"Mount Home,Mountain Home",38.52232,-81.05372,S,,US,,WV,015,,,0,376,371,America/New_York,2010-02-18
+4047091,Beech Tree Branch,Beech Tree Branch,,31.40961,-88.35196,H,STM,US,,AL,129,,,0,63,70,America/Chicago,2010-09-05
+4047092,Mud Fork Church,Mud Fork Church,,37.84482,-82.05596,S,CH,US,,WV,045,,,0,237,243,America/New_York,2006-01-15
+4047093,Beech Street Church of Christ,Beech Street Church of Christ,,34.59454,-86.96695,S,CH,US,,AL,103,,,0,175,176,America/Chicago,2007-02-14
+4047094,New Richmond,New Richmond,"N'ju-Richmond,New Richmond,Nju Richmond,Riverside,Stewartsville,nyw rychmwnd  wyrjynyay ghrby,Њу Ричмонд,Нью-Ричмонд,نیو رچمنڈ، مغربی ورجینیا,نیو ریچموند، ویرجینیای غربی",37.57011,-81.48872,P,PPL,US,,WV,109,,,238,416,413,America/New_York,2011-05-14
+4047095,Beechwood,Beechwood,,32.12598,-86.65609,P,PPL,US,,AL,085,,,0,68,75,America/Chicago,2010-09-05
+4047096,Niece Branch,Niece Branch,,38.1162,-82.2907,H,STM,US,,WV,099,,,0,232,254,America/New_York,2006-01-15
+4047097,Beechwood,Beechwood,,34.84231,-87.65864,P,PPLX,US,,AL,077,,,0,184,184,America/Chicago,2010-02-14
+4047099,Beechwood Acres,Beechwood Acres,,34.76064,-87.17057,P,PPL,US,,AL,083,,,0,176,182,America/Chicago,2006-01-15
+4047100,North United Methodist Church,North United Methodist Church,,38.96036,-81.77069,S,CH,US,,WV,035,,,0,187,187,America/New_York,2006-01-15
+4047101,Beechwood Airport (historical),Beechwood Airport (historical),,32.11681,-86.64998,S,AIRQ,US,,AL,085,,,0,83,84,America/Chicago,2016-12-06
+4047102,Oil Rock School (historical),Oil Rock School (historical),,39.05314,-81.33234,S,SCH,US,,WV,105,,,0,202,212,America/New_York,2007-02-14
+4047103,Beechwood Branch,Beechwood Branch,,34.78203,-87.1664,H,STM,US,,AL,083,,,0,187,197,America/Chicago,2006-01-15
+4047104,Old Norbourne Cemetery,Old Norbourne Cemetery,,39.4526,-77.96722,S,CMTY,US,,WV,003,,,0,137,139,America/New_York,2006-01-15
+4047105,Beecham Lake,Beecham Lake,"Beecham Lake,Terrapin Creek Lake Number 14",33.93905,-85.47305,H,LK,US,,AL,029,,,0,247,254,America/Chicago,2011-12-11
+4047106,Painter School (historical),Painter School (historical),,39.48231,-78.75974,S,SCH,US,,WV,057,,,0,222,228,America/New_York,2006-01-15
+4047107,Beecomb Branch,Beecomb Branch,,32.18348,-87.87557,H,STM,US,,AL,091,,,0,31,36,America/Chicago,2010-02-14
+4047108,Pat Flat,Pat Flat,,37.86065,-82.32987,T,PLN,US,,WV,059,,,0,385,401,America/New_York,2006-01-15
+4047109,Beechwood Church,Beechwood Church,,33.66983,-86.85249,S,CH,US,,AL,073,,,0,184,190,America/Chicago,2006-01-15
+4047110,Pierce,Pierce,,39.17372,-79.51033,P,PPL,US,,WV,093,,,0,915,912,America/New_York,2006-01-15
+4047111,Beehive School (historical),Beehive School (historical),,32.5618,-85.56106,S,SCH,US,,AL,081,,,0,156,161,America/Chicago,2006-01-15
+4047112,Pluto,Pluto,,37.7104,-80.99231,P,PPL,US,,WV,081,,,0,789,775,America/New_York,2010-02-19
+4047113,Beeland Park,Beeland Park,,31.82932,-86.61025,L,PRK,US,,AL,013,,,0,115,126,America/Chicago,2006-01-15
+4047114,Pond Number Nine,Pond Number Nine,,38.90508,-82.06653,H,RSV,US,,WV,053,,,0,174,177,America/New_York,2006-01-15
+4047115,Beeman Creek,Beeman Creek,"Beeman Creek,Beemans Creek",31.83266,-86.02718,H,STM,US,,AL,109,,,0,97,105,America/Chicago,2006-01-15
+4047116,Premier,Premier,"Premier,Primier",37.42234,-81.64372,P,PPL,US,,WV,047,,,0,448,458,America/New_York,2010-02-19
+4047117,Beehive,Beehive,"Bee Hive,Beehive",32.55375,-85.57801,P,PPL,US,,AL,081,,,0,149,155,America/Chicago,2020-02-11
+4047118,Price Cemetery,Price Cemetery,,37.85289,-81.40011,S,CMTY,US,,WV,081,,,0,526,520,America/New_York,2006-01-15
+4047119,Beeson Branch,Beeson Branch,,34.46564,-85.73441,H,STM,US,,AL,049,,,0,254,254,America/Chicago,2010-02-14
+4047120,Raleigh,Raleigh,"Beckley,Raleigh,Roli,West Raleigh,raly,rori,ryylyq  baty wyrjynya,Роли,رئیلیق، باتی ویرجینیا,رالی,ローリー",37.75678,-81.17427,P,PPL,US,,WV,081,,,0,679,679,America/New_York,2010-01-29
+4047121,Beersheba Cemetery,Beersheba Cemetery,,31.55822,-85.50494,S,CMTY,US,,AL,045,,,0,129,131,America/Chicago,2006-01-15
+4047122,Reese Mill (historical),Reese Mill (historical),,39.33232,-78.04333,S,,US,,WV,003,,,0,150,152,America/New_York,2010-02-19
+4047123,Beeson Gap,Beeson Gap,,34.4512,-85.68552,T,GAP,US,,AL,049,,,0,450,450,America/Chicago,2006-01-15
+4047124,Rich Knob Lookout Tower,Rich Knob Lookout Tower,,38.01845,-80.6737,S,,US,,WV,025,,,0,1164,1160,America/New_York,2010-02-19
+4047125,Beeson Post Office (historical),Beeson Post Office (historical),,34.55982,-87.62697,S,PO,US,,AL,059,,,0,178,181,America/Chicago,2010-02-14
+4047126,Ripley Tabernacle,Ripley Tabernacle,,38.81481,-81.70207,S,CH,US,,WV,035,,,0,187,187,America/New_York,2007-02-14
+4047127,Beeswax Branch,Beeswax Branch,,34.72259,-87.88337,H,STM,US,,AL,033,,,0,140,146,America/Chicago,2006-01-15
+4047128,Riverview Heights,Riverview Heights,,39.07593,-80.46704,P,PPL,US,,WV,041,,,0,313,311,America/New_York,2006-01-15
+4047129,Beeson Divinity School,Beeson Divinity School,,33.46455,-86.7936,S,SCH,US,,AL,073,,,0,220,223,America/Chicago,2006-01-15
+4047130,Rockland,Rockland,,37.72957,-80.51285,P,PPL,US,,WV,025,,,0,508,506,America/New_York,2006-01-15
+4047131,Beeswax Creek,Beeswax Creek,,33.17984,-86.53387,H,STM,US,,AL,117,,,0,119,123,America/Chicago,2006-01-15
+4047132,Rocky Ridge,Rocky Ridge,,39.02844,-78.64863,T,RDGE,US,,WV,031,,,0,561,553,America/New_York,2006-01-15
+4047133,Beetree Creek,Beetree Creek,,30.60019,-87.52859,H,STM,US,,AL,003,,,0,9,16,America/Chicago,2006-01-15
+4047134,Rose Bud Plaza Shopping Center,Rose Bud Plaza Shopping Center,"Rose Bud Plaza Shopping Center,Rosebud Plaza Shopping Center",39.26426,-80.37342,S,MALL,US,,WV,033,,,0,306,306,America/New_York,2006-01-15
+4047135,Beirnes Avenue Holiness Church,Beirnes Avenue Holiness Church,,34.7412,-86.58083,S,CH,US,,AL,089,,,0,194,192,America/Chicago,2006-01-15
+4047136,Salem School (historical),Salem School (historical),,39.70397,-79.57893,S,SCH,US,,WV,077,,,0,629,640,America/New_York,2007-02-14
+4047137,Beiser Branch,Beiser Branch,,30.61047,-87.81916,H,STM,US,,AL,003,,,0,21,32,America/Chicago,2006-01-15
+4047138,Sanford,Sanford,,39.51953,-80.12702,P,PPL,US,,WV,049,,,0,305,319,America/New_York,2006-01-15
+4047139,Bel Air,Bel Air,,31.23156,-85.43716,P,PPL,US,,AL,069,,,0,98,101,America/Chicago,2006-01-15
+4047140,Saxman,Saxman,Saxman,38.20984,-80.59703,P,PPL,US,,WV,067,,,0,685,696,America/New_York,2010-02-19
+4047141,Bel Air Assembly of God Church,Bel Air Assembly of God Church,,30.65964,-88.115,S,CH,US,,AL,097,,,0,7,17,America/Chicago,2006-01-15
+4047142,Shawver Ridge,Shawver Ridge,,38.08984,-80.75815,T,RDGE,US,,WV,067,,,0,944,943,America/New_York,2010-02-19
+4047143,Bel Air Baptist Church,Bel Air Baptist Church,"Bel Air Baptist Church,Bel Air Church",34.21093,-86.1722,S,CH,US,,AL,095,,,0,308,311,America/Chicago,2010-02-14
+4047144,Smoot Post Office,Smoot Post Office,,37.88067,-80.66481,S,PO,US,,WV,025,,,0,752,748,America/New_York,2006-01-15
+4047145,Bel Air Estates,Bel Air Estates,,33.26206,-87.68779,P,PPL,US,,AL,125,,,0,73,78,America/Chicago,2006-01-15
+4047146,Snow Hill,Snow Hill,"Snow Hill,Snowhill",38.13539,-80.78148,P,PPL,US,,WV,067,,,0,820,816,America/New_York,2010-02-19
+4047147,Bel Air Estates,Bel Air Estates,,34.66731,-86.56388,P,PPLX,US,,AL,089,,,0,221,224,America/Chicago,2007-02-14
+4047148,Snyders,Snyders,,39.60704,-78.07584,P,PPL,US,,WV,065,,,0,198,195,America/New_York,2006-01-15
+4047149,Bel Air Mall,Bel Air Mall,"Bel Air Mall,Bel Air Mall Shopping Center",30.67384,-88.12203,S,MALL,US,,AL,097,,,0,7,17,America/Chicago,2011-01-10
+4047150,Spice,Spice,,38.11012,-80.26646,P,PPL,US,,WV,075,,,0,915,915,America/New_York,2006-01-15
+4047151,Bel Air Village Shopping Center,Bel Air Village Shopping Center,,30.67241,-88.11722,S,MALL,US,,AL,097,,,0,7,12,America/Chicago,2006-01-15
+4047152,Spider Ridge,Spider Ridge,,39.28007,-81.45818,T,RDGE,US,,WV,107,,,0,265,267,America/New_York,2006-01-15
+4047153,Bel Aire Shopping Center,Bel Aire Shopping Center,,31.22934,-85.43577,S,MALL,US,,AL,069,,,0,95,100,America/Chicago,2010-02-14
+4047154,Stacy Cemetery,Stacy Cemetery,,37.45011,-81.91123,S,CMTY,US,,WV,047,,,0,398,408,America/New_York,2006-01-15
+4047155,Belair Baptist Church,Belair Baptist Church,,30.66186,-88.135,S,CH,US,,AL,097,,,0,13,16,America/Chicago,2006-01-15
+4047156,Stanley,Stanley,,39.30869,-80.89205,P,PPL,US,,WV,085,,,0,288,301,America/New_York,2006-01-15
+4047157,Belcher Bethel Baptist Church,Belcher Bethel Baptist Church,"Belcher Bethel Baptist Church,Belcher Bethel Church,Bethel Church",31.76739,-85.31494,S,CH,US,,AL,005,,,0,154,161,America/Chicago,2006-01-15
+4047158,Stephens Lake,Stephens Lake,,37.77511,-81.29983,H,RSV,US,,WV,081,,,0,650,667,America/New_York,2010-02-19
+4047159,Belcher Chapel,Belcher Chapel,"Belcher Chapel,Belchers Chapel",34.20871,-86.00247,S,CH,US,,AL,049,,,0,347,348,America/Chicago,2007-02-14
+4047160,Sugar Creek Church,Sugar Creek Church,,39.06094,-79.92202,S,CH,US,,WV,001,,,0,508,507,America/New_York,2006-01-15
+4047161,Belcher Creek,Belcher Creek,,33.06873,-85.36217,H,STM,US,,AL,017,,,0,220,228,America/Chicago,2010-02-14
+4047162,Sugarcamp School (historical),Sugarcamp School (historical),,38.8351,-80.43092,S,SCH,US,,WV,041,,,0,354,360,America/New_York,2006-01-15
+4047163,Bel Air,Bel Air,,33.5851,-86.72138,P,PPL,US,,AL,073,,,0,218,232,America/Chicago,2006-01-15
+4047164,Sycamore Cemetery,Sycamore Cemetery,,39.23315,-80.43204,S,CMTY,US,,WV,033,,,0,308,314,America/New_York,2006-01-15
+4047165,Belcher Lake,Belcher Lake,,33.34257,-86.68912,H,RSV,US,,AL,117,,,0,185,198,America/Chicago,2011-12-11
+4047166,Triplett,Triplett,,38.47649,-81.03594,P,PPL,US,,WV,015,,,0,402,408,America/New_York,2006-01-15
+4047167,Belcher Lake Dam,Belcher Lake Dam,,33.34178,-86.68999,S,DAM,US,,AL,117,,,0,198,214,America/Chicago,2006-01-15
+4047168,Troy,Troy,"Troy,toroi,trwy,trwy  baty wyrjynya,تروی,تروی، باتی ویرجینیا,ٹرائے، مغربی ورجینیا,トロイ",39.01981,-80.76316,P,PPL,US,,WV,021,,,0,229,235,America/New_York,2006-01-15
+4047169,Belcher Lumber Company Dam,Belcher Lumber Company Dam,"Belcher Lumber Company Dam,Catfish Lake Dam",33.36844,-86.67999,S,DAM,US,,AL,117,,,0,314,323,America/Chicago,2006-01-15
+4047170,Vadis,Vadis,"Vadis,wadys  baty wyrjynya,وادیس، باتی ویرجینیا",39.04231,-80.70232,P,PPL,US,,WV,041,,,0,235,237,America/New_York,2006-01-15
+4047171,Belcher Number 1 Mine,Belcher Number 1 Mine,,31.77155,-85.29299,S,MN,US,,AL,005,,,0,133,143,America/Chicago,2010-02-14
+4047172,Wanless,Wanless,"Waniess,Wanless",38.43734,-79.90701,P,PPL,US,,WV,075,,,0,918,915,America/New_York,2006-01-15
+4047173,Belchers,Belchers,,33.10956,-87.20889,P,PPL,US,,AL,007,,,0,125,121,America/Chicago,2006-01-15
+4047174,Westerly,Westerly,"Keeferton,Westerly",37.99233,-81.32066,P,PPL,US,,WV,019,,,0,369,378,America/New_York,2006-01-15
+4047175,Belchers Cemetery,Belchers Cemetery,,33.10956,-87.19889,S,CMTY,US,,AL,007,,,0,117,122,America/Chicago,2006-01-15
+4047176,Weston Manor,Weston Manor,,39.04648,-80.49565,P,PPL,US,,WV,041,,,0,317,315,America/New_York,2006-01-15
+4047177,Belchers Chapel Cemetery,Belchers Chapel Cemetery,,34.20843,-86.00247,S,CMTY,US,,AL,049,,,0,348,348,America/Chicago,2006-01-15
+4047178,Wolf Gap,Wolf Gap,,37.63817,-81.4701,T,GAP,US,,WV,109,,,0,625,634,America/New_York,2010-02-19
+4047179,Belchers Gap Church,Belchers Gap Church,,34.21093,-86.00053,S,CH,US,,AL,049,,,0,349,350,America/Chicago,2010-02-14
+4047180,Worth,Worth,"Worth,wwrt  baty wyrjynya,وورت، باتی ویرجینیا",37.41484,-81.38982,P,PPL,US,,WV,047,,,0,578,583,America/New_York,2006-01-15
+4047181,Belew (historical),Belew (historical),,34.99147,-87.43891,P,PPLQ,US,,AL,077,,,0,196,196,America/Chicago,2011-12-11
+4047182,Yerba,Yerba,,37.49289,-81.624,P,PPL,US,,WV,047,,,0,425,431,America/New_York,2010-02-19
+4047183,Belew Cemetery,Belew Cemetery,,34.83981,-87.38697,S,CMTY,US,,AL,077,,,0,187,187,America/Chicago,2006-01-15
+4047184,Rollo Mine,Rollo Mine,,33.82094,-87.05417,S,MN,US,,AL,127,,,0,95,103,America/Chicago,2010-02-14
+4047185,Belew Landing (historical),Belew Landing (historical),,34.81036,-87.41224,S,,US,,AL,077,,,0,155,157,America/Chicago,2010-02-14
+4047186,Rock Stand,Rock Stand,"Rock Stand,Rockstand",33.2179,-85.40939,S,,US,,AL,111,,,0,357,351,America/Chicago,2010-02-14
+4047187,Belew Post Office (historical),Belew Post Office (historical),,34.99147,-87.43891,S,PO,US,,AL,077,,,0,196,196,America/Chicago,2010-02-14
+4047188,Rock Spring,Rock Spring,,33.04012,-85.25828,H,SPNG,US,,AL,017,,,0,197,214,America/Chicago,2010-02-14
+4047189,Belfast Bar,Belfast Bar,,32.67736,-88.05446,T,BAR,US,,AL,063,,,0,22,31,America/Chicago,2010-02-14
+4047190,North Charleston,North Charleston,,38.37426,-81.68429,P,PPL,US,,WV,039,,,0,179,181,America/New_York,2006-01-15
+4047191,Belforest,Belforest,"Belforest,bei er fu li si te,blfwrst,blfwrst  alabama,بلفورست,بلفورست، آلاباما,貝爾福里斯特",30.6038,-87.85249,P,PPL,US,,AL,003,,,0,46,52,America/Chicago,2006-01-15
+4047192,Rickwood Field,Rickwood Field,,33.50221,-86.85574,S,STDM,US,,AL,073,,,0,166,173,America/Chicago,2017-03-26
+4047193,Belforest Cemetery,Belforest Cemetery,,30.5888,-87.83944,S,CMTY,US,,AL,003,,,0,43,45,America/Chicago,2006-01-15
+4047194,Rhodes,Rhodes,"Rhodes,Rhodes Station",31.57822,-86.69164,P,PPL,US,,AL,013,,,0,88,89,America/Chicago,2006-01-15
+4047195,Belforest Church,Belforest Church,,30.59297,-87.83555,S,CH,US,,AL,003,,,0,43,46,America/Chicago,2006-01-15
+4047196,Giles,Giles,,33.2315,-87.15083,P,PPL,US,,AL,007,,,0,196,202,America/Chicago,2006-01-15
+4047197,Belforest School,Belforest School,,30.59741,-87.83555,S,SCH,US,,AL,003,,,0,45,49,America/Chicago,2006-01-15
+4047198,Brighton,Brighton,"Brajton,Brighton,Woodward Crossing,Брайтон",33.43428,-86.94721,P,PPL,US,,AL,073,,,2862,155,161,America/Chicago,2017-03-09
+4047199,Belgreen,Belgreen,"Bel Green,Belgreen,Bell Green,Belle Green",34.47482,-87.86642,P,PPL,US,,AL,059,,,129,246,248,America/Chicago,2011-05-14
+4047200,Braggs,Braggs,,32.05042,-86.79554,P,PPL,US,,AL,085,,,0,87,88,America/Chicago,2006-01-15
+4047201,Belgreen Cemetery,Belgreen Cemetery,"Belgreen Cemetery,New Belgreen Cemetery",34.48065,-87.86365,S,CMTY,US,,AL,059,,,0,257,262,America/Chicago,2010-02-14
+4047202,Bear Creek,Bear Creek,,30.27215,-87.7136,H,INLT,US,,AL,003,,,0,2,11,America/Chicago,2006-01-15
+4047203,Belgreen High School,Belgreen High School,,34.47454,-87.86531,S,SCH,US,,AL,059,,,0,246,246,America/Chicago,2010-02-14
+4047204,Akron,Akron,"Acorn,Akron,Акрон",32.87652,-87.74251,P,PPL,US,,AL,065,,,337,40,41,America/Chicago,2017-03-09
+4047205,Belgreen Spring Branch,Belgreen Spring Branch,,34.53648,-88.04698,H,STM,US,,AL,059,,,0,158,158,America/Chicago,2006-01-15
+4047206,Barnes,Barnes,"Barnes,Barnes Cross Roads,Barnes Crossroads,Burns",31.54267,-85.67438,P,PPL,US,,AL,045,,,0,151,158,America/Chicago,2006-01-15
+4047207,Belcher Gap,Belcher Gap,,34.20982,-86.00108,T,GAP,US,,AL,049,,,0,348,347,America/Chicago,2006-01-15
+4047208,Ashford Post Office,Ashford Post Office,,31.18624,-85.23537,S,PO,US,,AL,069,,,0,76,81,America/Chicago,2016-12-06
+4047209,Belk Junior High School,Belk Junior High School,,33.64094,-87.9328,S,SCH,US,,AL,057,,,0,104,109,America/Chicago,2006-01-15
+4047210,Bailey Brook,Bailey Brook,,33.33233,-86.83971,H,STM,US,,AL,117,,,0,116,131,America/Chicago,2006-01-15
+4047211,Belk Post Office,Belk Post Office,,33.64761,-87.93141,S,PO,US,,AL,057,,,0,97,95,America/Chicago,2010-02-14
+4047212,Bluff,Bluff,,33.82066,-87.90641,P,PPL,US,,AL,057,,,0,150,152,America/Chicago,2010-02-14
+4047213,Belknap,Belknap,,32.20625,-87.01388,P,PPL,US,,AL,047,,,0,47,52,America/Chicago,2006-01-15
+4047214,Bee Ridge,Bee Ridge,,33.29234,-86.93332,T,RDGE,US,,AL,073,,,0,181,191,America/Chicago,2006-01-15
+4047215,Bell,Bell,,33.33901,-87.96058,P,PPL,US,,AL,107,,,0,98,104,America/Chicago,2010-02-14
+4047216,Bear Creek Cemetery,Bear Creek Cemetery,,33.37261,-85.40384,S,CMTY,US,,AL,111,,,0,325,326,America/Chicago,2010-02-19
+4047217,Bell (historical),Bell (historical),,34.5287,-86.50332,S,,US,,AL,089,,,0,175,174,America/Chicago,2010-02-14
+4047218,Beaver Pond,Beaver Pond,,31.2554,-86.12153,H,LK,US,,AL,031,,,0,44,50,America/Chicago,2011-12-11
+4047219,Bell Baptist Church,Bell Baptist Church,,32.6118,-85.49856,S,CH,US,,AL,081,,,0,209,221,America/Chicago,2006-01-15
+4047220,Blue Spring,Blue Spring,,34.67317,-86.13976,H,SPNG,US,,AL,071,,,0,185,186,America/Chicago,2011-12-11
+4047221,Bell Bluff,Bell Bluff,,34.5587,-86.63555,T,CLF,US,,AL,089,,,0,172,177,America/Chicago,2006-01-15
+4047222,Bethel,Bethel,"Bethel,Manti",31.70071,-86.91415,P,PPL,US,,AL,035,,,0,115,122,America/Chicago,2010-02-14
+4047223,Bell Branch,Bell Branch,,31.54544,-86.46552,H,STM,US,,AL,041,,,0,63,80,America/Chicago,2006-01-15
+4047224,Bethel Church,Bethel Church,,32.20515,-85.18994,S,CH,US,,AL,113,,,0,91,97,America/Chicago,2006-01-15
+4047225,Belk,Belk,"Belk,Mulberry Tank Junction",33.64761,-87.93141,P,PPL,US,,AL,057,,,210,97,95,America/Chicago,2017-03-09
+4047226,Gaston Bar,Gaston Bar,,32.42625,-86.82582,T,BAR,US,,AL,047,,,0,27,34,America/Chicago,2010-09-05
+4047227,Bell Branch,Bell Branch,,30.53325,-88.36334,H,STM,US,,AL,097,,,0,11,21,America/Chicago,2006-01-15
+4047228,Devaney Cemetery,Devaney Cemetery,,34.52315,-87.72475,S,CMTY,US,,AL,059,,,0,261,266,America/Chicago,2006-01-15
+4047229,Bell Branch,Bell Branch,,33.43373,-88.26198,H,STM,US,,AL,107,,,0,82,87,America/Chicago,2006-01-15
+4047230,Cherokee Memory Gardens,Cherokee Memory Gardens,,34.13093,-85.66607,S,CMTY,US,,AL,019,,,0,189,189,America/Chicago,2006-01-15
+4047231,Bell Brewer Cemetery,Bell Brewer Cemetery,,31.78155,-87.96667,S,CMTY,US,,AL,025,,,0,33,40,America/Chicago,2006-01-15
+4047232,Bussey Lake Dam,Bussey Lake Dam,,32.42681,-84.9866,S,DAM,US,,AL,113,,,0,69,73,America/New_York,2010-02-14
+4047233,Bell Cemeteries,Bell Cemeteries,,32.38292,-87.36139,S,CMTY,US,,AL,047,,,0,50,53,America/Chicago,2006-01-15
+4047234,Bruce Pond Number Three,Bruce Pond Number Three,,32.49847,-85.35828,H,RSV,US,,AL,081,,,0,152,156,America/Chicago,2006-01-15
+4047235,Bell Cemetery,Bell Cemetery,,32.10348,-86.27719,S,CMTY,US,,AL,101,,,0,99,104,America/Chicago,2006-01-15
+4047236,Buffalo,Buffalo,,31.40294,-86.01689,S,,US,,AL,031,,,0,116,124,America/Chicago,2010-02-14
+4047237,Bell Cemetery,Bell Cemetery,,33.50678,-88.07753,S,CMTY,US,,AL,107,,,0,111,108,America/Chicago,2010-02-14
+4047238,Cedar Grove Cemetery,Cedar Grove Cemetery,,33.24011,-86.85388,S,CMTY,US,,AL,117,,,0,135,137,America/Chicago,2006-01-15
+4047239,Bell Cemetery,Bell Cemetery,,32.69791,-88.26086,S,CMTY,US,,AL,119,,,0,71,73,America/Chicago,2010-02-14
+4047240,C E Boyd Dam,C E Boyd Dam,,32.65347,-88.25503,S,DAM,US,,AL,119,,,0,60,59,America/Chicago,2006-01-15
+4047241,Bell Cemetery,Bell Cemetery,,32.0232,-87.28249,S,CMTY,US,,AL,131,,,0,85,89,America/Chicago,2006-01-15
+4047242,Capital City Boys Club,Capital City Boys Club,,32.36264,-86.34136,S,BLDG,US,,AL,101,,,0,50,50,America/Chicago,2006-01-15
+4047243,Bell Chapel Cemetery,Bell Chapel Cemetery,,32.86124,-85.34828,S,CMTY,US,,AL,017,,,0,242,242,America/Chicago,2010-02-14
+4047244,Crossroad,Crossroad,,34.50564,-86.05026,P,PPL,US,,AL,071,,,0,362,356,America/Chicago,2010-02-14
+4047245,Bell Church,Bell Church,"Bell Church,Belle Church",34.63065,-87.05307,S,CH,US,,AL,103,,,0,180,186,America/Chicago,2006-01-15
+4047246,Comer Field,Comer Field,,31.45267,-85.62772,L,PRK,US,,AL,045,,,0,113,125,America/Chicago,2006-01-15
+4047247,Bell City (historical),Bell City (historical),,33.39345,-87.60667,S,,US,,AL,125,,,0,82,81,America/Chicago,2010-02-14
+4047248,Chriswood Golf Course,Chriswood Golf Course,,34.8059,-86.85554,S,RECG,US,,AL,083,,,0,226,230,America/Chicago,2013-03-07
+4047249,Bell Creek,Bell Creek,,31.1399,-87.48721,H,STM,US,,AL,053,,,0,60,71,America/Chicago,2006-01-15
+4047250,Churntown,Churntown,,34.40287,-87.66531,P,PPL,US,,AL,059,,,0,320,321,America/Chicago,2006-01-15
+4047251,Bell Building,Bell Building,,33.48233,-86.90749,S,BLDG,US,,AL,073,,,0,195,200,America/Chicago,2006-01-15
+4047252,Cowpens,Cowpens,,33.0354,-85.82274,P,PPL,US,,AL,123,,,0,264,265,America/Chicago,2006-01-15
+4047253,Bell Creek,Bell Creek,,31.16934,-85.78493,H,STM,US,,AL,061,,,0,30,44,America/Chicago,2010-02-14
+4047254,County Line Church,County Line Church,,33.19512,-85.75163,S,CH,US,,AL,027,,,0,306,306,America/Chicago,2006-01-15
+4047255,Bell Creek,Bell Creek,,34.35621,-87.0714,H,STM,US,,AL,103,,,0,183,190,America/Chicago,2006-01-15
+4047256,Courtland High School,Courtland High School,,34.66731,-87.30252,S,SCH,US,,AL,079,,,0,173,174,America/Chicago,2006-01-15
+4047257,Bell Dam,Bell Dam,,33.67344,-85.55662,S,DAM,US,,AL,029,,,0,286,292,America/Chicago,2006-01-15
+4047258,Gardner Hill,Gardner Hill,"Gardner Hill,Jim Gardner Hill",33.68038,-85.79108,T,MT,US,,AL,015,,,0,393,382,America/Chicago,2010-02-14
+4047259,Bell Ford Bar,Bell Ford Bar,,33.23207,-88.27837,T,BAR,US,,AL,107,,,0,41,42,America/Chicago,2006-01-15
+4047260,Elmore Post Office,Elmore Post Office,,32.54079,-86.31533,S,PO,US,,AL,051,,,0,61,66,America/Chicago,2016-12-06
+4047261,Bell Hill,Bell Hill,,34.60954,-86.57277,T,MT,US,,AL,089,,,0,284,280,America/Chicago,2006-01-15
+4047262,Dry Cemetery,Dry Cemetery,,31.89265,-86.39747,S,CMTY,US,,AL,041,,,0,153,159,America/Chicago,2006-01-15
+4047263,Bell Island,Bell Island,,33.42233,-86.33887,T,ISL,US,,AL,115,,,0,120,129,America/Chicago,2010-02-14
+4047264,Doliska,Doliska,"Doliska,Doliska Station",33.71177,-87.10111,P,PPL,US,,AL,127,,,0,106,117,America/Chicago,2006-01-15
+4047265,Bell Lake,Bell Lake,,33.17668,-85.35107,H,LK,US,,AL,111,,,0,239,242,America/Chicago,2011-12-11
+4047266,Doolans,Doolans,"Dolans,Doolans",34.17621,-86.19859,P,PPL,US,,AL,055,,,0,289,295,America/Chicago,2010-02-14
+4047267,Bell Lake,Bell Lake,"Bell Lake,Rogers Lake",32.96034,-88.20602,H,RSV,US,,AL,119,,,0,36,40,America/Chicago,2011-12-11
+4047268,Ellis Wise Dam,Ellis Wise Dam,,31.2685,-86.02661,S,DAM,US,,AL,031,,,0,72,81,America/Chicago,2010-02-14
+4047269,Bell Lake,Bell Lake,,33.2753,-87.55803,H,RSV,US,,AL,125,,,0,82,90,America/Chicago,2011-12-11
+4047270,Eastside Mine,Eastside Mine,,33.8251,-87.05556,S,MN,US,,AL,127,,,0,118,133,America/Chicago,2010-02-14
+4047271,Bell Lane Baptist Church,Bell Lane Baptist Church,"Bell Lane Baptist Church,Bell Lane Church",32.88429,-86.62609,S,CH,US,,AL,021,,,0,207,206,America/Chicago,2006-01-15
+4047272,Eliska,Eliska,,31.35267,-87.68305,P,PPL,US,,AL,099,,,0,44,45,America/Chicago,2006-01-15
+4047273,Bell Lane Cemetery,Bell Lane Cemetery,,32.88429,-86.62665,S,CMTY,US,,AL,021,,,0,207,207,America/Chicago,2006-01-15
+4047274,Foster Mine,Foster Mine,,33.40595,-85.59496,S,MN,US,,AL,111,,,0,262,264,America/Chicago,2010-02-14
+4047275,Bell Meadows,Bell Meadows,,32.34125,-86.19719,P,PPLX,US,,AL,101,,,0,78,84,America/Chicago,2007-02-14
+4047276,First Church,First Church,,34.72092,-86.58805,S,CH,US,,AL,089,,,0,189,191,America/Chicago,2006-01-15
+4047277,Bell Mills,Bell Mills,"Bell Mills,Bells Mill",33.6165,-85.47468,P,PPL,US,,AL,029,,,0,262,266,America/Chicago,2006-01-15
+4047278,Enon School (historical),Enon School (historical),,34.30426,-86.78389,S,SCH,US,,AL,043,,,0,317,325,America/Chicago,2010-02-19
+4047279,Belmount Methodist Church,Belmount Methodist Church,"Bell Mount Church,Belmont Church,Belmount Methodist Church",31.90487,-88.41503,S,CH,US,,AL,023,,,0,67,75,America/Chicago,2010-09-05
+4047280,Faith Church,Faith Church,,33.9626,-85.5569,S,CH,US,,AL,019,,,0,209,217,America/Chicago,2010-02-19
+4047281,Bell Park,Bell Park,,32.46847,-86.47747,L,PRK,US,,AL,001,,,0,63,64,America/Chicago,2006-01-15
+4047282,Fort McDermott,Fort McDermott,,30.67075,-87.91722,P,PPL,US,,AL,003,,,0,39,42,America/Chicago,2006-01-15
+4047283,Bell Plaza Shopping Center,Bell Plaza Shopping Center,,32.38264,-86.19108,S,MALL,US,,AL,101,,,0,67,68,America/Chicago,2006-01-15
+4047284,Flat Branch,Flat Branch,,31.26156,-87.76666,H,INLT,US,,AL,003,,,0,5,16,America/Chicago,2006-01-15
+4047285,Bell Point,Bell Point,,34.52398,-86.60888,T,MT,US,,AL,103,,,0,387,383,America/Chicago,2006-01-15
+4047286,Flowers Cemetery,Flowers Cemetery,,31.66961,-85.78883,S,CMTY,US,,AL,109,,,0,128,125,America/Chicago,2010-02-14
+4047287,Bell Quarter Hill,Bell Quarter Hill,,34.77676,-88.02893,T,MT,US,,AL,033,,,0,214,216,America/Chicago,2010-02-14
+4047288,Revelation Church,Revelation Church,,33.85316,-86.65971,S,CH,US,,AL,009,,,0,165,178,America/Chicago,2006-01-15
+4047289,Bell Rattle Cemetery,Bell Rattle Cemetery,,32.98151,-86.26442,S,CMTY,US,,AL,037,,,0,232,242,America/Chicago,2010-02-14
+4047290,McVay,McVay,,31.60683,-87.89556,P,PPL,US,,AL,025,,,0,130,131,America/Chicago,2010-09-05
+4047291,Bell School,Bell School,"Bell School,Bell-Gilmore Vocational School,Eddie H Gilmore Western Area Vocational School,W A Bell High School,W A Bell Junior High School",33.399,-87.00555,S,SCH,US,,AL,073,,,0,148,155,America/Chicago,2006-01-15
+4047292,Johns,Johns,,33.36178,-87.10972,P,PPL,US,,AL,073,,,0,144,146,America/Chicago,2006-01-15
+4047293,Bell School (historical),Bell School (historical),,34.39426,-85.65413,S,SCH,US,,AL,049,,,0,414,417,America/Chicago,2006-01-15
+4047294,Hobdy,Hobdy,,31.81516,-85.53161,P,PPL,US,,AL,005,,,0,164,170,America/Chicago,2006-01-15
+4047295,Bell School (historical),Bell School (historical),,31.07129,-85.6191,S,SCH,US,,AL,061,,,0,71,81,America/Chicago,2010-02-14
+4047296,Harmon,Harmon,,33.03207,-87.27333,P,PPL,US,,AL,007,,,0,98,99,America/Chicago,2006-01-15
+4047297,Bell Sink,Bell Sink,,34.81842,-87.85114,H,SWMP,US,,AL,077,,,0,146,147,America/Chicago,2006-01-15
+4047298,Goodyear Dam,Goodyear Dam,,34.0151,-85.98497,S,DAM,US,,AL,055,,,0,163,165,America/Chicago,2010-02-14
+4047299,Bell Sink Pond,Bell Sink Pond,"Ann Pond,Bell Sink Pond",34.82242,-87.8464,H,LK,US,,AL,077,,,0,146,152,America/Chicago,2011-12-11
+4047300,Gray Dam,Gray Dam,,33.47844,-85.52996,S,DAM,US,,AL,111,,,0,348,348,America/Chicago,2006-01-15
+4047301,Bell Spring,Bell Spring,,34.88744,-85.99595,H,SPNG,US,,AL,071,,,0,194,197,America/Chicago,2011-12-11
+4047302,Higdon Cemetery,Higdon Cemetery,,34.32871,-86.91556,S,CMTY,US,,AL,103,,,0,181,190,America/Chicago,2010-02-14
+4047303,Bell Spring,Bell Spring,,34.31899,-86.91612,H,SPNG,US,,AL,103,,,0,249,269,America/Chicago,2010-02-14
+4047304,Henley Cemetery,Henley Cemetery,,31.79127,-87.74361,S,CMTY,US,,AL,025,,,0,108,105,America/Chicago,2006-01-15
+4047305,Bell Springs,Bell Springs,"Bell Springs,Powell",34.31732,-86.91528,P,PPL,US,,AL,103,,,0,272,271,America/Chicago,2010-02-14
+4047306,Heritage Heights,Heritage Heights,,31.331,-85.79633,P,PPLX,US,,AL,031,,,0,105,109,America/Chicago,2007-02-14
+4047307,Bell Springs Cemetery,Bell Springs Cemetery,"Bell Springs Cemetery,Wilhite Station Cemetery",34.31843,-86.90889,S,CMTY,US,,AL,103,,,0,281,274,America/Chicago,2010-02-14
+4047308,Jackson Springs (historical),Jackson Springs (historical),,31.5085,-87.87722,S,,US,,AL,025,,,0,17,28,America/Chicago,2010-02-14
+4047309,Bell Station,Bell Station,,32.33014,-86.19385,P,PPL,US,,AL,101,,,0,76,80,America/Chicago,2006-01-15
+4047310,Hurricane Cemetery,Hurricane Cemetery,,31.07851,-85.65466,S,CMTY,US,,AL,061,,,0,66,71,America/Chicago,2006-01-15
+4047311,Bell Station (historical),Bell Station (historical),,32.47903,-88.38837,S,,US,,AL,119,,,0,61,65,America/Chicago,2013-03-07
+4047312,Horse Creek,Horse Creek,"Horse Creek,Horse Rock Creek",33.80233,-87.38473,H,STM,US,,AL,127,,,0,91,103,America/Chicago,2006-01-15
+4047313,Bell Store,Bell Store,,34.88786,-85.99248,S,,US,,AL,071,,,0,199,197,America/Chicago,2010-02-14
+4047314,Host,Host,"Burnout,Host,Host Crossroads",31.491,-86.26718,S,,US,,AL,041,,,0,139,148,America/Chicago,2010-02-14
+4047315,Bell Street Baptist Church Number One,Bell Street Baptist Church Number One,,32.37153,-86.32497,S,CH,US,,AL,101,,,0,75,76,America/Chicago,2007-02-14
+4047316,Jackson Ford,Jackson Ford,,34.84342,-87.7342,R,RDJCT,US,,AL,077,,,0,144,152,America/Chicago,2010-02-14
+4047317,Bell Street Baptist Church Number Two,Bell Street Baptist Church Number Two,,32.37097,-86.32858,S,CH,US,,AL,101,,,0,77,80,America/Chicago,2007-02-14
+4047318,Indigo,Indigo,,31.36128,-85.83272,P,PPLX,US,,AL,031,,,0,103,113,America/Chicago,2007-02-14
+4047319,Bell-Merrill,Bell-Merrill,,31.2124,-85.4116,P,PPL,US,,AL,069,,,0,89,93,America/Chicago,2006-01-15
+4047320,Isle Dauphin Country Club,Isle Dauphin Country Club,,30.24465,-88.10278,S,RSRT,US,,AL,097,,,0,3,6,America/Chicago,2010-02-14
+4047321,Bellamy,Bellamy,,32.44903,-88.13363,P,PPL,US,,AL,119,,,543,34,37,America/Chicago,2011-05-14
+4047322,McLellan Mine,McLellan Mine,,33.33011,-85.88496,S,MN,US,,AL,027,,,0,387,402,America/Chicago,2006-01-15
+4047323,Bellamy Branch,Bellamy Branch,"Bellamy Branch,Bellamy Creek",32.38292,-85.19994,H,STM,US,,AL,113,,,0,87,107,America/Chicago,2006-01-15
+4047324,Lewis Lawson Dam,Lewis Lawson Dam,,32.60013,-87.73334,S,DAM,US,,AL,065,,,0,29,28,America/Chicago,2006-01-15
+4047325,Bell Factory,Bell Factory,"Bell Factory,Bell Factory Station",34.82398,-86.47388,P,PPL,US,,AL,089,,,0,214,212,America/Chicago,2006-01-15
+4047326,Kincaid Mine,Kincaid Mine,,33.56677,-86.55221,S,MN,US,,AL,073,,,0,232,237,America/Chicago,2006-01-15
+4047327,Bellamy Post Office,Bellamy Post Office,,32.44931,-88.13474,S,PO,US,,AL,119,,,0,35,38,America/Chicago,2010-02-14
+4047328,Jones Lake,Jones Lake,,33.09395,-87.16967,H,RSV,US,,AL,007,,,0,106,104,America/Chicago,2011-12-11
+4047329,Bellas Hess Shopping Center,Bellas Hess Shopping Center,,32.32847,-86.32386,S,MALL,US,,AL,101,,,0,54,57,America/Chicago,2006-01-15
+4047330,Key,Key,,34.1026,-85.5344,P,PPL,US,,AL,019,,,0,195,196,America/Chicago,2010-02-14
+4047331,Belle Chene,Belle Chene,,30.63825,-88.14361,P,PPLX,US,,AL,097,,,0,25,37,America/Chicago,2010-02-14
+4047332,Lane Cemetery,Lane Cemetery,,34.83176,-87.97309,S,CMTY,US,,AL,033,,,0,174,182,America/Chicago,2006-01-15
+4047333,Belle Creek,Belle Creek,,33.59178,-87.74585,H,STM,US,,AL,057,,,0,96,106,America/Chicago,2010-02-14
+4047334,Kingdom School,Kingdom School,,33.15845,-86.5572,S,SCH,US,,AL,117,,,0,140,151,America/Chicago,2006-01-15
+4047335,Bellamy Church,Bellamy Church,,32.45542,-88.12224,S,CH,US,,AL,119,,,0,27,32,America/Chicago,2010-02-14
+4047336,Lamar,Lamar,,33.39678,-85.39523,P,PPL,US,,AL,111,,,0,293,299,America/Chicago,2010-02-14
+4047337,Belle Ellen Baptist Church (historical),Belle Ellen Baptist Church (historical),,33.12706,-87.06333,S,CH,US,,AL,007,,,0,154,154,America/Chicago,2007-02-14
+4047338,Masons Mill (historical),Masons Mill (historical),,33.0104,-86.74499,S,,US,,AL,043,,,0,190,189,America/Chicago,2010-02-14
+4047339,Belle Haven,Belle Haven,,33.46094,-86.8886,P,PPL,US,,AL,073,,,0,162,167,America/Chicago,2006-01-15
+4047340,Log Shoals,Log Shoals,,33.08623,-87.61862,T,BAR,US,,AL,125,,,0,29,37,America/Chicago,2006-01-15
+4047341,Belle Landing (historical),Belle Landing (historical),"Bell Landing,Belle Landing (historical),Bells Landing",31.79682,-87.42166,S,,US,,AL,099,,,0,15,16,America/Chicago,2010-02-14
+4047342,Lexington Bar,Lexington Bar,,32.16125,-87.24638,T,BAR,US,,AL,047,,,0,24,27,America/Chicago,2006-01-15
+4047343,Belle Mina,Belle Mina,"Bella Mina,Belle Mina,Bellemina,bei li mi na,bl myna,bl myna  alabama,بل مینا,بل مینا، آلاباما,ベル・ミナ,貝里米納",34.65676,-86.87917,P,PPL,US,,AL,083,,,0,183,186,America/Chicago,2006-01-15
+4047344,Littles Bar,Littles Bar,,32.94513,-88.18031,T,BAR,US,,AL,063,,,0,33,36,America/Chicago,2006-01-15
+4047345,Belle Mina Methodist Church,Belle Mina Methodist Church,,34.65231,-86.87889,S,CH,US,,AL,083,,,0,186,190,America/Chicago,2006-01-15
+4047346,Maples Lake Dam,Maples Lake Dam,,30.90852,-88.075,S,DAM,US,,AL,097,,,0,33,41,America/Chicago,2010-02-14
+4047347,Belle Mont,Belle Mont,"Belle Mont,Thornton Plantation",34.66198,-87.66707,S,HSE,US,,AL,033,,,0,172,172,America/Chicago,2017-03-16
+4047348,Lumbull,Lumbull,"Bull,Lumbull",34.25315,-87.73142,P,PPL,US,,AL,093,,,0,282,281,America/Chicago,2010-02-14
+4047349,Belle Rose (historical),Belle Rose (historical),"Belle Rose (historical),Belrose",30.62658,-87.91833,S,,US,,AL,003,,,0,1,12,America/Chicago,2010-02-14
+4047350,Macedonia Baptist Church,Macedonia Baptist Church,"Macedonia Baptist Church,Macedonia Church",33.50206,-87.73196,S,CH,US,,AL,125,,,0,160,167,America/Chicago,2010-02-14
+4047351,Belle School (historical),Belle School (historical),,31.14323,-86.36134,S,SCH,US,,AL,039,,,0,68,70,America/Chicago,2006-01-15
+4047352,Red Bud Mine,Red Bud Mine,,33.69455,-87.26389,S,MN,US,,AL,127,,,0,160,147,America/Chicago,2006-01-15
+4047353,Belle Terre,Belle Terre,,33.40844,-86.83249,P,PPLX,US,,AL,073,,,0,278,283,America/Chicago,2007-02-14
+4047354,Old Sparta,Old Sparta,"Old Sparta,Sparta",31.36295,-86.98719,P,PPL,US,,AL,035,,,0,76,79,America/Chicago,2006-01-15
+4047355,Belle Vista,Belle Vista,"Bella Vista,Belle Vista",33.3765,-86.32692,P,PPL,US,,AL,121,,,0,133,142,America/Chicago,2010-02-14
+4047356,Murchison Cemetery,Murchison Cemetery,,32.78679,-86.25775,S,CMTY,US,,AL,037,,,0,154,160,America/Chicago,2010-02-14
+4047357,Bellefontaine,Bellefontaine,"Bel Fonten,Bel'-Fonten,Belle Fontaine,Bellefontaine,Bellefountaine,bei er fang dan,bl fwntayn  alabama,bl fwntyn  alabama,byl fwntayn,Бел Фонтен,Бель-Фонтен,بل فونتاین، آلاباما,بل فونتین، آلاباما,بيل فونتاين,貝爾方丹",30.49353,-88.10361,P,PPL,US,,AL,097,,,608,2,8,America/Chicago,2011-05-14
+4047358,Mobley Dam,Mobley Dam,,34.3201,-88.0167,S,DAM,US,,AL,059,,,0,153,158,America/Chicago,2006-01-15
+4047359,Bellefontaine Church,Bellefontaine Church,,30.44659,-88.11611,S,CH,US,,AL,097,,,0,6,9,America/Chicago,2006-01-15
+4047360,Miller Steam Plant Ash Pond Dam,Miller Steam Plant Ash Pond Dam,,33.60677,-87.06333,S,DAM,US,,AL,073,,,0,91,105,America/Chicago,2006-01-15
+4047361,Bellefontaine Creek,Bellefontaine Creek,,30.59047,-87.51248,H,STM,US,,AL,003,,,0,5,14,America/Chicago,2006-01-15
+4047362,Mize Cemetery,Mize Cemetery,"Mize Cemetery,Mize-Wadkins Cemetery",31.03657,-87.25914,S,CMTY,US,,AL,053,,,0,74,75,America/Chicago,2006-01-15
+4047363,Belle Ellen,Belle Ellen,,33.12456,-87.05722,P,PPL,US,,AL,007,,,0,103,111,America/Chicago,2006-01-15
+4047364,Mulligan Gap,Mulligan Gap,,34.39176,-87.28057,T,GAP,US,,AL,079,,,0,243,260,America/Chicago,2006-01-15
+4047365,Bellefonte,Bellefonte,"Beleefonte,Bellefonte",34.71119,-85.94526,P,PPL,US,,AL,071,,,0,197,195,America/Chicago,2010-02-14
+4047366,Mount Andrew Cemetery,Mount Andrew Cemetery,,31.93459,-87.535,S,CMTY,US,,AL,131,,,0,80,81,America/Chicago,2006-01-15
+4047367,Bellefonte Bar,Bellefonte Bar,,34.69119,-85.92359,T,BAR,US,,AL,071,,,0,181,180,America/Chicago,2006-01-15
+4047368,Mount Pleasant Cemetery,Mount Pleasant Cemetery,,32.34764,-85.8019,S,CMTY,US,,AL,087,,,0,98,105,America/Chicago,2010-02-14
+4047369,Bellefonte Cemetery,Bellefonte Cemetery,,34.71258,-85.9472,S,CMTY,US,,AL,071,,,0,183,184,America/Chicago,2006-01-15
+4047370,Old Maddox Mine,Old Maddox Mine,,32.87846,-86.53248,S,MN,US,,AL,021,,,0,187,191,America/Chicago,2006-01-15
+4047371,Bellefonte Depot (historical),Bellefonte Depot (historical),,34.74231,-85.95692,S,,US,,AL,071,,,0,202,205,America/Chicago,2010-02-14
+4047372,New Zion Baptist Church,New Zion Baptist Church,,32.85013,-85.23717,S,CH,US,,AL,017,,,0,216,219,America/Chicago,2006-01-15
+4047373,Bellefonte Island,Bellefonte Island,"Bellefonte Island,Caldwell Island",34.71897,-85.89692,T,ISL,US,,AL,071,,,0,182,190,America/Chicago,2010-02-14
+4047374,Northwest Alabama Regional Airport,Northwest Alabama Regional Airport,"Aeroportul Regional Northwest Alabama,KMSL,MSL,Muscle Shoals Airport,Muscle Shoals Regional Airport,Northwest Alabama Regional Airport,Northwest Alabama de yu kong gang,Northwest Alabama地域空港,a la ba ma xi bei de fang ji chang,aerodrome de Northwest Alabama Rgnl,aérodrome de Northwest Alabama Rgnl,mtar shmal ghrb alabama alaqlymy,فرودگاه منطقه‌ای نورث‌وست آلاباما,مطار شمال غرب الاباما الاقليمى,阿拉巴馬西北地方機場",34.74509,-87.61003,S,AIRP,US,,AL,033,,,0,165,163,America/Chicago,2017-08-07
+4047375,Bellefonte Landing (historical),Bellefonte Landing (historical),,34.69592,-85.92331,S,,US,,AL,071,,,0,181,186,America/Chicago,2010-02-14
+4047376,New Hope,New Hope,,34.31537,-86.8625,P,PPL,US,,AL,103,,,0,305,304,America/Chicago,2010-02-19
+4047377,Bellehurst,Bellehurst,,32.38014,-86.23747,P,PPLX,US,,AL,101,,,0,88,95,America/Chicago,2007-02-14
+4047378,Oaks Chapel,Oaks Chapel,"Oaks Chapel,Oaks Chapel Church",33.13178,-85.99524,S,CH,US,,AL,027,,,0,287,287,America/Chicago,2007-02-14
+4047379,Bellemeade,Bellemeade,"Bellemeade,Belmeade",34.84786,-87.59503,P,PPL,US,,AL,077,,,0,189,189,America/Chicago,2006-01-15
+4047380,Nitrate City,Nitrate City,,34.75731,-87.55975,P,PPL,US,,AL,033,,,0,174,171,America/Chicago,2006-01-15
+4047381,Bellemeade,Bellemeade,,34.75759,-86.57055,P,PPLX,US,,AL,089,,,0,219,220,America/Chicago,2007-02-14
+4047382,Noel Cemetery,Noel Cemetery,,30.63991,-88.18806,S,CMTY,US,,AL,097,,,0,56,60,America/Chicago,2010-02-14
+4047383,Bellemeade,Bellemeade,,32.29875,-86.25024,P,PPLX,US,,AL,101,,,0,64,66,America/Chicago,2007-02-14
+4047384,Randolph Post Office,Randolph Post Office,,32.89929,-86.91249,S,PO,US,,AL,007,,,0,170,175,America/Chicago,2006-01-15
+4047385,Belleview (historical),Belleview (historical),"Belleview (historical),Bellevue",34.8112,-87.40974,P,PPLQ,US,,AL,077,,,0,155,157,America/Chicago,2011-12-11
+4047386,Piney Ridge Church,Piney Ridge Church,,34.03677,-87.21751,S,CH,US,,AL,133,,,0,228,231,America/Chicago,2006-01-15
+4047387,Belleview Cemetery,Belleview Cemetery,,34.80592,-86.4611,S,CMTY,US,,AL,089,,,0,223,222,America/Chicago,2006-01-15
+4047388,Pane (historical),Pane (historical),,34.58065,-87.57919,P,PPLQ,US,,AL,033,,,0,194,197,America/Chicago,2011-12-11
+4047389,Belleview Plantation (historical),Belleview Plantation (historical),,33.45289,-86.05691,S,,US,,AL,121,,,0,188,186,America/Chicago,2010-02-14
+4047390,Osco,Osco,,31.87711,-85.23577,P,PPL,US,,AL,005,,,0,133,144,America/Chicago,2006-01-15
+4047391,Belleview School (historical),Belleview School (historical),,32.9404,-87.82557,S,SCH,US,,AL,063,,,0,65,77,America/Chicago,2010-02-14
+4047392,Oxford Middle School,Oxford Middle School,,33.59455,-85.8683,S,SCH,US,,AL,015,,,0,193,194,America/Chicago,2006-01-15
+4047393,Belleview United Methodist Church,Belleview United Methodist Church,,34.03732,-86.01164,S,CH,US,,AL,055,,,0,273,273,America/Chicago,2010-02-14
+4047394,Piney Grove Cemetery,Piney Grove Cemetery,,34.92953,-87.64919,S,CMTY,US,,AL,077,,,0,201,205,America/Chicago,2006-01-15
+4047395,Belleville,Belleville,"Belleville,Bellville,The Ponds",31.42989,-87.10914,P,PPL,US,,AL,035,,,0,133,137,America/Chicago,2006-01-15
+4047396,Payneville,Payneville,,32.61347,-88.3467,P,PPL,US,,AL,119,,,0,58,64,America/Chicago,2006-01-15
+4047397,Belleville Cemetery,Belleville Cemetery,,31.43572,-87.10664,S,CMTY,US,,AL,035,,,0,122,126,America/Chicago,2006-01-15
+4047398,Penn,Penn,,34.35621,-87.08334,P,PPL,US,,AL,103,,,0,192,192,America/Chicago,2006-01-15
+4047399,Belleville Church,Belleville Church,,31.43544,-87.10692,S,CH,US,,AL,035,,,0,120,126,America/Chicago,2006-01-15
+4047400,Radford,Radford,"Radford,Radfordsville,Radfordville,Richardson Store",32.5893,-87.2,P,PPL,US,,AL,105,,,0,49,48,America/Chicago,2006-01-15
+4047401,Belleville Church,Belleville Church,,31.42933,-87.11081,S,CH,US,,AL,035,,,0,128,136,America/Chicago,2010-02-14
+4047402,Pleasant View Church,Pleasant View Church,,32.59652,-85.23966,S,CH,US,,AL,081,,,0,211,219,America/Chicago,2006-01-15
+4047403,Belleville Church,Belleville Church,,31.43378,-87.10831,S,CH,US,,AL,035,,,0,119,130,America/Chicago,2006-01-15
+4047404,Plateau,Plateau,"AfricaTown USA,Africatown",30.73562,-88.06063,P,PPL,US,,AL,097,,,2000,10,14,America/Chicago,2024-04-16
+4047405,Belleville Elementary School (historical),Belleville Elementary School (historical),,31.42961,-87.10664,S,SCH,US,,AL,035,,,0,133,137,America/Chicago,2006-01-15
+4047406,Pleasant Hill,Pleasant Hill,"Pleasant Hill,Pleasant Vale",31.93015,-88.21446,P,PPL,US,,AL,023,,,0,90,99,America/Chicago,2010-02-14
+4047407,Belleville Fork Church,Belleville Fork Church,"Belleville Faulk Church,Belleville Fork Church",31.42961,-87.0922,S,CH,US,,AL,035,,,0,108,118,America/Chicago,2010-02-14
+4047408,Pumphouse Bend,Pumphouse Bend,,34.05538,-86.68805,H,STMB,US,,AL,043,,,0,172,168,America/Chicago,2010-02-14
+4047409,Belleville Lookout Tower,Belleville Lookout Tower,,31.45739,-87.10776,S,TOWR,US,,AL,035,,,0,126,139,America/Chicago,2006-01-15
+4047410,Polkville (historical),Polkville (historical),,33.7201,-85.96525,P,PPLQ,US,,AL,015,,,0,189,191,America/Chicago,2011-12-11
+4047411,Bellevue,Bellevue,,32.43764,-87.38028,P,PPL,US,,AL,047,,,0,52,52,America/Chicago,2006-01-15

@@ -53,21 +53,6 @@ def evaluate_model(model_path="cache/logistic_regression_model.pkl",
     print("\nClassification Report:")
     print(classification_report(y_test, y_pred))
     
-    # Create and save confusion matrix visualization
-    plt.figure(figsize=(10, 8))
-    cm = confusion_matrix(y_test, y_pred)
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
-    plt.xlabel('Predicted Labels')
-    plt.ylabel('True Labels')
-    plt.title('Confusion Matrix')
-    
-    # Create 'results' directory if it doesn't exist
-    if not os.path.exists('metrics'):
-        os.makedirs('metrics')
-        
-    plt.savefig('metrics/confusion_matrix.png')
-    print("Confusion matrix saved to 'metrics/confusion_matrix.png'")
-    
     # Return metrics as dictionary
     metrics = {
         'accuracy': accuracy,
@@ -77,5 +62,3 @@ def evaluate_model(model_path="cache/logistic_regression_model.pkl",
     }
     
     return metrics
-
-evaluate_model()

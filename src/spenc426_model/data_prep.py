@@ -1,11 +1,6 @@
 import pandas as pd
-import numpy as np
 from sklearn.cluster import KMeans
 import os
-# import torch
-# import torchvision.models as models
-# import torchvision.transforms as transforms
-# from PIL import Image
 
 def prepare_data(coords_file="cache/coords.csv", clusters=10, force_recreate=False):
     df = pd.read_csv(coords_file)

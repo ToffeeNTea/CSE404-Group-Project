@@ -4,7 +4,6 @@ sorted_by_state/
 test_training/
 *.jpg
 
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

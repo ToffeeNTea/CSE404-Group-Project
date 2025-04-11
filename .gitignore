@@ -1,5 +1,6 @@
 # Custom
 US.txt
+sorted_by_state/
 *.jpg
 
 
@@ -135,6 +136,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.fixedenv
 env/
 venv/
 ENV/

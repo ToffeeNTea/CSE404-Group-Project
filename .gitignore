@@ -1,6 +1,7 @@
 # Custom
 US.txt
 sorted_by_state/
+test_training/
 *.jpg
 
 
@@ -137,6 +138,7 @@ celerybeat.pid
 .env
 .venv
 .fixedenv
+.realenv
 env/
 venv/
 ENV/

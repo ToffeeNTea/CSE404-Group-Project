@@ -1,0 +1,19 @@
+We need to add regulariztion to reduce the overfitting of our model. We noticed a high, 50-70%, validation loss during the first trainig period. To lower this accuracy we are going
+to be experimenting with adding dropout.
+
+training_curve 1:
+    tf.keras.layers.Conv2D(filters=16, kernel_size=(3, 3), strides=(1, 1), activation='relu'),
+    tf.keras.layers.MaxPool2D(pool_size=(2,2), strides=None, padding='valid'),
+    tf.keras.layers.Conv2D(filters=32, kernel_size=(3, 3), strides=(1, 1), activation='relu', use_bias=True),
+    tf.keras.layers.MaxPool2D(pool_size=(2,2), strides=None, padding='valid'),
+    tf.keras.layers.Conv2D(filters=64, kernel_size=(3, 3), strides=(1, 1), activation='relu', use_bias=True),
+    tf.keras.layers.MaxPool2D(pool_size=(2,2), strides=None, padding='valid'),
+    tf.keras.layers.Flatten(),
+    tf.keras.layers.Dense(512, activation='relu'),
+    tf.keras.layers.Dropout(0.2),
+    tf.keras.layers.Dense(256, activation='relu'),
+    tf.keras.layers.Dropout(0.2),
+    tf.keras.layers.Dense(4, activation='softmax')
+
+training_curve 2:
+added image rescaling
